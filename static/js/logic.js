@@ -29,25 +29,31 @@ d3.json(geoData).then(function(data) {
     {
         let coordinates= [features[i].geometry.coordinates[1],features[i].geometry.coordinates[0]]
         // Set marker color based off Population Exposure Index (PEI)
-        if (features[i].properties.PEI==7)
+        if (features[i].properties.VEI_Holoce==7)
         {
             fillColorVar="#ff0000";
-        } else if(features[i].properties.PEI==6)
+        } else if(features[i].properties.VEI_Holoce==6)
         {
-            fillColorVar="#fb5600";
-        } else if(features[i].properties.PEI==5)
+            fillColorVar="#fd4900";
+        } else if(features[i].properties.VEI_Holoce==5)
         {
-            fillColorVar="#ee8200";
-        } else if(features[i].properties.PEI==4)
+            fillColorVar="#f66d00";
+        } else if(features[i].properties.VEI_Holoce==4)
+        {
+            fillColorVar="#e98b00";
+        } else if(features[i].properties.VEI_Holoce==3)
         {
             fillColorVar="#d7a700";
-        } else if(features[i].properties.PEI==3)
+        } else if(features[i].properties.VEI_Holoce==2)
         {
-            fillColorVar="#b6c700";
-        } else if(features[i].properties.PEI==2)
+            fillColorVar="#bfbf00";
+        } else if(features[i].properties.VEI_Holoce==1)
         {
-            fillColorVar="#86e400";
-        } else if(features[i].properties.PEI==1)
+            fillColorVar="#a0d600";
+        } else if(features[i].properties.VEI_Holoce==0)
+        {
+            fillColorVar="#76eb00";
+        } else if(features[i].properties.VEI_Holoce=='No confirmed eruptions')
         {
             fillColorVar="#00ff00";
         } else 
@@ -60,7 +66,7 @@ d3.json(geoData).then(function(data) {
         fillColor: fillColorVar,
         // This will make our marker's size proportionate to its magnitude.
        
-        radius: 100000
+        radius: features[i].properties.PEI*10000
         
         }).bindPopup(`<h1>${features[i].properties.V_Name} (ID: ${features[i].properties.VolcanoID})</h1> 
         <hr><h3>PEI: ${features[i].properties.PEI}</h3> <h3>VEI_Holoce: ${features[i].properties.VEI_Holoce}</h3> 
