@@ -66,7 +66,7 @@ d3.json(geoData).then(function(data) {
         fillColor: fillColorVar,
         // This will make our marker's size proportionate to its magnitude.
        
-        radius: features[i].properties.PEI*10000
+        radius: features[i].properties.PEI*7500
         
         }).bindPopup(`<h1>${features[i].properties.V_Name} (ID: ${features[i].properties.VolcanoID})</h1> 
         <hr><h3>PEI: ${features[i].properties.PEI}</h3> <h3>VEI_Holoce: ${features[i].properties.VEI_Holoce}</h3> 
