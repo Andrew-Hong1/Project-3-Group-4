@@ -9,3 +9,7 @@ https://kipdf.com/country-and-regional-profiles-of-volcanic-hazard-and-risk_5ad5
 Holocene Definition:
 The Holocene is the current geological epoch. It began approximately 9,700 years before the Common Era (BCE).
 https://en.wikipedia.org/wiki/Holocene
+
+Hazard Definition:
+A long-term volcano hazard assessment report is a publication that summarizes the types and likelihood of future hazardous phenomena expected to occur at a specific volcano or volcanic region. The report typically includes a summary of the specific hazards, their impact areas, and a map showing ground-hazard zones. The assessments are also critical for planning long-term land-use, and effective emergency-response measures, especially when a volcano begins to show signs of unrest.
+https://www.usgs.gov/programs/VHP/volcano-hazard-assessments-are-based-geologic-record
