@@ -11,7 +11,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 
 
 //Use the D3 library to read in samples.json from the URL:
-const geoData = "https://s3.us-east-1.amazonaws.com/hdx-production-filestore/resources/7234d067-2d74-449a-9c61-22ae6d98d928/volcano.json?AWSAccessKeyId=AKIAXYC32WNAS5V67V55&Signature=KBId3AoE7ESVk%2BWiHkR2f%2BnieNc%3D&Expires=1695692707";
+const geoData = "https://s3.us-east-1.amazonaws.com/hdx-production-filestore/resources/7234d067-2d74-449a-9c61-22ae6d98d928/volcano.json?AWSAccessKeyId=AKIAXYC32WNAS5V67V55&Signature=thjhJRyZwDpL439047EMoy22SQ8%3D&Expires=1695860125";
 
 
 // Fetch the JSON data and console log it
