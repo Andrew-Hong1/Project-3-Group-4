@@ -75,7 +75,20 @@ d3.json(geoData).then(function(data) {
         `).addTo(myMap);
      }
 
-
+ 
+     .legend {
+        background-color: white; /* Set the background color of the legend */
+        padding: 5px; /* Add padding for spacing */
+        border: 1px solid #ccc; /* Add a border for better visibility */
+    }
+    
+    .legend i {
+        width: 20px; /* Adjust the width of the color boxes */
+        height: 20px; /* Adjust the height of the color boxes */
+        display: inline-block;
+        margin-right: 5px; /* Add spacing between color boxes and labels */
+    }
+    
 // Define an array with legend colors and labels
 var legendData = [
     { color: "#ff0000", label: "VEI 7" },
