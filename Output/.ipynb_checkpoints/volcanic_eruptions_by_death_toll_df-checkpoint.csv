@@ -1,4 +1,124 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+Human Death Toll (Min),Human Death Toll (Max),Volcano,Location,VEI
+71000.0,250000.0,Mount Tambora,Indonesia,7
+36000.0,36000.0,Krakatoa,Indonesia,6
+30000.0,30000.0,Mount Pelée,Martinique,4
+23000.0,23000.0,Nevado del Ruiz,Colombia,3
+20000.0,20000.0,Santorini,Greece,7
+15000.0,20000.0,Mount Samalas,Indonesia,7
+15000.0,15000.0,Mount Unzen,Japan,2
+13000.0,13000.0,Mount Vesuvius,Italy,5
+10000.0,10000.0,Laki and Grímsvötn,Iceland,4
+10000.0,10000.0,Kelud,Indonesia,5
+6000.0,6000.0,Santa María,Guatemala,6
+5160.0,5160.0,Kelud,Indonesia,4
+4011.0,4011.0,Mount Galunggung,Indonesia,5
+3360.0,3360.0,Mount Vesuvius,Italy,5
+3000.0,3000.0,Ritter Island,Papua New Guinea,2
+2957.0,2957.0,Mount Papandayan,Indonesia,3
+2942.0,2942.0,Mount Lamington,Papua New Guinea,4
+2806.0,2806.0,Mount Awu,Indonesia,3
+2033.0,2033.0,Oshima Oshima,Japan,4
+2000.0,2000.0,Tseax Cone,Canada,?
+1900.0,1900.0,El Chichón,Mexico,5
+1700.0,1700.0,Soufrière,St. Vincent,4
+1584.0,1584.0,Mount Agung,Indonesia,5
+1532.0,1532.0,Mount Awu,Indonesia,3
+1500.0,1500.0,Huaynaputina,Peru,6
+1369.0,1369.0,Mount Merapi,Indonesia,3
+1335.0,1335.0,Taal,Philippines,3
+1300.0,1300.0,Gamalama,Indonesia,3
+1200.0,1200.0,Mount Mayon,Philippines,4
+1151.0,1151.0,Mount Asama,Japan,4
+1000.0,1000.0,Nevado del Ruiz,Colombia,3
+847.0,847.0,Mount Pinatubo,Philippines,6
+700.0,700.0,Hokkaido Komagatake,Japan,5
+600.0,600.0,Nevado del Ruiz,Colombia,4
+507.0,507.0,Tavurvur,Papua New Guinea,4
+500.0,500.0,Hibok-Hibok,Philippines,3
+477.0,477.0,Mount Bandai,Japan,4
+426.0,426.0,Anak Krakatoa,Indonesia,3
+416.0,416.0,Ruang,Indonesia,2
+400.0,400.0,Kilauea,"Hawaii, United States",4
+350.0,400.0,Mount Mayon,Philippines,4
+353.0,353.0,Mount Merapi,Indonesia,4
+340.0,340.0,Cotopaxi,Ecuador,4
+326.0,326.0,Makian,Indonesia,4
+245.0,245.0,Nyiragongo,Democratic Republic of the Congo,1
+216.0,216.0,Mount Vesuvius,Italy,4
+190.0,2900.0,Volcán de Fuego,Guatemala,3
+160.0,160.0,Paluweh,Indonesia,3
+151.0,151.0,Mount Ruapehu,New Zealand,?
+150.0,150.0,Tori-shima,Japan,3
+149.0,149.0,Dieng Volcanic Complex,Indonesia,1
+144.0,144.0,Mount Tokachi,Japan,3
+117.0,117.0,Dieng Volcanic Complex,Indonesia,2
+114.0,114.0,Dieng Volcanic Complex,Indonesia,1
+108.0,120.0,Mount Tarawera,New Zealand,5
+106.0,106.0,Dubbi,Eritrea,3
+87.0,87.0,Volcán Arenal,Costa Rica,3
+80.0,80.0,Mount Marapi,Indonesia,2
+79.0,79.0,Mount Mayon,Philippines,2
+70.0,70.0,Nyiragongo,Democratic Republic of the Congo,1
+70.0,70.0,Kolumbo,Greece,4
+69.0,69.0,Semeru,Indonesia,4
+64.0,64.0,Mount Merapi,Indonesia,2
+63.0,63.0,Mount Ontake,Japan,3
+58.0,58.0,Sakurajima,Japan,4
+57.0,57.0,Mount St. Helens,United States,5
+56.0,56.0,Mount Etna,Italy,2
+56.0,56.0,La Soufrière,Saint Vincent and the Grenadines,4
+50.0,50.0,Mount Usu,Japan,4
+43.0,43.0,Mount Unzen,Japan,1
+40.0,40.0,Dieng Volcanic Complex,Indonesia,2
+39.0,39.0,Taal,Philippines,4
+38.0,38.0,Dieng Volcanic Complex,Indonesia,2
+32.0,32.0,Mount Nyiragongo,Democratic Republic of the Congo,1
+32.0,32.0,Kelud,Indonesia,4
+31.0,31.0,Bayonnaise Rocks,Japan,2
+31.0,31.0,Nabro Volcano,Eritrea,4
+30.0,30.0,Rinjani,Indonesia,3
+27.0,27.0,Mount Vesuvius,Italy,3
+25.0,25.0,Villarrica,Chile,2
+24.0,24.0,Monte Nuovo (Phlegraean Fields),Italy,3
+23.0,23.0,Villarrica,Chile,3
+22.0,22.0,Whakaari/White Island,New Zealand,2
+19.0,19.0,Soufrière Hills,Montserrat,3
+18.0,18.0,Galunggung,Indonesia,4
+16.0,16.0,Sinabung,Indonesia,4
+15.0,30.0,Villarrica,Chile,2
+15.0,15.0,Raikoke,Russia,4
+10.0,10.0,Dieng Volcanic Complex,Indonesia,1
+10.0,10.0,Whakaari/White Island,New Zealand,?
+9.0,9.0,Galeras,Colombia,2
+9.0,9.0,Mount Etna,Italy,3
+8.0,8.0,Dieng Volcanic Complex,Indonesia,1
+8.0,8.0,Kuchinoerabu-jima,Japan,4
+7.0,7.0,Kelud,Indonesia,4
+7.0,7.0,Jabal al-Tair,Yemen,3
+6.0,6.0,Hunga Tonga–Hunga Haʻapai,Tonga,5
+6.0,6.0,Karangetang,Indonesia,2
+5.0,5.0,Mount Tavurvur,Papua New Guinea,4
+5.0,5.0,Mount Hudson,Chile,3
+4.0,4.0,Gamalama,Indonesia,2
+4.0,4.0,Yakedake,Japan,1
+4.0,4.0,Stromboli,Italy,2
+3.0,3.0,Pacaya,Guatemala,3
+3.0,3.0,Kanlaon,Philippines,2
+3.0,3.0,Didicas,Philippines,2
+2.0,2.0,Santa Ana,El Salvador,3
+2.0,2.0,Mount Bromo,Indonesia,2
+1.0,1.0,Popocatépetl,Mexico,2
+1.0,1.0,Cumbre Vieja,Spain,3
+1.0,1.0,Stromboli,Italy,2
+1.0,1.0,Chaitén,Chile,4
+1.0,1.0,Raoul Island,New Zealand,1
+1.0,1.0,Eldfell,Iceland,3
+=======
+>>>>>>> 0f56459d99949a132802002be2274bf247a0dc07
 Human death toll,Volcano,VEI,Location,Year,Eruption
 "71,000 to 250,100+",Mount Tambora,7,Indonesia,1815,"1815 eruption of Mount Tambora, Year Without a Summer"
 "36,000+",Krakatoa,6,Indonesia,1883,1883 eruption of Krakatoa
@@ -114,6 +234,7 @@ Human death toll,Volcano,VEI,Location,Year,Eruption
 1,Chaitén,4,Chile,2008,
 1,Raoul Island,1,New Zealand,2006,
 1,Eldfell,3,Iceland,1973,
+<<<<<<< HEAD
 =======
 Human Death Toll (Min),Human Death Toll (Max),Volcano,Location,VEI
 71000.0,250000.0,Mount Tambora,Indonesia,7
@@ -231,3 +352,5 @@ Human Death Toll (Min),Human Death Toll (Max),Volcano,Location,VEI
 1.0,1.0,Raoul Island,New Zealand,1
 1.0,1.0,Eldfell,Iceland,3
 >>>>>>> c8c6a72904bdc114a3013bf7b90188d0b22efadf
+=======
+>>>>>>> 0f56459d99949a132802002be2274bf247a0dc07
