@@ -40,8 +40,9 @@ CREATE TABLE eruptions_tbl (
     death_toll_min REAL,
     death_toll_max REAL,
     volcano_name VARCHAR(255),
-    location VARCHAR(255),
-    vei INT
+    location TEXT,
+    VEI VARCHAR(255),
+    FOREIGN KEY (VEI) REFERENCES vei_tbl(VEI)
 );
 
 Select * from eruptions_tbl;
@@ -50,7 +51,7 @@ Select * from eruptions_tbl;
 CREATE TABLE volcano_data_tbl (
     VolcanoID INT PRIMARY KEY,
     V_Name VARCHAR(255),
-    Country VARCHAR(255),
+    Country Text,
     Region VARCHAR(255),
     Subregion VARCHAR(255),
     Latitude DECIMAL(18, 15),
@@ -61,6 +62,7 @@ CREATE TABLE volcano_data_tbl (
     hazard VARCHAR(255),
     class VARCHAR(255),
     risk VARCHAR(255),
+	FOREIGN KEY (Country) REFERENCES volcanoes_by_country_tbl(Country),
 	FOREIGN KEY (PEI) REFERENCES pei_tbl(Population_Exposure_Index),
 	FOREIGN KEY (VEI_Holoce) REFERENCES vei_tbl(VEI)
 );
