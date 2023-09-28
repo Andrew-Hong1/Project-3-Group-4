@@ -1,93 +1,93 @@
 VolcanoID,V_Name,Country,Region,Subregion,Latitude,Longitude,PEI,H_active,VEI_Holoce,hazard,class,risk
 210010,West Eifel Volcanic Field,Germany,Mediterranean and W Asia,Western Europe,50.17,6.85,6,0,Unknown VEI,,U-HR,
-210020,Cha?ne des Puys,France,Mediterranean and W Asia,Western Europe,45.774999999999906,2.97,7,0,Unknown VEI,,U-HR,
+210020,Cha?ne des Puys,France,Mediterranean and W Asia,Western Europe,45.77499999999991,2.97,7,0,Unknown VEI,,U-HR,
 210030,Olot Volcanic Field,Spain,Mediterranean and W Asia,Western Europe,42.17,2.53,5,0,No confirmed eruptions,,U-NHHR,
-210040,Calatrava Volcanic Field,Spain,Mediterranean and W Asia,Western Europe,38.869999999999905,-4.02,6,0,Unknown VEI,,U-HR,
+210040,Calatrava Volcanic Field,Spain,Mediterranean and W Asia,Western Europe,38.86999999999991,-4.02,6,0,Unknown VEI,,U-HR,
 211001,Larderello,Italy,Mediterranean and W Asia,Italy,43.25,10.8699999999999,4,0,3,,U-HR,
 211003,Vulsini,Italy,Mediterranean and W Asia,Italy,42.6,11.93,5,0,Unknown VEI,,U-HR,
-211004,Alban Hills,Italy,Mediterranean and W Asia,Italy,41.729999999999905,12.6999999999999,7,0,No confirmed eruptions,,U-NHHR,
-211010,Campi Flegrei,Italy,Mediterranean and W Asia,Italy,40.826999999999906,14.1389999999999,7,1,5,3.0,,3.0
-211020,Vesuvius,Italy,Mediterranean and W Asia,Italy,40.820999999999906,14.426,7,1,5,3.0,,3.0
-211030,Ischia,Italy,Mediterranean and W Asia,Italy,40.729999999999905,13.897,5,0,3,,U-HR,
-211031,Palinuro,Italy,Mediterranean and W Asia,Italy,39.479999999999905,14.83,2,0,Unknown VEI,,U-HR,
+211004,Alban Hills,Italy,Mediterranean and W Asia,Italy,41.72999999999991,12.6999999999999,7,0,No confirmed eruptions,,U-NHHR,
+211010,Campi Flegrei,Italy,Mediterranean and W Asia,Italy,40.82699999999991,14.1389999999999,7,1,5,3.0,,3.0
+211020,Vesuvius,Italy,Mediterranean and W Asia,Italy,40.82099999999991,14.426,7,1,5,3.0,,3.0
+211030,Ischia,Italy,Mediterranean and W Asia,Italy,40.72999999999991,13.897,5,0,3,,U-HR,
+211031,Palinuro,Italy,Mediterranean and W Asia,Italy,39.47999999999991,14.83,2,0,Unknown VEI,,U-HR,
 211040,Stromboli,Italy,Mediterranean and W Asia,Italy,38.789,15.2129999999999,3,1,3,1.0,,1.0
 211041,Panarea,Italy,Mediterranean and W Asia,Italy,38.63,15.07,3,0,No confirmed eruptions,,U-NHHR,
-211042,Lipari,Italy,Mediterranean and W Asia,Italy,38.479999999999905,14.9499999999999,5,0,Unknown VEI,,U-HR,
+211042,Lipari,Italy,Mediterranean and W Asia,Italy,38.47999999999991,14.9499999999999,5,0,Unknown VEI,,U-HR,
 211050,Vulcano,Italy,Mediterranean and W Asia,Italy,38.404,14.962,4,1,4,3.0,,3.0
 211060,Etna,Italy,Mediterranean and W Asia,Italy,37.734,15.004,5,1,5,2.0,,2.0
 211070,Campi Flegrei Mar Sicilia,Italy,Mediterranean and W Asia,Italy,37.1,12.6999999999999,6,1,3,1.0,,2.0
 211071,Pantelleria,Italy,Mediterranean and W Asia,Italy,36.77,12.02,4,1,1,,U-HHR,
 212020,Methana,Greece,Mediterranean and W Asia,Greece,37.615,23.3359999999999,4,0,3,,U-HR,
-212030,M?los,Greece,Mediterranean and W Asia,Greece,36.698999999999906,24.439,3,0,1,,U-HR,
+212030,M?los,Greece,Mediterranean and W Asia,Greece,36.69899999999991,24.439,3,0,1,,U-HR,
 212040,Santorini,Greece,Mediterranean and W Asia,Greece,36.404,25.396,4,1,7,3.0,,3.0
-212050,Nisyros,Greece,Mediterranean and W Asia,Greece,36.585999999999906,27.16,2,1,2,2.0,,1.0
+212050,Nisyros,Greece,Mediterranean and W Asia,Greece,36.58599999999991,27.16,2,1,2,2.0,,1.0
 212051,Yali,Greece,Mediterranean and W Asia,Greece,36.67099999999991,27.14,2,0,No confirmed eruptions,,U-NHHR,
-213000,Kula,Turkey,Mediterranean and W Asia,Turkey,38.579999999999906,28.52,5,0,No confirmed eruptions,,U-NHHR,
+213000,Kula,Turkey,Mediterranean and W Asia,Turkey,38.57999999999991,28.52,5,0,No confirmed eruptions,,U-NHHR,
 213001,Karapinar Field,Turkey,Mediterranean and W Asia,Turkey,37.67,33.6499999999999,5,0,No confirmed eruptions,,U-NHHR,
 213002,Hasan Dagi,Turkey,Mediterranean and W Asia,Turkey,38.13,34.17,4,0,No confirmed eruptions,,U-NHHR,
 213003,G?ll? Dag,Turkey,Mediterranean and W Asia,Turkey,38.25,34.57,4,0,No confirmed eruptions,,U-NHHR,
 213004,Acig?l-Nevsehir,Turkey,Mediterranean and W Asia,Turkey,38.57,34.52,6,0,Unknown VEI,,U-HR,
 213010,Erciyes Dagi,Turkey,Mediterranean and W Asia,Turkey,38.52,35.4799999999999,5,0,Unknown VEI,,U-HR,
-213011,Karaca Dag,Turkey,Mediterranean and W Asia,Turkey,37.67,39.829999999999906,4,0,No confirmed eruptions,,U-NHHR,
-213020,Nemrut Dagi,Turkey,Mediterranean and W Asia,Turkey,38.649999999999906,42.229999999999905,4,1,Unknown VEI,,U-HHR,
+213011,Karaca Dag,Turkey,Mediterranean and W Asia,Turkey,37.67,39.82999999999991,4,0,No confirmed eruptions,,U-NHHR,
+213020,Nemrut Dagi,Turkey,Mediterranean and W Asia,Turkey,38.64999999999991,42.22999999999991,4,1,Unknown VEI,,U-HHR,
 213021,S?phan Dagi,Turkey,Mediterranean and W Asia,Turkey,38.92,42.82,4,0,Unknown VEI,,U-HR,
-213022,Girekol Tepe,Turkey,Mediterranean and W Asia,Turkey,39.192,43.216999999999906,4,0,No confirmed eruptions,,U-NHHR,
-213030,Tend?rek Dagi,Turkey,Mediterranean and W Asia,Turkey,39.369999999999905,43.869999999999905,4,1,Unknown VEI,,U-HHR,
-213040,Ararat,Turkey,Mediterranean and W Asia,Turkey,39.7,44.299999999999905,4,1,3,,U-HHR,
+213022,Girekol Tepe,Turkey,Mediterranean and W Asia,Turkey,39.192,43.21699999999991,4,0,No confirmed eruptions,,U-NHHR,
+213030,Tend?rek Dagi,Turkey,Mediterranean and W Asia,Turkey,39.36999999999991,43.86999999999991,4,1,Unknown VEI,,U-HHR,
+213040,Ararat,Turkey,Mediterranean and W Asia,Turkey,39.7,44.29999999999991,4,1,3,,U-HHR,
 213050,Kars Plateau,Turkey,Mediterranean and W Asia,Turkey,40.75,43.25,7,0,No confirmed eruptions,,U-NHHR,
-214010,Elbrus,Russia,Mediterranean and W Asia,Western Asia,43.329999999999906,42.45,3,0,Unknown VEI,,U-HR,
+214010,Elbrus,Russia,Mediterranean and W Asia,Western Asia,43.32999999999991,42.45,3,0,Unknown VEI,,U-HR,
 214020,Kasbek,Georgia,Mediterranean and W Asia,Western Asia,42.7,44.5,3,0,Unknown VEI,,U-HR,
-214030,Kabargin Oth Group,Georgia,Mediterranean and W Asia,Western Asia,42.549999999999905,44.0,3,0,No confirmed eruptions,,U-NHHR,
+214030,Kabargin Oth Group,Georgia,Mediterranean and W Asia,Western Asia,42.54999999999991,44.0,3,0,No confirmed eruptions,,U-NHHR,
 214040,Unnamed,Georgia,Mediterranean and W Asia,Western Asia,42.45,44.25,3,0,No confirmed eruptions,,U-NHHR,
-214050,Unnamed,Georgia,Mediterranean and W Asia,Western Asia,41.549999999999905,43.6,4,0,No confirmed eruptions,,U-NHHR,
+214050,Unnamed,Georgia,Mediterranean and W Asia,Western Asia,41.54999999999991,43.6,4,0,No confirmed eruptions,,U-NHHR,
 214060,Aragats,Armenia,Mediterranean and W Asia,Western Asia,40.53,44.2,4,0,No confirmed eruptions,,U-NHHR,
-214070,Ghegam Ridge,Armenia,Mediterranean and W Asia,Western Asia,40.274999999999906,44.75,7,0,0,,U-HR,
+214070,Ghegam Ridge,Armenia,Mediterranean and W Asia,Western Asia,40.27499999999991,44.75,7,0,0,,U-HR,
 214080,Dar-Alages,Armenia,Mediterranean and W Asia,Western Asia,39.7,45.542,5,0,Unknown VEI,,U-HR,
 214090,Porak,Armenia-Azerbaijan,Mediterranean and W Asia,Western Asia,40.02,45.78,3,0,Unknown VEI,,U-HR,
-214100,Tskhouk-Karckar,Armenia-Azerbaijan,Mediterranean and W Asia,Western Asia,39.729999999999905,46.02,3,0,Unknown VEI,,U-HR,
-221010,Tair Jebel at,Yemen,Africa and Red Sea,Africa (northeastern) and Red Sea,15.55,41.829999999999906,2,1,3,1.0,,1.0
+214100,Tskhouk-Karckar,Armenia-Azerbaijan,Mediterranean and W Asia,Western Asia,39.72999999999991,46.02,3,0,Unknown VEI,,U-HR,
+221010,Tair Jebel at,Yemen,Africa and Red Sea,Africa (northeastern) and Red Sea,15.55,41.82999999999991,2,1,3,1.0,,1.0
 221020,Zubair Group,Yemen,Africa and Red Sea,Africa (northeastern) and Red Sea,15.05,42.18,2,1,2,,U-HHR,
 221021,Zukur,Yemen,Africa and Red Sea,Africa (northeastern) and Red Sea,14.02,42.75,3,0,No confirmed eruptions,,U-NHHR,
-221022,Hanish,Yemen,Africa and Red Sea,Africa (northeastern) and Red Sea,13.72,42.729999999999905,2,0,No confirmed eruptions,,U-NHHR,
+221022,Hanish,Yemen,Africa and Red Sea,Africa (northeastern) and Red Sea,13.72,42.72999999999991,2,0,No confirmed eruptions,,U-NHHR,
 221030,Jalua,Eritrea,Africa and Red Sea,Africa (northeastern) and Red Sea,15.042,39.82,4,0,No confirmed eruptions,,U-NHHR,
 221040,Alid,Eritrea,Africa and Red Sea,Africa (northeastern) and Red Sea,14.88,39.92,3,0,No confirmed eruptions,,U-NHHR,
-221041,Dallol,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,14.242,40.299999999999905,2,1,1,,U-HHR,
+221041,Dallol,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,14.242,40.29999999999991,2,1,1,,U-HHR,
 221050,Gada Ale,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,13.975,40.408,2,0,No confirmed eruptions,,U-NHHR,
 221060,Alu,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,13.8249999999999,40.508,2,0,No confirmed eruptions,,U-NHHR,
-221070,Dalaffilla,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,13.792,40.549999999999905,2,1,3,,U-HHR,
+221070,Dalaffilla,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,13.792,40.54999999999991,2,1,3,,U-HHR,
 221071,Borale Ale,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,13.725,40.6,2,0,No confirmed eruptions,,U-NHHR,
 221080,Erta Ale,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,13.6,40.67,3,1,0,1.0,,1.0
 221090,Ale Bagu,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,13.52,40.63,2,0,No confirmed eruptions,,U-NHHR,
 221091,Hayli Gubbi,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,13.5,40.71999999999991,2,0,No confirmed eruptions,,U-NHHR,
 221100,Dubbi,Eritrea,Africa and Red Sea,Africa (northeastern) and Red Sea,13.58,41.808,2,1,3,,U-HHR,
 221101,Nabro,Eritrea,Africa and Red Sea,Africa (northeastern) and Red Sea,13.3699999999999,41.7,2,1,4,,U-HHR,
-221102,Mallahle,Ethiopia-Eritrea,Africa and Red Sea,Africa (northeastern) and Red Sea,13.27,41.649999999999906,2,0,No confirmed eruptions,,U-NHHR,
+221102,Mallahle,Ethiopia-Eritrea,Africa and Red Sea,Africa (northeastern) and Red Sea,13.27,41.64999999999991,2,0,No confirmed eruptions,,U-NHHR,
 221103,Sork Ale,Ethiopia-Eritrea,Africa and Red Sea,Africa (northeastern) and Red Sea,13.18,41.725,2,0,No confirmed eruptions,,U-NHHR,
 221104,Asavyo,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,13.07,41.6,2,0,No confirmed eruptions,,U-NHHR,
-221105,Mat Ala,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,13.1,41.149999999999906,2,0,No confirmed eruptions,,U-NHHR,
+221105,Mat Ala,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,13.1,41.14999999999991,2,0,No confirmed eruptions,,U-NHHR,
 221106,Tat Ali,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,13.2799999999999,41.07,2,0,No confirmed eruptions,,U-NHHR,
-221107,Borawli,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,13.3,40.979999999999905,2,0,No confirmed eruptions,,U-NHHR,
+221107,Borawli,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,13.3,40.97999999999991,2,0,No confirmed eruptions,,U-NHHR,
 221110,Afder?,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,13.08,40.85,3,0,No confirmed eruptions,,U-NHHR,
 221111,Ma Alalta,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,13.02,40.2,4,0,No confirmed eruptions,,U-NHHR,
 221112,Alayta,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,12.88,40.57,2,1,2,,U-HHR,
-221113,Dabbahu,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,12.6,40.479999999999905,3,1,3,,U-HHR,
+221113,Dabbahu,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,12.6,40.47999999999991,3,1,3,,U-HHR,
 221114,Dabbayra,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,12.38,40.07,3,0,No confirmed eruptions,,U-NHHR,
 221115,Manda Hararo,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,12.17,40.82,2,1,2,,U-HHR,
 221116,Groppo,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,11.73,40.25,4,0,No confirmed eruptions,,U-NHHR,
-221120,Kurub,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,11.88,41.207999999999906,2,0,No confirmed eruptions,,U-NHHR,
+221120,Kurub,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,11.88,41.20799999999991,2,0,No confirmed eruptions,,U-NHHR,
 221121,Borawli,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,11.63,41.45,5,0,No confirmed eruptions,,U-NHHR,
 221122,Manda-Inakir,Ethiopia-Djibouti,Africa and Red Sea,Africa (northeastern) and Red Sea,12.38,42.2,2,1,2,,U-HHR,
-221123,Mousa Alli,Ethiopia-Eritrea-Djibouti,Africa and Red Sea,Africa (northeastern) and Red Sea,12.47,42.399999999999906,2,0,No confirmed eruptions,,U-NHHR,
+221123,Mousa Alli,Ethiopia-Eritrea-Djibouti,Africa and Red Sea,Africa (northeastern) and Red Sea,12.47,42.39999999999991,2,0,No confirmed eruptions,,U-NHHR,
 221124,Gufa,Eritrea-Djibouti,Africa and Red Sea,Africa (northeastern) and Red Sea,12.55,42.53,2,0,No confirmed eruptions,,U-NHHR,
 221125,Assab Volcanic Field,Eritrea,Africa and Red Sea,Africa (northeastern) and Red Sea,12.9499999999999,42.43,2,0,No confirmed eruptions,,U-NHHR,
 221126,Ardouk?ba,Djibouti,Africa and Red Sea,Africa (northeastern) and Red Sea,11.58,42.46999999999991,3,1,1,,U-HHR,
-221127,Manda Gargori,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,11.75,41.479999999999905,3,0,No confirmed eruptions,,U-NHHR,
+221127,Manda Gargori,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,11.75,41.47999999999991,3,0,No confirmed eruptions,,U-NHHR,
 221141,Dama Ali,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,11.2799999999999,41.63,3,1,Unknown VEI,,U-HHR,
 221150,Gabillema,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,11.08,41.27,2,0,No confirmed eruptions,,U-NHHR,
 221151,Yangudi,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,10.58,41.042,2,0,No confirmed eruptions,,U-NHHR,
-221160,Ayelu,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,10.082,40.701999999999906,3,0,No confirmed eruptions,,U-NHHR,
+221160,Ayelu,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,10.082,40.70199999999991,3,0,No confirmed eruptions,,U-NHHR,
 221170,Adwa,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,10.07,40.84,3,0,No confirmed eruptions,,U-NHHR,
-221171,Hertali,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,9.77999999999999,40.329999999999906,3,0,No confirmed eruptions,,U-NHHR,
+221171,Hertali,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,9.77999999999999,40.32999999999991,3,0,No confirmed eruptions,,U-NHHR,
 221172,Liado Hayk,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,9.57,40.28,4,0,No confirmed eruptions,,U-NHHR,
 221180,Dofen,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,9.35,40.13,4,0,No confirmed eruptions,,U-NHHR,
 221190,Fentale,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,8.975,39.93,4,1,0,,U-HHR,
@@ -95,7 +95,7 @@ VolcanoID,V_Name,Country,Region,Subregion,Latitude,Longitude,PEI,H_active,VEI_Ho
 221200,Kone,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,8.8,39.692,5,1,1,,U-HHR,
 221201,Unnamed,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,8.69999999999999,39.63,6,0,No confirmed eruptions,,U-NHHR,
 221210,Boset-Bericha,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,8.558,39.475,5,0,No confirmed eruptions,,U-NHHR,
-221220,Bishoftu Volcanic Field,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,8.77999999999999,38.979999999999905,7,0,No confirmed eruptions,,U-NHHR,
+221220,Bishoftu Volcanic Field,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,8.77999999999999,38.97999999999991,7,0,No confirmed eruptions,,U-NHHR,
 221221,Unnamed,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,8.61999999999999,38.95,7,0,No confirmed eruptions,,U-NHHR,
 221222,Sodore,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,8.43,39.35,7,0,No confirmed eruptions,,U-NHHR,
 221230,Gedamsa,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,8.35,39.18,6,0,No confirmed eruptions,,U-NHHR,
@@ -105,35 +105,35 @@ VolcanoID,V_Name,Country,Region,Subregion,Latitude,Longitude,PEI,H_active,VEI_Ho
 221252,East Zway,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,7.95,38.93,6,0,No confirmed eruptions,,U-NHHR,
 221260,Butajiri-Silti Field,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,8.05,38.35,7,0,No confirmed eruptions,,U-NHHR,
 221270,Alutu,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,7.77,38.78,5,0,Unknown VEI,,U-HR,
-221280,O'a Caldera(s),Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,7.47,38.579999999999906,6,0,No confirmed eruptions,,U-NHHR,
+221280,O'a Caldera(s),Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,7.47,38.57999999999991,6,0,No confirmed eruptions,,U-NHHR,
 221290,Corbetti Caldera(s),Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,7.18,38.43,7,0,No confirmed eruptions,,U-NHHR,
 221291,Bilate River Field,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,7.07,38.1,7,0,No confirmed eruptions,,U-NHHR,
 221292,Tepi,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,7.42,35.43,5,0,No confirmed eruptions,,U-NHHR,
-221293,Hobicha Caldera(s),Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,6.78,37.829999999999906,7,0,No confirmed eruptions,,U-NHHR,
-221300,Chiracha,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,6.65,38.119999999999905,5,0,No confirmed eruptions,,U-NHHR,
+221293,Hobicha Caldera(s),Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,6.78,37.82999999999991,7,0,No confirmed eruptions,,U-NHHR,
+221300,Chiracha,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,6.65,38.11999999999991,5,0,No confirmed eruptions,,U-NHHR,
 221310,Tosa Sucha,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,5.93,37.57,6,0,No confirmed eruptions,,U-NHHR,
 221311,Unnamed,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,5.65,37.67,5,0,No confirmed eruptions,,U-NHHR,
 221320,Korath Range,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,5.1,35.88,4,0,No confirmed eruptions,,U-NHHR,
 221330,Mega Basalt Field,Ethiopia-Kenya,Africa and Red Sea,Africa (northeastern) and Red Sea,4.08,37.42,3,0,No confirmed eruptions,,U-NHHR,
-222001,North Island,Kenya,Africa and Red Sea,Africa (eastern),4.07,36.049999999999905,2,0,No confirmed eruptions,,U-NHHR,
+222001,North Island,Kenya,Africa and Red Sea,Africa (eastern),4.07,36.04999999999991,2,0,No confirmed eruptions,,U-NHHR,
 222010,Central Island,Kenya,Africa and Red Sea,Africa (eastern),3.5,36.042,2,0,No confirmed eruptions,,U-NHHR,
 222020,South Island,Kenya,Africa and Red Sea,Africa (eastern),2.63,36.6,2,1,1,,U-HHR,
 222021,Marsabit,Kenya,Africa and Red Sea,Africa (eastern),2.32,37.96999999999991,4,0,No confirmed eruptions,,U-NHHR,
 222030,Barrier The,Kenya,Africa and Red Sea,Africa (eastern),2.32,36.57,2,1,2,1.0,,1.0
 222040,Namarunu,Kenya,Africa and Red Sea,Africa (eastern),1.98,36.43,2,0,Unknown VEI,,U-HR,
-222050,Segererua Plateau,Kenya,Africa and Red Sea,Africa (eastern),1.57,37.899999999999906,3,0,No confirmed eruptions,,U-NHHR,
-222051,Emuruangogolak,Kenya,Africa and Red Sea,Africa (eastern),1.5,36.329999999999906,2,1,0,,U-HHR,
-222052,Silali,Kenya,Africa and Red Sea,Africa (eastern),1.15,36.229999999999905,3,0,Unknown VEI,,U-HR,
+222050,Segererua Plateau,Kenya,Africa and Red Sea,Africa (eastern),1.57,37.89999999999991,3,0,No confirmed eruptions,,U-NHHR,
+222051,Emuruangogolak,Kenya,Africa and Red Sea,Africa (eastern),1.5,36.32999999999991,2,1,0,,U-HHR,
+222052,Silali,Kenya,Africa and Red Sea,Africa (eastern),1.15,36.22999999999991,3,0,Unknown VEI,,U-HR,
 222053,Paka,Kenya,Africa and Red Sea,Africa (eastern),0.92,36.18,3,0,4,,U-HR,
-222054,Korosi,Kenya,Africa and Red Sea,Africa (eastern),0.77,36.119999999999905,4,0,No confirmed eruptions,,U-NHHR,
+222054,Korosi,Kenya,Africa and Red Sea,Africa (eastern),0.77,36.11999999999991,4,0,No confirmed eruptions,,U-NHHR,
 222055,Ol Kokwe,Kenya,Africa and Red Sea,Africa (eastern),0.62,36.075,4,0,No confirmed eruptions,,U-NHHR,
-222056,Nyambeni Hills,Kenya,Africa and Red Sea,Africa (eastern),0.23,37.869999999999905,6,0,No confirmed eruptions,,U-NHHR,
+222056,Nyambeni Hills,Kenya,Africa and Red Sea,Africa (eastern),0.23,37.86999999999991,6,0,No confirmed eruptions,,U-NHHR,
 222060,Menengai,Kenya,Africa and Red Sea,Africa (eastern),-0.2,36.07,6,0,6,,U-HR,
 222070,Homa Mountain,Kenya,Africa and Red Sea,Africa (eastern),-0.38,34.5,5,0,No confirmed eruptions,,U-NHHR,
 222071,Elmenteita Badlands,Kenya,Africa and Red Sea,Africa (eastern),-0.52,36.27,6,0,No confirmed eruptions,,U-NHHR,
 222080,Eburru Ol Doinyo,Kenya,Africa and Red Sea,Africa (eastern),-0.65,36.21999999999991,5,0,No confirmed eruptions,,U-NHHR,
 222090,Olkaria,Kenya,Africa and Red Sea,Africa (eastern),-0.904,36.292,5,1,Unknown VEI,,U-HHR,
-222100,Longonot,Kenya,Africa and Red Sea,Africa (eastern),-0.914,36.445999999999906,5,1,0,,U-HHR,
+222100,Longonot,Kenya,Africa and Red Sea,Africa (eastern),-0.914,36.44599999999991,5,1,0,,U-HHR,
 222110,Suswa,Kenya,Africa and Red Sea,Africa (eastern),-1.175,36.35,4,0,No confirmed eruptions,,U-NHHR,
 222120,Lengai Ol Doinyo,Tanzania,Africa and Red Sea,Africa (eastern),-2.764,35.914,3,1,3,2.0,,2.0
 222130,Chyulu Hills,Kenya,Africa and Red Sea,Africa (eastern),-2.68,37.88,4,1,2,,U-HHR,
@@ -191,7 +191,7 @@ VolcanoID,V_Name,Country,Region,Subregion,Latitude,Longitude,PEI,H_active,VEI_Ho
 230030,Golan Heights,Syria,Middle East and Indian Ocean,Middle East (eastern),33.1,35.9699999999999,7,0,No confirmed eruptions,,U-NHHR,
 230040,Unnamed,Syria,Middle East and Indian Ocean,Middle East (eastern),33.0,36.63,6,0,Unknown VEI,,U-HR,
 230050,Es Safa,Syria,Middle East and Indian Ocean,Middle East (eastern),33.25,37.07,6,1,0,,U-HHR,
-230060,Druze Jabal ad,Syria,Middle East and Indian Ocean,Middle East (eastern),32.658,36.424999999999905,7,0,No confirmed eruptions,,U-NHHR,
+230060,Druze Jabal ad,Syria,Middle East and Indian Ocean,Middle East (eastern),32.658,36.42499999999991,7,0,No confirmed eruptions,,U-NHHR,
 231001,Harrah Al,Saudi Arabia,Middle East and Indian Ocean,Middle East (eastern),31.0799999999999,38.42,6,0,No confirmed eruptions,,U-NHHR,
 231010,Rahah Harrat ar,Saudi Arabia,Middle East and Indian Ocean,Middle East (southern),27.8,36.17,2,0,No confirmed eruptions,,U-NHHR,
 231020,'Uwayrid Harrat,Saudi Arabia,Middle East and Indian Ocean,Middle East (southern),27.0799999999999,37.25,2,0,2,,U-HR,
@@ -201,14 +201,14 @@ VolcanoID,V_Name,Country,Region,Subregion,Latitude,Longitude,PEI,H_active,VEI_Ho
 231070,Rahat Harrat,Saudi Arabia,Middle East and Indian Ocean,Middle East (southern),23.0799999999999,39.78,7,0,3,,U-HR,
 231071,Kishb Harrat,Saudi Arabia,Middle East and Indian Ocean,Middle East (southern),22.8,41.38,3,0,No confirmed eruptions,,U-NHHR,
 231072,Birk Harrat al,Saudi Arabia,Middle East and Indian Ocean,Middle East (southern),18.37,41.63,5,0,No confirmed eruptions,,U-NHHR,
-231080,Yar Jabal,Saudi Arabia,Middle East and Indian Ocean,Middle East (southern),17.05,42.829999999999906,6,1,2,,U-HHR,
-231090,Arhab Harra of,Yemen,Middle East and Indian Ocean,Middle East (southern),15.63,44.079999999999906,7,0,2,,U-HR,
-231100,Marha Jabal el-,Yemen,Middle East and Indian Ocean,Middle East (southern),15.2449999999999,44.235999999999905,6,0,No confirmed eruptions,,U-NHHR,
+231080,Yar Jabal,Saudi Arabia,Middle East and Indian Ocean,Middle East (southern),17.05,42.82999999999991,6,1,2,,U-HHR,
+231090,Arhab Harra of,Yemen,Middle East and Indian Ocean,Middle East (southern),15.63,44.07999999999991,7,0,2,,U-HR,
+231100,Marha Jabal el-,Yemen,Middle East and Indian Ocean,Middle East (southern),15.2449999999999,44.23599999999991,6,0,No confirmed eruptions,,U-NHHR,
 231110,Haylan Jabal,Yemen,Middle East and Indian Ocean,Middle East (southern),15.43,44.78,6,0,0,,U-HR,
 231120,Dhamar Harras of,Yemen,Middle East and Indian Ocean,Middle East (southern),14.57,44.67,7,1,2,,U-HHR,
 231150,Unnamed,Yemen,Middle East and Indian Ocean,Middle East (southern),12.25,45.0,2,0,No confirmed eruptions,,U-NHHR,
-231160,Saw?d Harra es-,Yemen,Middle East and Indian Ocean,Middle East (southern),13.58,46.119999999999905,5,0,3,,U-HR,
-231170,Bal Haf Harra of,Yemen,Middle East and Indian Ocean,Middle East (southern),14.05,48.329999999999906,3,0,No confirmed eruptions,,U-NHHR,
+231160,Saw?d Harra es-,Yemen,Middle East and Indian Ocean,Middle East (southern),13.58,46.11999999999991,5,0,3,,U-HR,
+231170,Bal Haf Harra of,Yemen,Middle East and Indian Ocean,Middle East (southern),14.05,48.32999999999991,3,0,No confirmed eruptions,,U-NHHR,
 231180,Bir Borhut,Yemen,Middle East and Indian Ocean,Middle East (southern),15.55,50.63,2,0,No confirmed eruptions,,U-NHHR,
 232000,Unnamed,Iran-Azerbaijan,Middle East and Indian Ocean,Middle East (eastern),39.25,45.17,5,0,No confirmed eruptions,,U-NHHR,
 232001,Sahand,Iran,Middle East and Indian Ocean,Middle East (eastern),37.75,46.43,4,0,No confirmed eruptions,,U-NHHR,
@@ -221,41 +221,41 @@ VolcanoID,V_Name,Country,Region,Subregion,Latitude,Longitude,PEI,H_active,VEI_Ho
 232060,Dacht-i-Navar Group,Afghanistan,Middle East and Indian Ocean,Middle East (western),33.95,67.92,5,0,No confirmed eruptions,,U-NHHR,
 232070,Vakak Group,Afghanistan,Middle East and Indian Ocean,Middle East (western),34.25,67.9699999999999,5,0,No confirmed eruptions,,U-NHHR,
 232080,Tor Zawar,Pakistan,Middle East and Indian Ocean,Middle East (western),30.4789999999999,67.492,1,1,0,,U-HHR,
-233001,Grille La,Comoros,Middle East and Indian Ocean,Indian Ocean (western),-11.47,43.329999999999906,6,0,No confirmed eruptions,,U-NHHR,
+233001,Grille La,Comoros,Middle East and Indian Ocean,Indian Ocean (western),-11.47,43.32999999999991,6,0,No confirmed eruptions,,U-NHHR,
 233005,Mayotte Island,France,Middle East and Indian Ocean,Indian Ocean (western),-12.83,45.17,1,0,Unknown VEI,,U-HR,
 233010,Karthala,Comoros,Middle East and Indian Ocean,Indian Ocean (western),-11.75,43.38,6,1,3,1.0,,2.0
-233011,Ambre-Bobaomby,Madagascar,Middle East and Indian Ocean,Indian Ocean (western),-12.6,49.149999999999906,4,0,No confirmed eruptions,,U-NHHR,
-233012,Nosy-Be,Madagascar,Middle East and Indian Ocean,Indian Ocean (western),-13.32,48.479999999999905,4,0,No confirmed eruptions,,U-NHHR,
+233011,Ambre-Bobaomby,Madagascar,Middle East and Indian Ocean,Indian Ocean (western),-12.6,49.14999999999991,4,0,No confirmed eruptions,,U-NHHR,
+233012,Nosy-Be,Madagascar,Middle East and Indian Ocean,Indian Ocean (western),-13.32,48.47999999999991,4,0,No confirmed eruptions,,U-NHHR,
 233013,Ankaizina Field,Madagascar,Middle East and Indian Ocean,Indian Ocean (western),-14.3,48.67,4,0,No confirmed eruptions,,U-NHHR,
 233014,Itasy Volcanic Field,Madagascar,Middle East and Indian Ocean,Indian Ocean (western),-19.0,46.77,6,0,Unknown VEI,,U-HR,
 233015,Ankaratra Field,Madagascar,Middle East and Indian Ocean,Indian Ocean (western),-19.3999999999999,47.2,6,0,No confirmed eruptions,,U-NHHR,
 233020,Fournaise Piton de la,France,Middle East and Indian Ocean,Indian Ocean (western),-21.231,55.713,5,1,5,2.0,,2.0
 234000,Boomerang Seamount,France,Middle East and Indian Ocean,Indian Ocean (southern),-37.720999999999904,77.825,1,1,0,,U-HHR,
-234001,Amsterdam Island,France,Middle East and Indian Ocean,Indian Ocean (southern),-37.829999999999906,77.51999999999991,1,0,No confirmed eruptions,,U-NHHR,
+234001,Amsterdam Island,France,Middle East and Indian Ocean,Indian Ocean (southern),-37.82999999999991,77.51999999999991,1,0,No confirmed eruptions,,U-NHHR,
 234002,St. Paul,France,Middle East and Indian Ocean,Indian Ocean (southern),-38.71999999999991,77.53,1,1,2,,U-HHR,
 234010,Heard,Australia,Middle East and Indian Ocean,Indian Ocean (southern),-53.106,73.513,1,1,2,1.0,,1.0
 234011,McDonald Islands,Australia,Middle East and Indian Ocean,Indian Ocean (southern),-53.03,72.59999999999991,1,1,1,1.0,,1.0
-234020,Kerguelen Islands,France,Middle East and Indian Ocean,Indian Ocean (southern),-49.579999999999906,69.5,1,0,No confirmed eruptions,,U-NHHR,
+234020,Kerguelen Islands,France,Middle East and Indian Ocean,Indian Ocean (southern),-49.57999999999991,69.5,1,0,No confirmed eruptions,,U-NHHR,
 234030,Est Ile de l',France,Middle East and Indian Ocean,Indian Ocean (southern),-46.43,52.2,1,0,No confirmed eruptions,,U-NHHR,
 234040,Possession Ile de la,France,Middle East and Indian Ocean,Indian Ocean (southern),-46.42,51.75,1,0,No confirmed eruptions,,U-NHHR,
-234050,Cochons Ile aux,France,Middle East and Indian Ocean,Indian Ocean (southern),-46.1,50.229999999999905,1,0,No confirmed eruptions,,U-NHHR,
+234050,Cochons Ile aux,France,Middle East and Indian Ocean,Indian Ocean (southern),-46.1,50.22999999999991,1,0,No confirmed eruptions,,U-NHHR,
 234060,Prince Edward Island,South Africa,Middle East and Indian Ocean,Indian Ocean (southern),-46.63,37.95,1,0,No confirmed eruptions,,U-NHHR,
-234070,Marion Island,South Africa,Middle East and Indian Ocean,Indian Ocean (southern),-46.899999999999906,37.75,1,1,1,,U-HHR,
+234070,Marion Island,South Africa,Middle East and Indian Ocean,Indian Ocean (southern),-46.89999999999991,37.75,1,1,1,,U-HHR,
 235010,Unnamed,India,Middle East and Indian Ocean,Indian Ocean (eastern),11.75,80.75,2,0,No confirmed eruptions,,U-NHHR,
 241010,Kaikohe-Bay of Islands,New Zealand,New Zealand to Fiji,New Zealand,-35.2999999999999,173.9,4,0,Unknown VEI,,U-HR,
 241011,Whangarei,New Zealand,New Zealand to Fiji,New Zealand,-35.75,174.27,5,0,No confirmed eruptions,,U-NHHR,
-241020,Auckland Field,New Zealand,New Zealand to Fiji,New Zealand,-36.899999999999906,174.87,7,0,Unknown VEI,,U-HR,
+241020,Auckland Field,New Zealand,New Zealand to Fiji,New Zealand,-36.89999999999991,174.87,7,0,Unknown VEI,,U-HR,
 241021,Mayor Island,New Zealand,New Zealand to Fiji,New Zealand,-37.28,176.25,2,0,5,,U-HR,
-241030,Taranaki [Egmont],New Zealand,New Zealand to Fiji,New Zealand,-39.299999999999905,174.069999999999,2,1,5,,U-HHR,
+241030,Taranaki [Egmont],New Zealand,New Zealand to Fiji,New Zealand,-39.29999999999991,174.069999999999,2,1,5,,U-HHR,
 241040,White Island,New Zealand,New Zealand to Fiji,New Zealand,-37.52,177.18,2,1,3,1.0,,1.0
-241050,Okataina,New Zealand,New Zealand to Fiji,New Zealand,-38.119999999999905,176.5,3,1,5,1.0,,1.0
+241050,Okataina,New Zealand,New Zealand to Fiji,New Zealand,-38.11999999999991,176.5,3,1,5,1.0,,1.0
 241060,Reporoa,New Zealand,New Zealand to Fiji,New Zealand,-38.42,176.33,3,0,Unknown VEI,,U-HR,
 241061,Maroa,New Zealand,New Zealand to Fiji,New Zealand,-38.42,176.08,2,0,Unknown VEI,,U-HR,
 241070,Taupo,New Zealand,New Zealand to Fiji,New Zealand,-38.82,176.0,4,0,6,3.0,,3.0
 241080,Tongariro,New Zealand,New Zealand to Fiji,New Zealand,-39.13,175.642,2,1,5,2.0,,1.0
 241100,Ruapehu,New Zealand,New Zealand to Fiji,New Zealand,-39.28,175.569999999999,2,1,4,2.0,,1.0
-241101,Clark,New Zealand,New Zealand to Fiji,New Zealand,-36.445999999999906,177.839,1,0,No confirmed eruptions,,U-NHHR,
-241102,Tangaroa,New Zealand,New Zealand to Fiji,New Zealand,-36.320999999999906,178.027999999999,1,0,No confirmed eruptions,,U-NHHR,
+241101,Clark,New Zealand,New Zealand to Fiji,New Zealand,-36.44599999999991,177.839,1,0,No confirmed eruptions,,U-NHHR,
+241102,Tangaroa,New Zealand,New Zealand to Fiji,New Zealand,-36.32099999999991,178.027999999999,1,0,No confirmed eruptions,,U-NHHR,
 241110,Rumble V,New Zealand,New Zealand to Fiji,New Zealand,-36.142,178.196,1,0,No confirmed eruptions,,U-NHHR,
 241120,Rumble IV,New Zealand,New Zealand to Fiji,New Zealand,-36.13,178.05,1,0,No confirmed eruptions,,U-NHHR,
 241130,Rumble III,New Zealand,New Zealand to Fiji,New Zealand,-35.7449999999999,178.478,1,1,0,1.0,,1.0
@@ -384,13 +384,13 @@ VolcanoID,V_Name,Country,Region,Subregion,Latitude,Longitude,PEI,H_active,VEI_Ho
 260001,Narcondum,India,Indonesia,Andaman Islands,13.43,94.28,1,0,No confirmed eruptions,,U-NHHR,
 260010,Barren Island,India,Indonesia,Andaman Islands,12.278,93.858,2,1,2,1.0,,1.0
 261020,Seulawah Agam,Indonesia,Indonesia,Sumatra,5.448,95.658,4,1,2,,U-HHR,
-261030,Peuet Sague,Indonesia,Indonesia,Sumatra,4.914,96.32899999999991,3,1,2,2.0,,2.0
+261030,Peuet Sague,Indonesia,Indonesia,Sumatra,4.914,96.32899999999992,3,1,2,2.0,,2.0
 261050,Telong Bur ni,Indonesia,Indonesia,Sumatra,4.769,96.8209999999999,5,1,2,1.0,,2.0
-261070,Sibayak,Indonesia,Indonesia,Sumatra,3.23,98.51999999999991,5,1,Unknown VEI,,U-HHR,
-261080,Sinabung,Indonesia,Indonesia,Sumatra,3.17,98.39199999999991,5,1,2,,U-HHR,
+261070,Sibayak,Indonesia,Indonesia,Sumatra,3.23,98.51999999999992,5,1,Unknown VEI,,U-HHR,
+261080,Sinabung,Indonesia,Indonesia,Sumatra,3.17,98.39199999999992,5,1,2,,U-HHR,
 261090,Toba,Indonesia,Indonesia,Sumatra,2.58,98.8299999999999,6,0,No confirmed eruptions,,U-NHHR,
 261101,Imun,Indonesia,Indonesia,Sumatra,2.158,98.93,5,0,No confirmed eruptions,,U-NHHR,
-261110,Sibualbuali,Indonesia,Indonesia,Sumatra,1.556,99.25499999999991,4,0,No confirmed eruptions,,U-NHHR,
+261110,Sibualbuali,Indonesia,Indonesia,Sumatra,1.556,99.25499999999992,4,0,No confirmed eruptions,,U-NHHR,
 261111,Lubukraya,Indonesia,Indonesia,Sumatra,1.478,99.209,4,0,No confirmed eruptions,,U-NHHR,
 261120,Sorikmarapi,Indonesia,Indonesia,Sumatra,0.686,99.539,3,1,2,2.0,,2.0
 261121,Malintang,Indonesia,Indonesia,Sumatra,0.47,99.67,3,0,No confirmed eruptions,,U-NHHR,
@@ -582,7 +582,7 @@ VolcanoID,V_Name,Country,Region,Subregion,Latitude,Longitude,PEI,H_active,VEI_Ho
 275060,Cendres Ile des,Vietnam,Philippines and SE Asia,Southeast Asia,10.1579999999999,109.014,2,1,2,,U-HHR,
 275070,Veteran,Vietnam,Philippines and SE Asia,Southeast Asia,9.83,109.05,2,0,No confirmed eruptions,,U-NHHR,
 275080,Popa,Burma (Myanmar),Philippines and SE Asia,Southeast Asia,20.92,95.25,5,0,Unknown VEI,,U-HR,
-275090,Lower Chindwin,Burma (Myanmar),Philippines and SE Asia,Southeast Asia,22.28,95.09999999999991,7,0,No confirmed eruptions,,U-NHHR,
+275090,Lower Chindwin,Burma (Myanmar),Philippines and SE Asia,Southeast Asia,22.28,95.09999999999992,7,0,No confirmed eruptions,,U-NHHR,
 275100,Singu Plateau,Burma (Myanmar),Philippines and SE Asia,Southeast Asia,22.6999999999999,95.98,6,0,No confirmed eruptions,,U-NHHR,
 275110,Tengchong,China,Philippines and SE Asia,Southeast Asia,25.23,98.5,6,0,Unknown VEI,,U-HR,
 281010,Unnamed,Taiwan,Japan Taiwan Marianas,Taiwan,20.93,134.75,1,0,No confirmed eruptions,,U-NHHR,
@@ -624,37 +624,37 @@ VolcanoID,V_Name,Country,Region,Subregion,Latitude,Longitude,PEI,H_active,VEI_Ho
 283060,Norikura,Japan,Japan Taiwan Marianas,Honshu,36.103,137.556999999999,4,0,3,,U-HR,
 283070,Yake-dake,Japan,Japan Taiwan Marianas,Honshu,36.223999999999904,137.59,4,1,4,2.0,,2.0
 283071,Washiba-Kumonotaira,Japan,Japan Taiwan Marianas,Honshu,36.408,137.593999999999,4,0,No confirmed eruptions,,U-NHHR,
-283080,Tate-yama,Japan,Japan Taiwan Marianas,Honshu,36.567999999999905,137.592999999999,4,1,2,,U-HHR,
+283080,Tate-yama,Japan,Japan Taiwan Marianas,Honshu,36.56799999999991,137.592999999999,4,1,2,,U-HHR,
 283090,Niigata-Yake-yama,Japan,Japan Taiwan Marianas,Honshu,36.91799999999991,138.038999999999,4,1,4,3.0,,3.0
-283100,Myoko,Japan,Japan Taiwan Marianas,Honshu,36.887999999999906,138.12,5,0,5,,U-HR,
-283110,Asama,Japan,Japan Taiwan Marianas,Honshu,36.402999999999906,138.526,5,1,5,2.0,,2.0
-283120,Kusatsu-Shirane,Japan,Japan Taiwan Marianas,Honshu,36.619999999999905,138.535,5,1,4,2.0,,2.0
+283100,Myoko,Japan,Japan Taiwan Marianas,Honshu,36.88799999999991,138.12,5,0,5,,U-HR,
+283110,Asama,Japan,Japan Taiwan Marianas,Honshu,36.40299999999991,138.526,5,1,5,2.0,,2.0
+283120,Kusatsu-Shirane,Japan,Japan Taiwan Marianas,Honshu,36.61999999999991,138.535,5,1,4,2.0,,2.0
 283121,Shiga,Japan,Japan Taiwan Marianas,Honshu,36.688,138.519,5,0,No confirmed eruptions,,U-NHHR,
 283122,Haruna,Japan,Japan Taiwan Marianas,Honshu,36.473999999999904,138.881,6,0,5,,U-HR,
 283130,Akagi,Japan,Japan Taiwan Marianas,Honshu,36.557,139.196,5,0,No confirmed eruptions,,U-NHHR,
-283131,Hiuchi,Japan,Japan Taiwan Marianas,Honshu,36.951999999999906,139.288999999999,4,1,2,,U-HHR,
+283131,Hiuchi,Japan,Japan Taiwan Marianas,Honshu,36.95199999999991,139.288999999999,4,1,2,,U-HHR,
 283140,Nikko-Shirane,Japan,Japan Taiwan Marianas,Honshu,36.79599999999991,139.378999999999,4,1,3,1.0,,1.0
 283141,Nantai,Japan,Japan Taiwan Marianas,Honshu,36.762,139.494,5,0,Unknown VEI,,U-HR,
 283142,Omanago Group,Japan,Japan Taiwan Marianas,Honshu,36.792,139.509999999999,5,0,Unknown VEI,,U-HR,
-283143,Takahara,Japan,Japan Taiwan Marianas,Honshu,36.896999999999906,139.78,5,0,4,,U-HR,
+283143,Takahara,Japan,Japan Taiwan Marianas,Honshu,36.89699999999991,139.78,5,0,4,,U-HR,
 283150,Nasu,Japan,Japan Taiwan Marianas,Honshu,37.122,139.966,4,1,3,1.0,,1.0
 283151,Numazawa,Japan,Japan Taiwan Marianas,Honshu,37.45,139.579,4,0,5,,U-HR,
 283160,Bandai,Japan,Japan Taiwan Marianas,Honshu,37.59799999999991,140.075999999999,5,1,4,2.0,,2.0
-283170,Adatara,Japan,Japan Taiwan Marianas,Honshu,37.643999999999906,140.286,5,1,3,,U-HHR,
+283170,Adatara,Japan,Japan Taiwan Marianas,Honshu,37.64399999999991,140.286,5,1,3,,U-HHR,
 283180,Azuma,Japan,Japan Taiwan Marianas,Honshu,37.73199999999991,140.247999999999,4,1,3,1.0,,1.0
-283190,Zao,Japan,Japan Taiwan Marianas,Honshu,38.140999999999906,140.443,5,1,4,2.0,,2.0
+283190,Zao,Japan,Japan Taiwan Marianas,Honshu,38.14099999999991,140.443,5,1,4,2.0,,2.0
 283191,Hijiori,Japan,Japan Taiwan Marianas,Honshu,38.606,140.178,5,0,No confirmed eruptions,,U-NHHR,
-283200,Narugo,Japan,Japan Taiwan Marianas,Honshu,38.732999999999905,140.732,5,0,1,,U-HR,
-283210,Kurikoma,Japan,Japan Taiwan Marianas,Honshu,38.957999999999906,140.792,4,1,2,2.0,,2.0
+283200,Narugo,Japan,Japan Taiwan Marianas,Honshu,38.73299999999991,140.732,5,0,1,,U-HR,
+283210,Kurikoma,Japan,Japan Taiwan Marianas,Honshu,38.95799999999991,140.792,4,1,2,2.0,,2.0
 283220,Chokai,Japan,Japan Taiwan Marianas,Honshu,39.095999999999904,140.051999999999,4,1,2,2.0,,2.0
 283230,Akita-Komaga-take,Japan,Japan Taiwan Marianas,Honshu,39.758,140.803,4,1,4,2.0,,2.0
 283240,Iwate,Japan,Japan Taiwan Marianas,Honshu,39.85,141.003999999999,5,1,3,,U-HHR,
-283250,Hachimantai,Japan,Japan Taiwan Marianas,Honshu,39.954999999999906,140.857,4,0,Unknown VEI,,U-HR,
-283260,Akita-Yake-yama,Japan,Japan Taiwan Marianas,Honshu,39.960999999999906,140.761,4,1,2,2.0,,2.0
+283250,Hachimantai,Japan,Japan Taiwan Marianas,Honshu,39.95499999999991,140.857,4,0,Unknown VEI,,U-HR,
+283260,Akita-Yake-yama,Japan,Japan Taiwan Marianas,Honshu,39.96099999999991,140.761,4,1,2,2.0,,2.0
 283262,Megata,Japan,Japan Taiwan Marianas,Honshu,39.95,139.729999999999,3,0,Unknown VEI,,U-HR,
-283270,Iwaki,Japan,Japan Taiwan Marianas,Honshu,40.652999999999906,140.306999999999,4,1,3,2.0,,2.0
+283270,Iwaki,Japan,Japan Taiwan Marianas,Honshu,40.65299999999991,140.306999999999,4,1,3,2.0,,2.0
 283271,Towada,Japan,Japan Taiwan Marianas,Honshu,40.46999999999991,140.919999999999,4,0,5,3.0,,3.0
-283280,Hakkoda Group,Japan,Japan Taiwan Marianas,Honshu,40.655999999999906,140.881,4,1,3,1.0,,1.0
+283280,Hakkoda Group,Japan,Japan Taiwan Marianas,Honshu,40.65599999999991,140.881,4,1,3,1.0,,1.0
 283290,Osore-yama,Japan,Japan Taiwan Marianas,Honshu,41.276,141.124,5,1,Unknown VEI,,U-HHR,
 284010,Oshima,Japan,Japan Taiwan Marianas,Izu Volcano and Mariana Islands,34.7209999999999,139.398,5,1,4,1.0,,2.0
 284011,To-shima,Japan,Japan Taiwan Marianas,Izu Volcano and Mariana Islands,34.517,139.282999999999,4,0,0,,U-HR,
@@ -709,33 +709,33 @@ VolcanoID,V_Name,Country,Region,Subregion,Latitude,Longitude,PEI,H_active,VEI_Ho
 284211,NW Rota-1,United States,Japan Taiwan Marianas,Izu Volcano and Mariana Islands,14.601,144.775,2,1,0,,U-HHR,
 284220,Forecast Seamount,United States,Japan Taiwan Marianas,Izu Volcano and Mariana Islands,13.4,143.919999999999,2,0,No confirmed eruptions,,U-NHHR,
 284230,Seamount X,United States,Japan Taiwan Marianas,Izu Volcano and Mariana Islands,13.25,144.02,2,0,No confirmed eruptions,,U-NHHR,
-285010,Oshima-Oshima,Japan,Japan Taiwan Marianas,Hokkaido,41.506999999999906,139.371,2,1,4,,U-HHR,
+285010,Oshima-Oshima,Japan,Japan Taiwan Marianas,Hokkaido,41.50699999999991,139.371,2,1,4,,U-HHR,
 285011,E-san,Japan,Japan Taiwan Marianas,Hokkaido,41.802,141.169999999999,3,1,3,,U-HHR,
 285020,Komaga-take,Japan,Japan Taiwan Marianas,Hokkaido,42.061,140.681,5,1,5,3.0,,3.0
 285030,Usu,Japan,Japan Taiwan Marianas,Hokkaido,42.540999999999904,140.842999999999,5,1,5,3.0,,3.0
 285031,Niseko,Japan,Japan Taiwan Marianas,Hokkaido,42.88,140.63,4,0,Unknown VEI,,U-HR,
-285032,Yotei,Japan,Japan Taiwan Marianas,Hokkaido,42.829999999999906,140.815,4,0,Unknown VEI,,U-HR,
-285034,Kuttara,Japan,Japan Taiwan Marianas,Hokkaido,42.488999999999905,141.163,5,1,1,,U-HHR,
+285032,Yotei,Japan,Japan Taiwan Marianas,Hokkaido,42.82999999999991,140.815,4,0,Unknown VEI,,U-HR,
+285034,Kuttara,Japan,Japan Taiwan Marianas,Hokkaido,42.48899999999991,141.163,5,1,1,,U-HHR,
 285040,Shikotsu,Japan,Japan Taiwan Marianas,Hokkaido,42.688,141.38,6,1,5,3.0,,3.0
 285041,Rishiri,Japan,Japan Taiwan Marianas,Hokkaido,45.18,141.25,3,0,Unknown VEI,,U-HR,
 285050,Tokachi,Japan,Japan Taiwan Marianas,Hokkaido,43.415999999999904,142.69,3,1,3,3.0,,2.0
 285060,Daisetsu,Japan,Japan Taiwan Marianas,Hokkaido,43.661,142.858,3,1,Unknown VEI,,U-HHR,
 285061,Nipesotsu-Maruyama,Japan,Japan Taiwan Marianas,Hokkaido,43.453,143.036,3,1,2,,U-HHR,
-285062,Shikaribetsu Group,Japan,Japan Taiwan Marianas,Hokkaido,43.311999999999905,143.096,3,0,No confirmed eruptions,,U-NHHR,
+285062,Shikaribetsu Group,Japan,Japan Taiwan Marianas,Hokkaido,43.31199999999991,143.096,3,0,No confirmed eruptions,,U-NHHR,
 285070,Akan,Japan,Japan Taiwan Marianas,Hokkaido,43.384,144.013,3,1,4,1.0,,1.0
-285080,Kutcharo,Japan,Japan Taiwan Marianas,Hokkaido,43.607999999999905,144.443,4,0,Unknown VEI,,U-HR,
+285080,Kutcharo,Japan,Japan Taiwan Marianas,Hokkaido,43.60799999999991,144.443,4,0,Unknown VEI,,U-HR,
 285081,Mashu,Japan,Japan Taiwan Marianas,Hokkaido,43.572,144.561,4,0,6,3.0,,3.0
 285082,Rausudake,Japan,Japan Taiwan Marianas,Hokkaido,44.076,145.122,3,1,4,3.0,,2.0
-285083,Tenchozan,Japan,Japan Taiwan Marianas,Hokkaido,44.043999999999905,145.086,1,0,No confirmed eruptions,,U-NHHR,
+285083,Tenchozan,Japan,Japan Taiwan Marianas,Hokkaido,44.04399999999991,145.086,1,0,No confirmed eruptions,,U-NHHR,
 285090,Shiretoko-Iozan,Japan,Japan Taiwan Marianas,Hokkaido,44.133,145.161,2,1,2,1.0,,1.0
 290010,Tomariyama [Golovnin],Japan - administered by Russia,Kuril Islands,Kuril Islands,43.844,145.503999999999,2,1,1,,U-HHR,
 290020,Raususan [Mendeleev],Japan - administered by Russia,Kuril Islands,Kuril Islands,43.97899999999991,145.733,2,1,1,,U-HHR,
 290021,Ruruidake [Smirnov],Japan - administered by Russia,Kuril Islands,Kuril Islands,44.454,146.139,2,0,No confirmed eruptions,,U-NHHR,
 290030,Chachadake [Tiatia],Japan - administered by Russia,Kuril Islands,Kuril Islands,44.353,146.252,2,1,4,2.0,,1.0
 290040,Berutarubesan [Berutarube],Japan - administered by Russia,Kuril Islands,Kuril Islands,44.462,146.931999999999,2,0,No confirmed eruptions,,U-NHHR,
-290041,Moekeshiwan [Lvinaya Past],Japan - administered by Russia,Kuril Islands,Kuril Islands,44.607999999999905,146.994,2,0,6,,U-HR,
+290041,Moekeshiwan [Lvinaya Past],Japan - administered by Russia,Kuril Islands,Kuril Islands,44.60799999999991,146.994,2,0,6,,U-HR,
 290050,Etorofu-Atsonupuri [Atsonupuri],Japan - administered by Russia,Kuril Islands,Kuril Islands,44.808,147.131,2,1,2,,U-HHR,
-290060,Nishihitokappuyama [Bogatyr Ridge],Japan - administered by Russia,Kuril Islands,Kuril Islands,44.832999999999906,147.342,2,0,No confirmed eruptions,,U-NHHR,
+290060,Nishihitokappuyama [Bogatyr Ridge],Japan - administered by Russia,Kuril Islands,Kuril Islands,44.83299999999991,147.342,2,0,No confirmed eruptions,,U-NHHR,
 290061,Unnamed,Japan - administered by Russia,Kuril Islands,Kuril Islands,45.03,147.208,2,0,No confirmed eruptions,,U-NHHR,
 290070,Etorofu-Yakeyama [Grozny Group],Japan - administered by Russia,Kuril Islands,Kuril Islands,45.012,147.871,2,1,2,2.0,,1.0
 290072,Odamoisan [Tebenkov],Japan - administered by Russia,Kuril Islands,Kuril Islands,45.026,147.922,1,0,No confirmed eruptions,,U-NHHR,
@@ -749,52 +749,52 @@ VolcanoID,V_Name,Country,Region,Subregion,Latitude,Longitude,PEI,H_active,VEI_Ho
 290113,Tri Sestry,Russia,Kuril Islands,Kuril Islands,45.93,149.919999999999,2,0,No confirmed eruptions,,U-NHHR,
 290120,Kolokol Group,Russia,Kuril Islands,Kuril Islands,46.042,150.05,2,1,3,1.0,,1.0
 290130,Unnamed,Russia,Kuril Islands,Kuril Islands,46.1,150.5,2,0,No confirmed eruptions,,U-NHHR,
-290150,Chirpoi,Russia,Kuril Islands,Kuril Islands,46.524999999999906,150.875,2,1,4,2.0,,1.0
+290150,Chirpoi,Russia,Kuril Islands,Kuril Islands,46.52499999999991,150.875,2,1,4,2.0,,1.0
 290160,Unnamed,Russia,Kuril Islands,Kuril Islands,46.46999999999991,151.28,2,1,0,,U-HHR,
 290161,Milne,Russia,Kuril Islands,Kuril Islands,46.82,151.78,2,0,No confirmed eruptions,,U-NHHR,
-290170,Goriaschaia Sopka,Russia,Kuril Islands,Kuril Islands,46.829999999999906,151.75,2,1,3,1.0,,1.0
-290180,Zavaritzki Caldera(s),Russia,Kuril Islands,Kuril Islands,46.924999999999905,151.949999999999,2,1,3,,U-HHR,
+290170,Goriaschaia Sopka,Russia,Kuril Islands,Kuril Islands,46.82999999999991,151.75,2,1,3,1.0,,1.0
+290180,Zavaritzki Caldera(s),Russia,Kuril Islands,Kuril Islands,46.92499999999991,151.949999999999,2,1,3,,U-HHR,
 290190,Prevo Peak,Russia,Kuril Islands,Kuril Islands,47.02,152.12,2,1,3,,U-HHR,
-290191,Urataman,Russia,Kuril Islands,Kuril Islands,47.119999999999905,152.25,2,0,No confirmed eruptions,,U-NHHR,
+290191,Urataman,Russia,Kuril Islands,Kuril Islands,47.11999999999991,152.25,2,0,No confirmed eruptions,,U-NHHR,
 290200,Ketoi,Russia,Kuril Islands,Kuril Islands,47.35,152.474999999999,2,1,2,,U-HHR,
 290210,Ushishur,Russia,Kuril Islands,Kuril Islands,47.52,152.8,2,1,4,,U-HHR,
 290211,Srednii,Russia,Kuril Islands,Kuril Islands,47.6,152.919999999999,2,0,No confirmed eruptions,,U-NHHR,
 290220,Rasshua,Russia,Kuril Islands,Kuril Islands,47.77,153.02,2,1,3,,U-HHR,
-290230,Unnamed,Russia,Kuril Islands,Kuril Islands,48.079999999999906,153.33,2,1,0,,U-HHR,
-290240,Sarychev Peak,Russia,Kuril Islands,Kuril Islands,48.091999999999906,153.199999999999,2,1,4,3.0,,2.0
+290230,Unnamed,Russia,Kuril Islands,Kuril Islands,48.07999999999991,153.33,2,1,0,,U-HHR,
+290240,Sarychev Peak,Russia,Kuril Islands,Kuril Islands,48.09199999999991,153.199999999999,2,1,4,3.0,,2.0
 290250,Raikoke,Russia,Kuril Islands,Kuril Islands,48.292,153.25,2,1,4,,U-HHR,
-290260,Chirinkotan,Russia,Kuril Islands,Kuril Islands,48.979999999999905,153.479999999999,1,1,2,1.0,,1.0
-290270,Ekarma,Russia,Kuril Islands,Kuril Islands,48.957999999999906,153.93,1,1,2,,U-HHR,
+290260,Chirinkotan,Russia,Kuril Islands,Kuril Islands,48.97999999999991,153.479999999999,1,1,2,1.0,,1.0
+290270,Ekarma,Russia,Kuril Islands,Kuril Islands,48.95799999999991,153.93,1,1,2,,U-HHR,
 290290,Sinarka,Russia,Kuril Islands,Kuril Islands,48.875,154.175,2,1,4,3.0,,2.0
-290300,Kharimkotan,Russia,Kuril Islands,Kuril Islands,49.119999999999905,154.508,2,1,5,3.0,,2.0
+290300,Kharimkotan,Russia,Kuril Islands,Kuril Islands,49.11999999999991,154.508,2,1,5,3.0,,2.0
 290310,Tao-Rusyr Caldera(s),Russia,Kuril Islands,Kuril Islands,49.35,154.699999999999,2,1,6,,U-HHR,
 290320,Nemo Peak,Russia,Kuril Islands,Kuril Islands,49.57,154.807999999999,2,1,2,,U-HHR,
 290331,Shirinki,Russia,Kuril Islands,Kuril Islands,50.2,154.979999999999,2,0,No confirmed eruptions,,U-NHHR,
 290340,Fuss Peak,Russia,Kuril Islands,Kuril Islands,50.27,155.25,2,1,3,,U-HHR,
 290350,Karpinsky Group,Russia,Kuril Islands,Kuril Islands,50.13,155.37,2,1,1,,U-HHR,
 290360,Chikurachki,Russia,Kuril Islands,Kuril Islands,50.325,155.458,2,1,4,2.0,,1.0
-290370,Vernadskii Ridge,Russia,Kuril Islands,Kuril Islands,50.549999999999905,155.97,2,0,No confirmed eruptions,,U-NHHR,
+290370,Vernadskii Ridge,Russia,Kuril Islands,Kuril Islands,50.54999999999991,155.97,2,0,No confirmed eruptions,,U-NHHR,
 290380,Ebeko,Russia,Kuril Islands,Kuril Islands,50.68,156.02,2,1,2,2.0,,1.0
-290390,Alaid,Russia,Kuril Islands,Kuril Islands,50.857999999999905,155.55,2,1,4,2.0,,1.0
+290390,Alaid,Russia,Kuril Islands,Kuril Islands,50.85799999999991,155.55,2,1,4,2.0,,1.0
 300001,Mashkovtsev,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,51.1,156.72,2,0,No confirmed eruptions,,U-NHHR,
-300010,Kambalny,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,51.299999999999905,156.87,2,0,Unknown VEI,,U-HR,
+300010,Kambalny,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,51.29999999999991,156.87,2,0,Unknown VEI,,U-HR,
 300020,Koshelev,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,51.35699999999991,156.75,2,1,3,,U-HHR,
 300021,Yavinsky,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,51.57,156.599999999999,2,0,Unknown VEI,,U-HR,
 300022,Diky Greben,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,51.45,156.97,2,0,Unknown VEI,,U-HR,
 300023,Kurile Lake,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,51.45,157.12,2,0,7,,U-HR,
 300030,Ilyinsky,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,51.49,157.199999999999,2,1,5,,U-HHR,
 300040,Zheltovsky,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,51.57,157.323,2,1,5,,U-HHR,
-300041,Kell,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,51.649999999999906,157.349999999999,2,0,No confirmed eruptions,,U-NHHR,
+300041,Kell,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,51.64999999999991,157.349999999999,2,0,No confirmed eruptions,,U-NHHR,
 300042,Belenkaya,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,51.75,157.27,2,0,No confirmed eruptions,,U-NHHR,
-300050,Ksudach,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,51.799999999999905,157.53,2,1,6,,U-HHR,
+300050,Ksudach,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,51.79999999999991,157.53,2,1,6,,U-HHR,
 300051,Ozernoy,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,51.88,157.38,2,0,No confirmed eruptions,,U-NHHR,
 300052,Olkoviy Volcanic Group,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,52.02,157.53,2,0,No confirmed eruptions,,U-NHHR,
 300053,Khodutka,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,52.063,157.703,2,0,5,,U-HR,
 300054,Piratkovsky,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,52.113,157.848999999999,2,0,No confirmed eruptions,,U-NHHR,
 300055,Ostanets,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,52.146,157.322,2,0,No confirmed eruptions,,U-NHHR,
 300056,Otdelniy,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,52.21999999999991,157.428,2,0,No confirmed eruptions,,U-NHHR,
-300057,Golaya,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,52.262999999999906,157.787,2,0,No confirmed eruptions,,U-NHHR,
-300058,Asacha,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,52.354999999999905,157.827,2,0,No confirmed eruptions,,U-NHHR,
+300057,Golaya,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,52.26299999999991,157.787,2,0,No confirmed eruptions,,U-NHHR,
+300058,Asacha,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,52.35499999999991,157.827,2,0,No confirmed eruptions,,U-NHHR,
 300059,Visokiy,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,52.43,157.93,2,0,No confirmed eruptions,,U-NHHR,
 300060,Mutnovsky,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,52.453,158.194999999999,2,1,3,1.0,,1.0
 300070,Gorely,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,52.558,158.03,2,1,3,1.0,,1.0
@@ -805,17 +805,17 @@ VolcanoID,V_Name,Country,Region,Subregion,Latitude,Longitude,PEI,H_active,VEI_Ho
 300084,Barkhatnaya Sopka,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,52.823,158.27,2,0,Unknown VEI,,U-HR,
 300085,Unnamed,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,52.92,158.52,5,0,No confirmed eruptions,,U-NHHR,
 300086,Unnamed,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,52.88,158.3,5,0,No confirmed eruptions,,U-NHHR,
-300087,Bolshe-Bannaya,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,52.899999999999906,157.78,2,0,No confirmed eruptions,,U-NHHR,
+300087,Bolshe-Bannaya,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,52.89999999999991,157.78,2,0,No confirmed eruptions,,U-NHHR,
 300090,Koryaksky,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,53.32,158.687999999999,3,1,3,3.0,,2.0
 300100,Avachinsky,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,53.255,158.83,3,1,5,3.0,,2.0
 300110,Dzenzursky,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,53.637,158.922,2,0,No confirmed eruptions,,U-NHHR,
 300120,Zhupanovsky,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,53.59,159.146999999999,2,1,2,1.0,,1.0
 300121,Veer,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,53.75,158.449999999999,2,0,2,,U-HR,
-300122,Kostakan,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,53.829999999999906,158.05,2,0,3,1.0,,1.0
+300122,Kostakan,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,53.82999999999991,158.05,2,0,3,1.0,,1.0
 300123,Bakening,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,53.905,158.069999999999,2,0,3,,U-HR,
 300124,Zavaritsky,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,53.905,158.384999999999,2,0,4,,U-HR,
-300125,Akademia Nauk,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,53.979999999999905,159.449999999999,2,1,3,,U-HHR,
-300130,Karymsky,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,54.049999999999905,159.449999999999,2,1,6,2.0,,1.0
+300125,Akademia Nauk,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,53.97999999999991,159.449999999999,2,1,3,,U-HHR,
+300130,Karymsky,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,54.04999999999991,159.449999999999,2,1,6,2.0,,1.0
 300140,Maly Semiachik,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,54.13,159.669999999999,2,1,4,2.0,,1.0
 300150,Bolshoi Semiachik,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,54.32,160.02,2,0,Unknown VEI,,U-HR,
 300160,Taunshits,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,54.53,159.8,2,0,Unknown VEI,,U-HR,
@@ -829,31 +829,31 @@ VolcanoID,V_Name,Country,Region,Subregion,Latitude,Longitude,PEI,H_active,VEI_Ho
 300221,Vysoky,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,55.07,160.77,2,0,0,,U-HR,
 300230,Kizimen,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,55.13,160.319999999999,2,1,5,,U-HHR,
 300232,Unnamed,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,55.92,161.75,2,0,No confirmed eruptions,,U-NHHR,
-300240,Tolbachik,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,55.829999999999906,160.33,2,1,4,2.0,,1.0
+300240,Tolbachik,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,55.82999999999991,160.33,2,1,4,2.0,,1.0
 300241,Udina,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,55.755,160.526999999999,2,0,No confirmed eruptions,,U-NHHR,
 300242,Zimina,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,55.862,160.603,2,0,No confirmed eruptions,,U-NHHR,
 300250,Bezymianny,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,55.978,160.586999999999,2,1,5,3.0,,2.0
 300251,Kamen,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,56.02,160.592999999999,2,0,No confirmed eruptions,,U-NHHR,
 300260,Kliuchevskoi,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,56.057,160.638,2,1,4,2.0,,1.0
 300261,Ushkovsky,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,56.07,160.47,2,1,2,,U-HHR,
-300270,Shiveluch,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,56.652999999999906,161.36,2,1,5,3.0,,2.0
+300270,Shiveluch,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,56.65299999999991,161.36,2,1,5,3.0,,2.0
 300271,Piip,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,55.42,167.33,2,0,Unknown VEI,,U-HR,
 300272,Khangar,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,54.75,157.38,2,1,6,,U-HHR,
-300273,Cherpuk Group,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,55.549999999999905,157.47,2,0,Unknown VEI,,U-HR,
+300273,Cherpuk Group,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,55.54999999999991,157.47,2,0,Unknown VEI,,U-HR,
 300280,Ichinsky,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,55.68,157.729999999999,2,1,5,,U-HHR,
 300290,Maly Payalpan,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,55.82,157.979999999999,2,0,No confirmed eruptions,,U-NHHR,
 300300,Bolshoi Payalpan,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,55.88,157.78,2,0,No confirmed eruptions,,U-NHHR,
 300310,Plosky,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,55.2,158.47,2,0,No confirmed eruptions,,U-NHHR,
 300320,Akhtang,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,55.43,158.65,2,0,No confirmed eruptions,,U-NHHR,
-300330,Kozyrevsky,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,55.579999999999906,158.38,2,0,No confirmed eruptions,,U-NHHR,
-300340,Romanovka,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,55.649999999999906,158.8,2,0,No confirmed eruptions,,U-NHHR,
-300350,Uksichan,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,56.079999999999906,158.38,2,0,No confirmed eruptions,,U-NHHR,
+300330,Kozyrevsky,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,55.57999999999991,158.38,2,0,No confirmed eruptions,,U-NHHR,
+300340,Romanovka,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,55.64999999999991,158.8,2,0,No confirmed eruptions,,U-NHHR,
+300350,Uksichan,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,56.07999999999991,158.38,2,0,No confirmed eruptions,,U-NHHR,
 300360,Bolshoi-Kekuknaysky,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,56.46999999999991,157.8,2,0,3,,U-HR,
-300370,Kulkev,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,56.369999999999905,158.37,2,0,No confirmed eruptions,,U-NHHR,
-300380,Geodesistoy,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,56.329999999999906,158.669999999999,2,0,No confirmed eruptions,,U-NHHR,
+300370,Kulkev,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,56.36999999999991,158.37,2,0,No confirmed eruptions,,U-NHHR,
+300380,Geodesistoy,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,56.32999999999991,158.669999999999,2,0,No confirmed eruptions,,U-NHHR,
 300390,Anaun,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,56.32,158.83,2,0,No confirmed eruptions,,U-NHHR,
-300400,Krainy,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,56.369999999999905,159.03,2,0,No confirmed eruptions,,U-NHHR,
-300410,Kekurny,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,56.399999999999906,158.849999999999,2,0,No confirmed eruptions,,U-NHHR,
+300400,Krainy,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,56.36999999999991,159.03,2,0,No confirmed eruptions,,U-NHHR,
+300410,Kekurny,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,56.39999999999991,158.849999999999,2,0,No confirmed eruptions,,U-NHHR,
 300420,Eggella,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,56.57,158.52,2,0,No confirmed eruptions,,U-NHHR,
 300430,Unnamed,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,56.82,158.949999999999,2,0,No confirmed eruptions,,U-NHHR,
 300440,Verkhovoy,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,56.52,159.53,2,0,No confirmed eruptions,,U-NHHR,
@@ -864,56 +864,56 @@ VolcanoID,V_Name,Country,Region,Subregion,Latitude,Longitude,PEI,H_active,VEI_Ho
 300490,Bliznets,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,56.96999999999991,159.78,2,0,No confirmed eruptions,,U-NHHR,
 300500,Kebeney,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,57.1,159.93,2,0,No confirmed eruptions,,U-NHHR,
 300510,Fedotych,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,57.13,160.4,2,0,No confirmed eruptions,,U-NHHR,
-300511,Shisheika,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,57.149999999999906,161.08,2,0,Unknown VEI,,U-HR,
+300511,Shisheika,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,57.14999999999991,161.08,2,0,Unknown VEI,,U-HR,
 300512,Terpuk,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,57.2,159.83,2,0,Unknown VEI,,U-HR,
 300520,Sedankinsky,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,57.27,160.08,2,0,Unknown VEI,,U-HR,
-300530,Leutongey,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,57.299999999999905,159.83,2,0,No confirmed eruptions,,U-NHHR,
+300530,Leutongey,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,57.29999999999991,159.83,2,0,No confirmed eruptions,,U-NHHR,
 300540,Tuzovsky,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,57.32,159.97,2,0,No confirmed eruptions,,U-NHHR,
-300550,Gorny Institute,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,57.329999999999906,160.199999999999,2,0,0,,U-HR,
+300550,Gorny Institute,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,57.32999999999991,160.199999999999,2,0,0,,U-HR,
 300551,Kinenin,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,57.35,160.97,2,0,4,,U-HR,
 300552,Bliznetsy,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,57.35,161.37,2,0,1,,U-HR,
-300560,Titila,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,57.399999999999906,160.099999999999,2,0,Unknown VEI,,U-HR,
+300560,Titila,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,57.39999999999991,160.099999999999,2,0,Unknown VEI,,U-HR,
 300570,Mezhdusopochny,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,57.46999999999991,160.25,2,0,No confirmed eruptions,,U-NHHR,
 300580,Shishel,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,57.45,160.37,2,0,No confirmed eruptions,,U-NHHR,
-300590,Elovsky,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,57.549999999999905,160.53,2,0,4,,U-HR,
+300590,Elovsky,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,57.54999999999991,160.53,2,0,4,,U-HR,
 300600,Alngey,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,57.7,160.4,2,0,No confirmed eruptions,,U-NHHR,
 300610,Uka,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,57.7,160.58,2,0,No confirmed eruptions,,U-NHHR,
-300620,Kaileney,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,57.799999999999905,160.669999999999,2,0,No confirmed eruptions,,U-NHHR,
-300630,Plosky,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,57.829999999999906,160.25,2,0,No confirmed eruptions,,U-NHHR,
+300620,Kaileney,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,57.79999999999991,160.669999999999,2,0,No confirmed eruptions,,U-NHHR,
+300630,Plosky,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,57.82999999999991,160.25,2,0,No confirmed eruptions,,U-NHHR,
 300640,Bely,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,57.88,160.53,2,0,No confirmed eruptions,,U-NHHR,
 300650,Nylgimelkin,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,57.96999999999991,160.65,2,0,Unknown VEI,,U-HR,
 300660,Snezhniy,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,58.02,160.8,2,0,No confirmed eruptions,,U-NHHR,
-300670,Iktunup,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,58.079999999999906,160.77,2,0,No confirmed eruptions,,U-NHHR,
+300670,Iktunup,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,58.07999999999991,160.77,2,0,No confirmed eruptions,,U-NHHR,
 300671,Spokoiny,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,58.13,160.819999999999,2,0,Unknown VEI,,U-HR,
 300680,Ostry,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,58.18,160.819999999999,2,0,Unknown VEI,,U-HR,
 300690,Snegovoy,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,58.2,160.97,2,0,No confirmed eruptions,,U-NHHR,
 300700,Severny,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,58.28,160.87,2,0,Unknown VEI,,U-HR,
-300710,Iettunup,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,58.399999999999906,161.08,2,0,No confirmed eruptions,,U-NHHR,
-300720,Voyampolsky,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,58.369999999999905,160.62,2,0,No confirmed eruptions,,U-NHHR,
+300710,Iettunup,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,58.39999999999991,161.08,2,0,No confirmed eruptions,,U-NHHR,
+300720,Voyampolsky,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,58.36999999999991,160.62,2,0,No confirmed eruptions,,U-NHHR,
 302010,Sikhote-Alin,Russia,Kamchatka and Mainland Asia,Russia (southeastern),47.0,137.5,5,0,No confirmed eruptions,,U-NHHR,
 302030,Udokan Plateau,Russia,Kamchatka and Mainland Asia,Russia (southeastern),56.28,117.77,2,0,Unknown VEI,,U-HR,
 302040,Vitim Plateau,Russia,Kamchatka and Mainland Asia,Russia (southeastern),53.7,113.3,2,0,No confirmed eruptions,,U-NHHR,
 302050,Tunkin Depression,Russia,Kamchatka and Mainland Asia,Russia (southeastern),51.5,102.5,2,0,No confirmed eruptions,,U-NHHR,
 302060,Oka Plateau,Russia,Kamchatka and Mainland Asia,Russia (southeastern),52.7,98.98,2,0,No confirmed eruptions,,U-NHHR,
-302070,Azas Plateau,Russia,Kamchatka and Mainland Asia,Russia (southeastern),52.52,98.59999999999991,2,0,No confirmed eruptions,,U-NHHR,
+302070,Azas Plateau,Russia,Kamchatka and Mainland Asia,Russia (southeastern),52.52,98.59999999999992,2,0,No confirmed eruptions,,U-NHHR,
 303010,Taryatu-Chulutu,Mongolia,Kamchatka and Mainland Asia,Mongolia,48.17,99.7,3,0,Unknown VEI,,U-HR,
 303020,Khanuy Gol,Mongolia,Kamchatka and Mainland Asia,Mongolia,48.67,102.75,3,0,No confirmed eruptions,,U-NHHR,
-303030,Bus-Obo,Mongolia,Kamchatka and Mainland Asia,Mongolia,47.119999999999905,109.08,2,0,No confirmed eruptions,,U-NHHR,
-303040,Dariganga Volcanic Field,Mongolia,Kamchatka and Mainland Asia,Mongolia,45.329999999999906,114.0,4,0,No confirmed eruptions,,U-NHHR,
+303030,Bus-Obo,Mongolia,Kamchatka and Mainland Asia,Mongolia,47.11999999999991,109.08,2,0,No confirmed eruptions,,U-NHHR,
+303040,Dariganga Volcanic Field,Mongolia,Kamchatka and Mainland Asia,Mongolia,45.32999999999991,114.0,4,0,No confirmed eruptions,,U-NHHR,
 303050,Middle Gobi,Mongolia,Kamchatka and Mainland Asia,Mongolia,45.28,106.7,3,0,No confirmed eruptions,,U-NHHR,
-304010,Turfan,China,Kamchatka and Mainland Asia,China (western),42.899999999999906,89.25,5,0,Unknown VEI,,U-HR,
+304010,Turfan,China,Kamchatka and Mainland Asia,China (western),42.89999999999991,89.25,5,0,Unknown VEI,,U-HR,
 304020,Tianshan Volcanic Group,China,Kamchatka and Mainland Asia,China (western),42.5,82.5,2,0,Unknown VEI,,U-HR,
 304030,Kunlun Volcanic Group,China,Kamchatka and Mainland Asia,China (western),35.52,80.2,2,1,2,,U-HHR,
 304040,Unnamed,China,Kamchatka and Mainland Asia,China (western),35.85,91.7,2,0,No confirmed eruptions,,U-NHHR,
 305010,Honggeertu,China,Kamchatka and Mainland Asia,China (eastern),41.46999999999991,113.0,5,0,No confirmed eruptions,,U-NHHR,
 305011,Arshan,China,Kamchatka and Mainland Asia,China (eastern),47.5,120.7,3,0,Unknown VEI,,U-HR,
-305020,Keluo Group,China,Kamchatka and Mainland Asia,China (eastern),49.369999999999905,125.92,4,0,No confirmed eruptions,,U-NHHR,
+305020,Keluo Group,China,Kamchatka and Mainland Asia,China (eastern),49.36999999999991,125.92,4,0,No confirmed eruptions,,U-NHHR,
 305030,Wudalianchi,China,Kamchatka and Mainland Asia,China (eastern),48.71999999999991,126.12,5,1,3,,U-HHR,
-305040,Jingbo,China,Kamchatka and Mainland Asia,China (eastern),44.079999999999906,128.83,5,0,Unknown VEI,,U-HR,
-305050,Longgang Group,China,Kamchatka and Mainland Asia,China (eastern),42.329999999999906,126.5,5,0,Unknown VEI,,U-HR,
-305060,Changbaishan,China-North Korea,Kamchatka and Mainland Asia,China (eastern),41.979999999999905,128.08,3,1,7,,U-HHR,
-306010,Xianjindao,North Korea,Kamchatka and Mainland Asia,Korea,41.329999999999906,128.0,4,0,No confirmed eruptions,,U-NHHR,
-306020,Ch'uga-ryong,North Korea-South Korea,Kamchatka and Mainland Asia,Korea,38.329999999999906,127.33,5,0,No confirmed eruptions,,U-NHHR,
+305040,Jingbo,China,Kamchatka and Mainland Asia,China (eastern),44.07999999999991,128.83,5,0,Unknown VEI,,U-HR,
+305050,Longgang Group,China,Kamchatka and Mainland Asia,China (eastern),42.32999999999991,126.5,5,0,Unknown VEI,,U-HR,
+305060,Changbaishan,China-North Korea,Kamchatka and Mainland Asia,China (eastern),41.97999999999991,128.08,3,1,7,,U-HHR,
+306010,Xianjindao,North Korea,Kamchatka and Mainland Asia,Korea,41.32999999999991,128.0,4,0,No confirmed eruptions,,U-NHHR,
+306020,Ch'uga-ryong,North Korea-South Korea,Kamchatka and Mainland Asia,Korea,38.32999999999991,127.33,5,0,No confirmed eruptions,,U-NHHR,
 306030,Ulreung,South Korea,Kamchatka and Mainland Asia,Korea,37.5,130.87,3,0,6,,U-HR,
 306040,Halla,South Korea,Kamchatka and Mainland Asia,Korea,33.3699999999999,126.53,4,0,Unknown VEI,,U-HR,
 311010,Buldir,United States,Alaska,Aleutian Islands,52.35,175.911,1,0,No confirmed eruptions,,U-NHHR,
@@ -923,45 +923,45 @@ VolcanoID,V_Name,Country,Region,Subregion,Latitude,Longitude,PEI,H_active,VEI_Ho
 311050,Little Sitkin,United States,Alaska,Aleutian Islands,51.95,178.543,1,1,1,,U-HHR,
 311060,Semisopochnoi,United States,Alaska,Aleutian Islands,51.93,179.58,1,1,2,,U-HHR,
 311070,Gareloi,United States,Alaska,Aleutian Islands,51.78999999999991,-178.794,1,1,3,1.0,,1.0
-311080,Tanaga,United States,Alaska,Aleutian Islands,51.884999999999906,-178.145999999999,1,1,0,,U-HHR,
-311090,Takawangha,United States,Alaska,Aleutian Islands,51.872999999999905,-178.006,1,1,Unknown VEI,,U-HHR,
+311080,Tanaga,United States,Alaska,Aleutian Islands,51.88499999999991,-178.145999999999,1,1,0,,U-HHR,
+311090,Takawangha,United States,Alaska,Aleutian Islands,51.87299999999991,-178.006,1,1,Unknown VEI,,U-HHR,
 311100,Bobrof,United States,Alaska,Aleutian Islands,51.909999999999904,-177.437999999999,1,0,No confirmed eruptions,,U-NHHR,
 311110,Kanaga,United States,Alaska,Aleutian Islands,51.923,-177.168,1,1,2,1.0,,1.0
 311111,Moffett,United States,Alaska,Aleutian Islands,51.944,-176.747,1,0,Unknown VEI,,U-HR,
 311120,Great Sitkin,United States,Alaska,Aleutian Islands,52.076,-176.13,1,1,2,1.0,,1.0
 311130,Kasatochi,United States,Alaska,Aleutian Islands,52.177,-175.508,2,1,4,,U-HHR,
 311140,Koniuji,United States,Alaska,Aleutian Islands,52.21999999999991,-175.13,1,0,Unknown VEI,,U-HR,
-311150,Sergief,United States,Alaska,Aleutian Islands,52.049999999999905,-174.949999999999,2,0,No confirmed eruptions,,U-NHHR,
+311150,Sergief,United States,Alaska,Aleutian Islands,52.04999999999991,-174.949999999999,2,0,No confirmed eruptions,,U-NHHR,
 311160,Atka,United States,Alaska,Aleutian Islands,52.332,-174.137,2,1,3,,U-HHR,
 311161,Korovin,United States,Alaska,Aleutian Islands,52.381,-174.154,2,1,3,1.0,,1.0
-311180,Seguam,United States,Alaska,Aleutian Islands,52.314999999999905,-172.509999999999,1,1,5,2.0,,1.0
+311180,Seguam,United States,Alaska,Aleutian Islands,52.31499999999991,-172.509999999999,1,1,5,2.0,,1.0
 311190,Amukta,United States,Alaska,Aleutian Islands,52.5,-171.252,1,1,3,1.0,,1.0
-311200,Chagulak,United States,Alaska,Aleutian Islands,52.576999999999906,-171.13,1,0,No confirmed eruptions,,U-NHHR,
+311200,Chagulak,United States,Alaska,Aleutian Islands,52.57699999999991,-171.13,1,0,No confirmed eruptions,,U-NHHR,
 311210,Yunaska,United States,Alaska,Aleutian Islands,52.643,-170.628999999999,1,1,3,,U-HHR,
-311220,Herbert,United States,Alaska,Aleutian Islands,52.741999999999905,-170.110999999999,1,0,No confirmed eruptions,,U-NHHR,
-311230,Carlisle,United States,Alaska,Aleutian Islands,52.893999999999906,-170.054,1,1,Unknown VEI,,U-HHR,
+311220,Herbert,United States,Alaska,Aleutian Islands,52.74199999999991,-170.110999999999,1,0,No confirmed eruptions,,U-NHHR,
+311230,Carlisle,United States,Alaska,Aleutian Islands,52.89399999999991,-170.054,1,1,Unknown VEI,,U-HHR,
 311240,Cleveland,United States,Alaska,Aleutian Islands,52.825,-169.943999999999,1,1,3,2.0,,1.0
-311241,Tana,United States,Alaska,Aleutian Islands,52.829999999999906,-169.77,1,0,No confirmed eruptions,,U-NHHR,
-311250,Uliaga,United States,Alaska,Aleutian Islands,53.064999999999905,-169.77,1,0,No confirmed eruptions,,U-NHHR,
+311241,Tana,United States,Alaska,Aleutian Islands,52.82999999999991,-169.77,1,0,No confirmed eruptions,,U-NHHR,
+311250,Uliaga,United States,Alaska,Aleutian Islands,53.06499999999991,-169.77,1,0,No confirmed eruptions,,U-NHHR,
 311260,Kagamil,United States,Alaska,Aleutian Islands,52.973999999999904,-169.72,1,1,Unknown VEI,,U-HHR,
 311270,Vsevidof,United States,Alaska,Aleutian Islands,53.13,-168.693,1,1,3,,U-HHR,
 311280,Recheschnoi,United States,Alaska,Aleutian Islands,53.156999999999904,-168.538999999999,1,0,No confirmed eruptions,,U-NHHR,
 311290,Okmok,United States,Alaska,Aleutian Islands,53.43,-168.13,1,1,6,2.0,,1.0
 311300,Bogoslof,United States,Alaska,Aleutian Islands,53.93,-168.03,2,1,3,2.0,,1.0
-311310,Makushin,United States,Alaska,Aleutian Islands,53.890999999999906,-166.923,2,1,5,1.0,,1.0
+311310,Makushin,United States,Alaska,Aleutian Islands,53.89099999999991,-166.923,2,1,5,1.0,,1.0
 311320,Akutan,United States,Alaska,Aleutian Islands,54.134,-165.985999999999,2,1,5,2.0,,1.0
 311340,Westdahl,United States,Alaska,Aleutian Islands,54.518,-164.65,2,1,4,2.0,,1.0
-311350,Fisher,United States,Alaska,Aleutian Islands,54.649999999999906,-164.43,1,1,6,3.0,,1.0
+311350,Fisher,United States,Alaska,Aleutian Islands,54.64999999999991,-164.43,1,1,6,3.0,,1.0
 311360,Shishaldin,United States,Alaska,Aleutian Islands,54.756,-163.97,2,1,3,2.0,,1.0
 311370,Isanotski,United States,Alaska,Aleutian Islands,54.765,-163.723,2,0,No confirmed eruptions,,U-NHHR,
-311380,Roundtop,United States,Alaska,Aleutian Islands,54.799999999999905,-163.589,2,0,5,,U-HR,
+311380,Roundtop,United States,Alaska,Aleutian Islands,54.79999999999991,-163.589,2,0,5,,U-HR,
 311390,Amak,United States,Alaska,Aleutian Islands,55.42399999999991,-163.149,2,1,Unknown VEI,,U-HHR,
 312010,Frosty,United States,Alaska,Alaska Peninsula,55.082,-162.813999999999,2,0,No confirmed eruptions,,U-NHHR,
 312011,Dutton,United States,Alaska,Alaska Peninsula,55.16799999999991,-162.271999999999,2,0,No confirmed eruptions,,U-NHHR,
 312020,Emmons Lake,United States,Alaska,Alaska Peninsula,55.341,-162.079,2,0,No confirmed eruptions,,U-NHHR,
 312030,Pavlof,United States,Alaska,Alaska Peninsula,55.42,-161.887,2,1,4,2.0,,1.0
 312040,Pavlof Sister,United States,Alaska,Alaska Peninsula,55.453,-161.842999999999,2,0,No confirmed eruptions,,U-NHHR,
-312050,Dana,United States,Alaska,Alaska Peninsula,55.640999999999906,-161.214,2,0,5,,U-HR,
+312050,Dana,United States,Alaska,Alaska Peninsula,55.64099999999991,-161.214,2,0,5,,U-HR,
 312051,Stepovak Bay 2,United States,Alaska,Alaska Peninsula,55.912999999999904,-160.041,2,0,No confirmed eruptions,,U-NHHR,
 312052,Stepovak Bay 3,United States,Alaska,Alaska Peninsula,55.929,-160.002,2,0,No confirmed eruptions,,U-NHHR,
 312053,Stepovak Bay 4,United States,Alaska,Alaska Peninsula,55.954,-159.954,2,0,No confirmed eruptions,,U-NHHR,
@@ -969,25 +969,25 @@ VolcanoID,V_Name,Country,Region,Subregion,Latitude,Longitude,PEI,H_active,VEI_Ho
 312070,Veniaminof,United States,Alaska,Alaska Peninsula,56.17,-159.38,2,1,6,2.0,,1.0
 312080,Black Peak,United States,Alaska,Alaska Peninsula,56.552,-158.785,2,0,6,,U-HR,
 312090,Aniakchak,United States,Alaska,Alaska Peninsula,56.88,-158.169999999999,2,1,6,,U-HHR,
-312100,Yantarni,United States,Alaska,Alaska Peninsula,57.018999999999906,-157.185,1,0,5,,U-HR,
-312110,Chiginagak,United States,Alaska,Alaska Peninsula,57.134999999999906,-156.99,1,1,2,,U-HHR,
+312100,Yantarni,United States,Alaska,Alaska Peninsula,57.01899999999991,-157.185,1,0,5,,U-HR,
+312110,Chiginagak,United States,Alaska,Alaska Peninsula,57.13499999999991,-156.99,1,1,2,,U-HHR,
 312120,Kialagvik,United States,Alaska,Alaska Peninsula,57.203,-156.745,1,0,No confirmed eruptions,,U-NHHR,
-312130,Ugashik-Peulik,United States,Alaska,Alaska Peninsula,57.750999999999905,-156.367999999999,1,1,3,,U-HHR,
+312130,Ugashik-Peulik,United States,Alaska,Alaska Peninsula,57.75099999999991,-156.367999999999,1,1,3,,U-HHR,
 312131,Ukinrek Maars,United States,Alaska,Alaska Peninsula,57.832,-156.509999999999,2,1,3,,U-HHR,
-312132,Unnamed,United States,Alaska,Alaska Peninsula,57.869999999999905,-155.419999999999,1,0,No confirmed eruptions,,U-NHHR,
-312140,Martin,United States,Alaska,Alaska Peninsula,58.171999999999905,-155.360999999999,2,1,Unknown VEI,,U-HHR,
+312132,Unnamed,United States,Alaska,Alaska Peninsula,57.86999999999991,-155.419999999999,1,0,No confirmed eruptions,,U-NHHR,
+312140,Martin,United States,Alaska,Alaska Peninsula,58.17199999999991,-155.360999999999,2,1,Unknown VEI,,U-HHR,
 312150,Mageik,United States,Alaska,Alaska Peninsula,58.195,-155.252999999999,2,0,Unknown VEI,,U-HR,
-312160,Trident,United States,Alaska,Alaska Peninsula,58.235999999999905,-155.099999999999,1,1,3,2.0,,1.0
+312160,Trident,United States,Alaska,Alaska Peninsula,58.23599999999991,-155.099999999999,1,1,3,2.0,,1.0
 312170,Katmai,United States,Alaska,Alaska Peninsula,58.28,-154.962999999999,1,1,3,,U-HHR,
 312180,Novarupta,United States,Alaska,Alaska Peninsula,58.27,-155.157,2,1,6,,U-HHR,
 312190,Griggs,United States,Alaska,Alaska Peninsula,58.35399999999991,-155.092,2,0,Unknown VEI,,U-HR,
-312200,Snowy Mountain,United States,Alaska,Alaska Peninsula,58.335999999999906,-154.681999999999,2,1,Unknown VEI,,U-HHR,
+312200,Snowy Mountain,United States,Alaska,Alaska Peninsula,58.33599999999991,-154.681999999999,2,1,Unknown VEI,,U-HHR,
 312210,Denison,United States,Alaska,Alaska Peninsula,58.41799999999991,-154.449,1,0,No confirmed eruptions,,U-NHHR,
 312220,Steller,United States,Alaska,Alaska Peninsula,58.43,-154.4,1,0,No confirmed eruptions,,U-NHHR,
 312230,Kukak,United States,Alaska,Alaska Peninsula,58.453,-154.354999999999,1,0,No confirmed eruptions,,U-NHHR,
-312250,Kaguyak,United States,Alaska,Alaska Peninsula,58.607999999999905,-154.027999999999,1,0,5,,U-HR,
+312250,Kaguyak,United States,Alaska,Alaska Peninsula,58.60799999999991,-154.027999999999,1,0,5,,U-HR,
 312260,Fourpeaked,United States,Alaska,Alaska Peninsula,58.77,-153.672,1,1,2,,U-HHR,
-312270,Douglas,United States,Alaska,Alaska Peninsula,58.854999999999905,-153.542,1,0,No confirmed eruptions,,U-NHHR,
+312270,Douglas,United States,Alaska,Alaska Peninsula,58.85499999999991,-153.542,1,0,No confirmed eruptions,,U-NHHR,
 313010,Augustine,United States,Alaska,Alaska (southwestern),59.363,-153.43,2,1,4,3.0,,2.0
 313020,Iliamna,United States,Alaska,Alaska (southwestern),60.031999999999904,-153.09,2,1,4,3.0,,2.0
 313030,Redoubt,United States,Alaska,Alaska (southwestern),60.48499999999991,-152.741999999999,2,1,3,3.0,,2.0
@@ -1004,32 +1004,32 @@ VolcanoID,V_Name,Country,Region,Subregion,Latitude,Longitude,PEI,H_active,VEI_Ho
 315020,Wrangell,United States,Alaska,Alaska (eastern),62.0,-144.02,2,1,4,1.0,,1.0
 315021,Gordon,United States,Alaska,Alaska (eastern),62.13,-143.08,2,0,No confirmed eruptions,,U-NHHR,
 315030,Churchill,United States,Alaska,Alaska (eastern),61.38,-141.75,1,0,6,,U-HR,
-315040,Edgecumbe,United States,Alaska,Alaska (eastern),57.049999999999905,-135.75,2,0,Unknown VEI,,U-HR,
+315040,Edgecumbe,United States,Alaska,Alaska (eastern),57.04999999999991,-135.75,2,0,Unknown VEI,,U-HR,
 315050,Duncan Canal,United States,Alaska,Alaska (eastern),56.5,-133.099999999999,2,0,No confirmed eruptions,,U-NHHR,
 315060,Tlevak Strait-Suemez Is.,United States,Alaska,Alaska (eastern),55.25,-133.3,2,0,No confirmed eruptions,,U-NHHR,
 315070,Behm Canal-Rudyerd Bay,United States,Alaska,Alaska (eastern),55.32,-131.05,2,0,No confirmed eruptions,,U-NHHR,
 320010,Fort Selkirk,Canada,Canada and Western USA,Canada,62.93,-137.38,2,0,No confirmed eruptions,,U-NHHR,
 320020,Alligator Lake,Canada,Canada and Western USA,Canada,60.42,-135.419999999999,2,0,No confirmed eruptions,,U-NHHR,
 320030,Atlin Volcanic Field,Canada,Canada and Western USA,Canada,59.68,-133.319999999999,2,0,No confirmed eruptions,,U-NHHR,
-320031,Tuya Volcanic Field,Canada,Canada and Western USA,Canada,59.369999999999905,-130.58,2,0,No confirmed eruptions,,U-NHHR,
+320031,Tuya Volcanic Field,Canada,Canada and Western USA,Canada,59.36999999999991,-130.58,2,0,No confirmed eruptions,,U-NHHR,
 320040,Heart Peaks,Canada,Canada and Western USA,Canada,58.6,-131.97,2,0,No confirmed eruptions,,U-NHHR,
 320050,Level Mountain,Canada,Canada and Western USA,Canada,58.42,-131.349999999999,2,0,No confirmed eruptions,,U-NHHR,
 320060,Edziza,Canada,Canada and Western USA,Canada,57.71999999999991,-130.63,2,0,3,,U-HR,
 320070,Spectrum Range,Canada,Canada and Western USA,Canada,57.43,-130.68,2,0,No confirmed eruptions,,U-NHHR,
 320080,Hoodoo Mountain,Canada,Canada and Western USA,Canada,56.78,-131.28,2,0,0,,U-HR,
-320090,Iskut-Unuk River Cones,Canada,Canada and Western USA,Canada,56.579999999999906,-130.55,2,1,Unknown VEI,,U-HHR,
-320100,Tseax River Cone,Canada,Canada and Western USA,Canada,55.119999999999905,-128.9,2,1,Unknown VEI,,U-HHR,
+320090,Iskut-Unuk River Cones,Canada,Canada and Western USA,Canada,56.57999999999991,-130.55,2,1,Unknown VEI,,U-HHR,
+320100,Tseax River Cone,Canada,Canada and Western USA,Canada,55.11999999999991,-128.9,2,1,Unknown VEI,,U-HHR,
 320110,Crow Lagoon,Canada,Canada and Western USA,Canada,54.7,-130.229999999999,2,0,No confirmed eruptions,,U-NHHR,
 320120,Milbanke Sound Group,Canada,Canada and Western USA,Canada,52.5,-128.729999999999,2,0,No confirmed eruptions,,U-NHHR,
 320130,Satah Mountain,Canada,Canada and Western USA,Canada,52.46999999999991,-124.7,2,0,No confirmed eruptions,,U-NHHR,
-320140,Nazko,Canada,Canada and Western USA,Canada,52.899999999999906,-123.73,2,0,Unknown VEI,,U-HR,
-320150,Wells Gray-Clearwater,Canada,Canada and Western USA,Canada,52.329999999999906,-120.569999999999,2,1,Unknown VEI,,U-HHR,
+320140,Nazko,Canada,Canada and Western USA,Canada,52.89999999999991,-123.73,2,0,Unknown VEI,,U-HR,
+320150,Wells Gray-Clearwater,Canada,Canada and Western USA,Canada,52.32999999999991,-120.569999999999,2,1,Unknown VEI,,U-HHR,
 320160,Silverthrone,Canada,Canada and Western USA,Canada,51.43,-126.3,2,0,No confirmed eruptions,,U-NHHR,
-320170,Bridge River Cones,Canada,Canada and Western USA,Canada,50.799999999999905,-123.4,2,0,No confirmed eruptions,,U-NHHR,
+320170,Bridge River Cones,Canada,Canada and Western USA,Canada,50.79999999999991,-123.4,2,0,No confirmed eruptions,,U-NHHR,
 320180,Meager,Canada,Canada and Western USA,Canada,50.63,-123.5,2,0,5,,U-HR,
 320190,Garibaldi Lake,Canada,Canada and Western USA,Canada,49.92,-123.03,4,0,No confirmed eruptions,,U-NHHR,
 320200,Garibaldi,Canada,Canada and Western USA,Canada,49.85,-123.0,3,0,3,,U-HR,
-320811,Cayley Volcanic Field,Canada,Canada and Western USA,Canada,50.119999999999905,-123.28,1,0,No confirmed eruptions,,U-NHHR,
+320811,Cayley Volcanic Field,Canada,Canada and Western USA,Canada,50.11999999999991,-123.28,1,0,No confirmed eruptions,,U-NHHR,
 321010,Baker,United States,Canada and Western USA,USA (Washington),48.777,-121.813,3,1,3,2.0,,2.0
 321020,Glacier Peak,United States,Canada and Western USA,USA (Washington),48.112,-121.113,3,1,4,,U-HHR,
 321030,Rainier,United States,Canada and Western USA,USA (Washington),46.853,-121.76,3,1,4,3.0,,2.0
@@ -1050,18 +1050,18 @@ VolcanoID,V_Name,Country,Region,Subregion,Latitude,Longitude,PEI,H_active,VEI_Ho
 322150,Cinnamon Butte,United States,Canada and Western USA,USA (Oregon),43.241,-122.108,2,0,No confirmed eruptions,,U-NHHR,
 322160,Crater Lake,United States,Canada and Western USA,USA (Oregon),42.93,-122.12,2,0,7,,U-HR,
 322170,Diamond Craters,United States,Canada and Western USA,USA (Oregon),43.1,-118.75,2,0,4,,U-HR,
-322190,Jordan Craters,United States,Canada and Western USA,USA (Oregon),43.146999999999906,-117.459999999999,2,0,2,,U-HR,
+322190,Jordan Craters,United States,Canada and Western USA,USA (Oregon),43.14699999999991,-117.459999999999,2,0,2,,U-HR,
 323010,Shasta,United States,Canada and Western USA,USA (California),41.40899999999991,-122.193,2,1,4,3.0,,2.0
-323020,Medicine Lake,United States,Canada and Western USA,USA (California),41.610999999999905,-121.554,2,0,3,1.0,,1.0
+323020,Medicine Lake,United States,Canada and Western USA,USA (California),41.61099999999991,-121.554,2,0,3,1.0,,1.0
 323050,Silver Lake,United States,Canada and Western USA,USA (California),40.731,-121.840999999999,2,0,No confirmed eruptions,,U-NHHR,
-323080,Lassen Volcanic Center,United States,Canada and Western USA,USA (California),40.491999999999905,-121.508,2,1,3,,U-HHR,
+323080,Lassen Volcanic Center,United States,Canada and Western USA,USA (California),40.49199999999991,-121.508,2,1,3,,U-HHR,
 323100,Clear Lake,United States,Canada and Western USA,USA (California),38.96999999999991,-122.77,5,0,No confirmed eruptions,,U-NHHR,
 323110,Mono Lake Volcanic Field,United States,Canada and Western USA,USA (California),38.0,-119.03,2,1,Unknown VEI,,U-HHR,
 323120,Mono Craters,United States,Canada and Western USA,USA (California),37.88,-119.0,2,0,4,,U-HR,
 323130,Inyo Craters,United States,Canada and Western USA,USA (California),37.692,-119.02,3,0,4,,U-HR,
 323150,Mammoth Mountain,United States,Canada and Western USA,USA (California),37.631,-119.032,3,0,2,,U-HR,
 323160,Ubehebe Craters,United States,Canada and Western USA,USA (California),37.02,-117.45,2,0,Unknown VEI,,U-HR,
-323170,Golden Trout Creek,United States,Canada and Western USA,USA (California),36.357999999999905,-118.319999999999,2,0,Unknown VEI,,U-HR,
+323170,Golden Trout Creek,United States,Canada and Western USA,USA (California),36.35799999999991,-118.319999999999,2,0,Unknown VEI,,U-HR,
 323180,Coso Volcanic Field,United States,Canada and Western USA,USA (California),36.03,-117.819999999999,2,0,No confirmed eruptions,,U-NHHR,
 323190,Lavic Lake,United States,Canada and Western USA,USA (California),34.75,-116.625,3,0,No confirmed eruptions,,U-NHHR,
 323200,Salton Buttes,United States,Canada and Western USA,USA (California),33.2,-115.62,3,0,Unknown VEI,,U-HR,
@@ -1071,7 +1071,7 @@ VolcanoID,V_Name,Country,Region,Subregion,Latitude,Longitude,PEI,H_active,VEI_Ho
 324040,Hell's Half Acre,United States,Canada and Western USA,USA (Idaho),43.5,-112.45,2,0,0,,U-HR,
 325010,Yellowstone,United States,Canada and Western USA,USA (Wyoming),44.43,-110.67,2,0,Unknown VEI,,U-HR,
 326010,Soda Lakes,United States,Canada and Western USA,USA (Nevada),39.53,-118.87,4,0,No confirmed eruptions,,U-NHHR,
-327040,Markagunt Plateau,United States,Canada and Western USA,USA (Utah),37.579999999999906,-112.67,2,0,Unknown VEI,,U-HR,
+327040,Markagunt Plateau,United States,Canada and Western USA,USA (Utah),37.57999999999991,-112.67,2,0,Unknown VEI,,U-HR,
 327050,Black Rock Desert,United States,Canada and Western USA,USA (Utah),38.96999999999991,-112.5,3,0,Unknown VEI,,U-HR,
 327110,Carrizozo,United States,Canada and Western USA,USA (New Mexico),33.78,-105.93,2,0,Unknown VEI,,U-HR,
 327120,Zuni-Bandera,United States,Canada and Western USA,USA (New Mexico),34.7999999999999,-108.0,2,0,0,,U-HR,
@@ -1082,9 +1082,9 @@ VolcanoID,V_Name,Country,Region,Subregion,Latitude,Longitude,PEI,H_active,VEI_Ho
 331011,Cobb Segment,Undersea Features,Hawaii and Pacific Ocean,Pacific Ocean (northern),46.88,-129.33,1,0,Unknown VEI,,U-HR,
 331020,CoAxial Segment,Undersea Features,Hawaii and Pacific Ocean,Pacific Ocean (northern),46.52,-129.58,1,1,0,,U-HHR,
 331021,Axial Seamount,Undersea Features,Hawaii and Pacific Ocean,Pacific Ocean (northern),45.95,-130.0,1,1,0,,U-HHR,
-331030,Cleft Segment,Undersea Features,Hawaii and Pacific Ocean,Pacific Ocean (northern),44.829999999999906,-130.3,1,1,0,,U-HHR,
+331030,Cleft Segment,Undersea Features,Hawaii and Pacific Ocean,Pacific Ocean (northern),44.82999999999991,-130.3,1,1,0,,U-HHR,
 331031,North Gorda Ridge,United States,Hawaii and Pacific Ocean,Pacific Ocean (northern),42.67,-126.78,1,1,0,,U-HHR,
-331040,Escanaba Segment,United States,Hawaii and Pacific Ocean,Pacific Ocean (northern),40.979999999999905,-127.5,1,0,0,,U-HR,
+331040,Escanaba Segment,United States,Hawaii and Pacific Ocean,Pacific Ocean (northern),40.97999999999991,-127.5,1,0,0,,U-HR,
 331050,Unnamed,United States,Hawaii and Pacific Ocean,Pacific Ocean (northern),31.75,-124.25,1,0,No confirmed eruptions,,U-NHHR,
 332000,Loihi,United States,Hawaii and Pacific Ocean,Hawaiian Islands,18.92,-155.27,2,1,0,,U-HHR,
 332010,Kilauea,United States,Hawaii and Pacific Ocean,Hawaiian Islands,19.4209999999999,-155.287,3,1,4,1.0,,1.0
@@ -1110,7 +1110,7 @@ VolcanoID,V_Name,Country,Region,Subregion,Latitude,Longitude,PEI,H_active,VEI_Ho
 334130,Southern EPR-Segment J,Undersea Features,Hawaii and Pacific Ocean,Pacific Ocean (eastern),-18.175,-113.349999999999,1,1,0,,U-HHR,
 334140,Southern EPR-Segment I,Undersea Features,Hawaii and Pacific Ocean,Pacific Ocean (eastern),-18.53,-113.42,1,1,0,,U-HHR,
 335010,Antipodes Island,New Zealand,Hawaii and Pacific Ocean,Pacific Ocean (southern),-49.68,178.77,1,0,No confirmed eruptions,,U-NHHR,
-335020,Unnamed,Undersea Features,Hawaii and Pacific Ocean,Pacific Ocean (southern),-53.899999999999906,-140.3,1,0,No confirmed eruptions,,U-NHHR,
+335020,Unnamed,Undersea Features,Hawaii and Pacific Ocean,Pacific Ocean (southern),-53.89999999999991,-140.3,1,0,No confirmed eruptions,,U-NHHR,
 335030,Unnamed,Undersea Features,Hawaii and Pacific Ocean,Pacific Ocean (southern),-55.96999999999991,-143.169999999999,1,0,No confirmed eruptions,,U-NHHR,
 341000,Prieto Cerro,Mexico,M?xico and Central America,M?xico,32.4179999999999,-115.305,5,0,No confirmed eruptions,,U-NHHR,
 341001,Pinacate,Mexico,M?xico and Central America,M?xico,31.7719999999999,-113.498,2,0,No confirmed eruptions,,U-NHHR,
@@ -1134,37 +1134,37 @@ VolcanoID,V_Name,Country,Region,Subregion,Latitude,Longitude,PEI,H_active,VEI_Ho
 341040,Colima,Mexico,M?xico and Central America,M?xico,19.5139999999999,-103.62,4,1,5,3.0,,3.0
 341060,Michoac?n-Guanajuato,Mexico,M?xico and Central America,M?xico,19.85,-101.75,7,1,4,,U-HHR,
 341061,Zit?cuaro-Valle de Bravo,Mexico,M?xico and Central America,M?xico,19.3999999999999,-100.25,6,0,0,,U-HR,
-341062,Jocotitl?n,Mexico,M?xico and Central America,M?xico,19.73,-99.75799999999991,6,0,Unknown VEI,,U-HR,
-341070,Toluca Nevado de,Mexico,M?xico and Central America,M?xico,19.108,-99.75799999999991,6,0,Unknown VEI,,U-HR,
-341080,Chichinautzin,Mexico,M?xico and Central America,M?xico,19.0799999999999,-99.12999999999991,7,0,4,2.0,,3.0
+341062,Jocotitl?n,Mexico,M?xico and Central America,M?xico,19.73,-99.75799999999992,6,0,Unknown VEI,,U-HR,
+341070,Toluca Nevado de,Mexico,M?xico and Central America,M?xico,19.108,-99.75799999999992,6,0,Unknown VEI,,U-HR,
+341080,Chichinautzin,Mexico,M?xico and Central America,M?xico,19.0799999999999,-99.12999999999992,7,0,4,2.0,,3.0
 341081,Papayo,Mexico,M?xico and Central America,M?xico,19.308,-98.7,6,0,No confirmed eruptions,,U-NHHR,
-341082,Iztacc?huatl,Mexico,M?xico and Central America,M?xico,19.1789999999999,-98.64199999999991,5,0,No confirmed eruptions,,U-NHHR,
+341082,Iztacc?huatl,Mexico,M?xico and Central America,M?xico,19.1789999999999,-98.64199999999992,5,0,No confirmed eruptions,,U-NHHR,
 341090,Popocat?petl,Mexico,M?xico and Central America,M?xico,19.023,-98.622,5,1,5,2.0,,2.0
 341091,Malinche La,Mexico,M?xico and Central America,M?xico,19.231,-98.0319999999999,5,0,Unknown VEI,,U-HR,
 341092,Serd?n-Oriental,Mexico,M?xico and Central America,M?xico,19.27,-97.4699999999999,6,0,No confirmed eruptions,,U-NHHR,
 341093,Humeros Los,Mexico,M?xico and Central America,M?xico,19.68,-97.45,5,0,No confirmed eruptions,,U-NHHR,
-341094,Atlixcos Los,Mexico,M?xico and Central America,M?xico,19.809,-96.52599999999991,4,0,No confirmed eruptions,,U-NHHR,
+341094,Atlixcos Los,Mexico,M?xico and Central America,M?xico,19.809,-96.52599999999993,4,0,No confirmed eruptions,,U-NHHR,
 341095,Naolinco Volcanic Field,Mexico,M?xico and Central America,M?xico,19.67,-96.75,6,0,Unknown VEI,,U-HR,
 341096,Cofre de Perote,Mexico,M?xico and Central America,M?xico,19.492,-97.15,5,0,2,,U-HR,
 341097,Gloria La,Mexico,M?xico and Central America,M?xico,19.3299999999999,-97.25,6,0,No confirmed eruptions,,U-NHHR,
-341098,Cumbres  Las,Mexico,M?xico and Central America,M?xico,19.1499999999999,-97.26999999999991,4,0,Unknown VEI,,U-HR,
+341098,Cumbres  Las,Mexico,M?xico and Central America,M?xico,19.1499999999999,-97.26999999999992,4,0,Unknown VEI,,U-HR,
 341100,Orizaba Pico de,Mexico,M?xico and Central America,M?xico,19.03,-97.268,5,1,5,3.0,,3.0
 341110,San Mart?n,Mexico,M?xico and Central America,M?xico,18.57,-95.2,4,1,4,,U-HHR,
-341120,Chich?n El,Mexico,M?xico and Central America,M?xico,17.3599999999999,-93.22799999999991,4,1,5,,U-HHR,
-341130,Tacan?,Mexico-Guatemala,M?xico and Central America,M?xico,15.13,-92.11199999999991,5,1,4,,U-HHR,
+341120,Chich?n El,Mexico,M?xico and Central America,M?xico,17.3599999999999,-93.22799999999992,4,1,5,,U-HHR,
+341130,Tacan?,Mexico-Guatemala,M?xico and Central America,M?xico,15.13,-92.11199999999992,5,1,4,,U-HHR,
 342020,Tajumulco,Guatemala,M?xico and Central America,Guatemala,15.034,-91.903,6,0,No confirmed eruptions,,U-NHHR,
 342030,Santa Mar?a,Guatemala,M?xico and Central America,Guatemala,14.756,-91.552,6,1,6,3.0,,3.0
 342040,Almolonga,Guatemala,M?xico and Central America,Guatemala,14.82,-91.48,7,1,3,,U-HHR,
 342060,Atitl?n,Guatemala,M?xico and Central America,Guatemala,14.583,-91.186,6,1,3,2.0,,3.0
-342070,Tolim?n,Guatemala,M?xico and Central America,Guatemala,14.612,-91.18899999999991,6,0,No confirmed eruptions,,U-NHHR,
+342070,Tolim?n,Guatemala,M?xico and Central America,Guatemala,14.612,-91.18899999999992,6,0,No confirmed eruptions,,U-NHHR,
 342080,Acatenango,Guatemala,M?xico and Central America,Guatemala,14.5009999999999,-90.876,6,1,3,,U-HHR,
-342090,Fuego,Guatemala,M?xico and Central America,Guatemala,14.473,-90.87999999999991,5,1,4,3.0,,3.0
-342100,Agua,Guatemala,M?xico and Central America,Guatemala,14.465,-90.74299999999991,6,0,No confirmed eruptions,,U-NHHR,
+342090,Fuego,Guatemala,M?xico and Central America,Guatemala,14.473,-90.87999999999992,5,1,4,3.0,,3.0
+342100,Agua,Guatemala,M?xico and Central America,Guatemala,14.465,-90.74299999999992,6,0,No confirmed eruptions,,U-NHHR,
 342110,Pacaya,Guatemala,M?xico and Central America,Guatemala,14.381,-90.6009999999999,6,1,3,3.0,,3.0
 342111,Cuilapa-Barbarena,Guatemala,M?xico and Central America,Guatemala,14.33,-90.4,6,0,No confirmed eruptions,,U-NHHR,
 342120,Tecuamburro,Guatemala,M?xico and Central America,Guatemala,14.156,-90.4069999999999,5,0,Unknown VEI,,U-HR,
 342121,Jumaytepeque,Guatemala,M?xico and Central America,Guatemala,14.336,-90.269,6,0,No confirmed eruptions,,U-NHHR,
-342130,Moyuta,Guatemala,M?xico and Central America,Guatemala,14.0299999999999,-90.09999999999991,5,0,No confirmed eruptions,,U-NHHR,
+342130,Moyuta,Guatemala,M?xico and Central America,Guatemala,14.0299999999999,-90.09999999999992,5,0,No confirmed eruptions,,U-NHHR,
 342140,Flores,Guatemala,M?xico and Central America,Guatemala,14.308,-89.992,6,0,No confirmed eruptions,,U-NHHR,
 342141,Tahual,Guatemala,M?xico and Central America,Guatemala,14.43,-89.9,5,0,No confirmed eruptions,,U-NHHR,
 342150,Santiago Cerro,Guatemala,M?xico and Central America,Guatemala,14.33,-89.87,6,0,No confirmed eruptions,,U-NHHR,
@@ -1268,7 +1268,7 @@ VolcanoID,V_Name,Country,Region,Subregion,Latitude,Longitude,PEI,H_active,VEI_Ho
 352090,Sangay,Ecuador,South America,Ecuador,-2.002,-78.34099999999991,3,1,3,3.0,,2.0
 353010,Fernandina,Ecuador,South America,Gal?pagos Islands,-0.37,-91.5499999999999,2,1,4,2.0,,1.0
 353011,Ecuador,Ecuador,South America,Gal?pagos Islands,-0.02,-91.546,2,0,0,,U-HR,
-353020,Wolf,Ecuador,South America,Gal?pagos Islands,0.02,-91.34999999999991,2,1,2,1.0,,1.0
+353020,Wolf,Ecuador,South America,Gal?pagos Islands,0.02,-91.34999999999992,2,1,2,1.0,,1.0
 353030,Darwin,Ecuador,South America,Gal?pagos Islands,-0.18,-91.28,2,1,2,,U-HHR,
 353040,Alcedo,Ecuador,South America,Gal?pagos Islands,-0.43,-91.12,2,1,1,,U-HHR,
 353050,Negra Sierra,Ecuador,South America,Gal?pagos Islands,-0.83,-91.17,2,1,3,1.0,,1.0
@@ -1276,7 +1276,7 @@ VolcanoID,V_Name,Country,Region,Subregion,Latitude,Longitude,PEI,H_active,VEI_Ho
 353070,Pinta,Ecuador,South America,Gal?pagos Islands,0.58,-90.75,2,1,Unknown VEI,,U-HHR,
 353080,Marchena,Ecuador,South America,Gal?pagos Islands,0.33,-90.4699999999999,2,1,2,,U-HHR,
 353081,Genovesa,Ecuador,South America,Gal?pagos Islands,0.32,-89.9579999999999,2,0,No confirmed eruptions,,U-NHHR,
-353090,Santiago,Ecuador,South America,Gal?pagos Islands,-0.22,-90.76999999999991,2,1,0,,U-HHR,
+353090,Santiago,Ecuador,South America,Gal?pagos Islands,-0.22,-90.76999999999992,2,1,0,,U-HHR,
 353091,Santa Cruz,Ecuador,South America,Gal?pagos Islands,-0.62,-90.3299999999999,3,0,No confirmed eruptions,,U-NHHR,
 353120,San Crist?bal,Ecuador,South America,Gal?pagos Islands,-0.88,-89.5,3,0,No confirmed eruptions,,U-NHHR,
 354000,Quimsachata,Peru,South America,Per?,-14.1999999999999,-71.3299999999999,4,0,Unknown VEI,,U-HR,
@@ -1366,17 +1366,17 @@ VolcanoID,V_Name,Country,Region,Subregion,Latitude,Longitude,PEI,H_active,VEI_Ho
 357060,Azul Cerro,Chile,South America,Central Chile and Argentina,-35.6529999999999,-70.76099999999991,2,1,5,3.0,,2.0
 357061,Maule Laguna del,Chile,South America,Central Chile and Argentina,-36.02,-70.5799999999999,2,0,No confirmed eruptions,,U-NHHR,
 357062,San Pedro-Pellado,Chile,South America,Central Chile and Argentina,-35.9889999999999,-70.849,2,0,No confirmed eruptions,,U-NHHR,
-357063,Longav? Nevado de,Chile,South America,Central Chile and Argentina,-36.192999999999905,-71.161,2,0,Unknown VEI,,U-HR,
+357063,Longav? Nevado de,Chile,South America,Central Chile and Argentina,-36.19299999999991,-71.161,2,0,Unknown VEI,,U-HR,
 357064,Blancas Lomas,Chile,South America,Central Chile and Argentina,-36.286,-71.009,2,0,No confirmed eruptions,,U-NHHR,
 357065,Resago,Chile,South America,Central Chile and Argentina,-36.45,-70.92,2,0,No confirmed eruptions,,U-NHHR,
 357066,Pay?n Matru,Argentina,South America,Central Chile and Argentina,-36.42,-69.2,2,0,No confirmed eruptions,,U-NHHR,
-357067,Domuyo,Argentina,South America,Central Chile and Argentina,-36.579999999999906,-70.42,2,0,No confirmed eruptions,,U-NHHR,
+357067,Domuyo,Argentina,South America,Central Chile and Argentina,-36.57999999999991,-70.42,2,0,No confirmed eruptions,,U-NHHR,
 357070,Chill?n Nevados de,Chile,South America,Central Chile and Argentina,-36.863,-71.37699999999991,2,1,3,2.0,,1.0
 357071,Cochiquito Volcanic Group,Argentina,South America,Central Chile and Argentina,-36.77,-69.81999999999991,2,0,No confirmed eruptions,,U-NHHR,
 357072,Tromen,Argentina,South America,Central Chile and Argentina,-37.142,-70.03,2,1,3,,U-HHR,
 357073,Puesto Cortaderas,Argentina,South America,Central Chile and Argentina,-37.57,-69.62,2,0,No confirmed eruptions,,U-NHHR,
-357080,Antuco,Chile,South America,Central Chile and Argentina,-37.405999999999906,-71.349,2,1,3,2.0,,1.0
-357081,Trocon,Argentina,South America,Central Chile and Argentina,-37.729999999999905,-70.9,2,0,No confirmed eruptions,,U-NHHR,
+357080,Antuco,Chile,South America,Central Chile and Argentina,-37.40599999999991,-71.349,2,1,3,2.0,,1.0
+357081,Trocon,Argentina,South America,Central Chile and Argentina,-37.72999999999991,-70.9,2,0,No confirmed eruptions,,U-NHHR,
 357090,Copahue,Chile-Argentina,South America,Central Chile and Argentina,-37.85,-71.17,2,1,2,2.0,,1.0
 357091,Callaqui,Chile,South America,Central Chile and Argentina,-37.92,-71.45,2,1,2,,U-HHR,
 357092,Mari?aqui Laguna,Chile,South America,Central Chile and Argentina,-38.27,-71.09999999999991,2,0,No confirmed eruptions,,U-NHHR,
@@ -1401,45 +1401,45 @@ VolcanoID,V_Name,Country,Region,Subregion,Latitude,Longitude,PEI,H_active,VEI_Ho
 358011,Tronador,Chile-Argentina,South America,Southern Chile and Argentina,-41.156999999999904,-71.885,2,0,No confirmed eruptions,,U-NHHR,
 358012,Cayutu?-La Viguer?a,Chile,South America,Southern Chile and Argentina,-41.25,-72.26999999999991,2,0,Unknown VEI,,U-HR,
 358020,Calbuco,Chile,South America,Southern Chile and Argentina,-41.326,-72.614,3,1,4,3.0,,2.0
-358021,Cuernos del Diablo,Chile,South America,Southern Chile and Argentina,-41.399999999999906,-72.0,2,0,No confirmed eruptions,,U-NHHR,
+358021,Cuernos del Diablo,Chile,South America,Southern Chile and Argentina,-41.39999999999991,-72.0,2,0,No confirmed eruptions,,U-NHHR,
 358022,Yate,Chile,South America,Southern Chile and Argentina,-41.755,-72.396,2,0,No confirmed eruptions,,U-NHHR,
 358023,Hornopir?n,Chile,South America,Southern Chile and Argentina,-41.874,-72.4309999999999,2,0,No confirmed eruptions,,U-NHHR,
 358024,Apagado,Chile,South America,Southern Chile and Argentina,-41.88,-72.5799999999999,2,0,No confirmed eruptions,,U-NHHR,
 358025,Crater Basalt Volcanic Field,Argentina,South America,Southern Chile and Argentina,-42.02,-70.18,2,0,No confirmed eruptions,,U-NHHR,
 358030,Huequi,Chile,South America,Southern Chile and Argentina,-42.377,-72.578,2,1,3,1.0,,1.0
 358040,Minchinm?vida,Chile,South America,Southern Chile and Argentina,-42.79299999999991,-72.43899999999991,2,1,2,,U-HHR,
-358041,Chait?n,Chile,South America,Southern Chile and Argentina,-42.832999999999906,-72.646,3,1,4,,U-HHR,
+358041,Chait?n,Chile,South America,Southern Chile and Argentina,-42.83299999999991,-72.646,3,1,4,,U-HHR,
 358049,Yanteles,Chile,South America,Southern Chile and Argentina,-43.5,-72.7999999999999,2,0,Unknown VEI,,U-HR,
 358050,Corcovado,Chile,South America,Southern Chile and Argentina,-43.18,-72.7999999999999,2,0,Unknown VEI,,U-HR,
 358051,Palena Volcanic Group,Chile,South America,Southern Chile and Argentina,-43.78,-72.4699999999999,2,0,No confirmed eruptions,,U-NHHR,
-358052,Melimoyu,Chile,South America,Southern Chile and Argentina,-44.079999999999906,-72.87999999999991,2,0,Unknown VEI,,U-HR,
-358053,Puyuhuapi,Chile,South America,Southern Chile and Argentina,-44.299999999999905,-72.53,2,0,No confirmed eruptions,,U-NHHR,
+358052,Melimoyu,Chile,South America,Southern Chile and Argentina,-44.07999999999991,-72.87999999999991,2,0,Unknown VEI,,U-HR,
+358053,Puyuhuapi,Chile,South America,Southern Chile and Argentina,-44.29999999999991,-72.53,2,0,No confirmed eruptions,,U-NHHR,
 358054,Mentolat,Chile,South America,Southern Chile and Argentina,-44.7,-73.0799999999999,2,1,Unknown VEI,,U-HHR,
-358055,Cay,Chile,South America,Southern Chile and Argentina,-45.058999999999905,-72.98399999999991,2,0,No confirmed eruptions,,U-NHHR,
+358055,Cay,Chile,South America,Southern Chile and Argentina,-45.05899999999991,-72.98399999999991,2,0,No confirmed eruptions,,U-NHHR,
 358056,Maca,Chile,South America,Southern Chile and Argentina,-45.1,-73.17,2,0,Unknown VEI,,U-HR,
-358057,Hudson Cerro,Chile,South America,Southern Chile and Argentina,-45.899999999999906,-72.9699999999999,2,1,6,,U-HHR,
+358057,Hudson Cerro,Chile,South America,Southern Chile and Argentina,-45.89999999999991,-72.9699999999999,2,1,6,,U-HHR,
 358058,R?o Murta,Chile,South America,Southern Chile and Argentina,-46.17,-72.67,2,0,No confirmed eruptions,,U-NHHR,
 358059,Arenales,Chile,South America,Southern Chile and Argentina,-47.2,-73.48,2,1,1,,U-HHR,
 358060,Lautaro,Chile,South America,Southern Chile and Argentina,-49.02,-73.5499999999999,2,1,2,1.0,,1.0
-358061,Viedma,Argentina,South America,Southern Chile and Argentina,-49.357999999999905,-73.28,2,1,Unknown VEI,,U-HHR,
-358062,Aguilera,Chile,South America,Southern Chile and Argentina,-50.329999999999906,-73.75,2,0,5,,U-HR,
-358063,Reclus,Chile,South America,Southern Chile and Argentina,-50.963999999999906,-73.58499999999991,2,1,2,,U-HHR,
-358070,Burney Monte,Chile,South America,Southern Chile and Argentina,-52.329999999999906,-73.4,2,1,5,,U-HHR,
+358061,Viedma,Argentina,South America,Southern Chile and Argentina,-49.35799999999991,-73.28,2,1,Unknown VEI,,U-HHR,
+358062,Aguilera,Chile,South America,Southern Chile and Argentina,-50.32999999999991,-73.75,2,0,5,,U-HR,
+358063,Reclus,Chile,South America,Southern Chile and Argentina,-50.96399999999991,-73.58499999999991,2,1,2,,U-HHR,
+358070,Burney Monte,Chile,South America,Southern Chile and Argentina,-52.32999999999991,-73.4,2,1,5,,U-HHR,
 358080,Palei-Aike Volcanic Field,Chile-Argentina,South America,Southern Chile and Argentina,-52.0,-70.0,2,0,Unknown VEI,,U-HR,
 358090,Fueguino,Chile,South America,Southern Chile and Argentina,-54.95,-70.25,2,1,2,,U-HHR,
-360010,Saba,Netherlands,West Indies,West Indies,17.6299999999999,-63.229999999999905,2,1,Unknown VEI,,U-HHR,
+360010,Saba,Netherlands,West Indies,West Indies,17.6299999999999,-63.22999999999991,2,1,Unknown VEI,,U-HHR,
 360020,Quill The,Netherlands,West Indies,West Indies,17.478,-62.96,2,0,4,,U-HR,
-360030,Liamuiga,Saint Kitts and Nevis,West Indies,West Indies,17.37,-62.799999999999905,3,0,4,,U-HR,
-360040,Nevis Peak,Saint Kitts and Nevis,West Indies,West Indies,17.1499999999999,-62.579999999999906,4,0,No confirmed eruptions,,U-NHHR,
+360030,Liamuiga,Saint Kitts and Nevis,West Indies,West Indies,17.37,-62.79999999999991,3,0,4,,U-HR,
+360040,Nevis Peak,Saint Kitts and Nevis,West Indies,West Indies,17.1499999999999,-62.57999999999991,4,0,No confirmed eruptions,,U-NHHR,
 360050,Soufri?re Hills,United Kingdom,West Indies,West Indies,16.7199999999999,-62.18,4,1,3,3.0,,3.0
 360060,Soufri?re Guadeloupe,France,West Indies,West Indies,16.05,-61.67,5,1,4,3.0,,3.0
 360080,Diables Morne aux,Dominica,West Indies,West Indies,15.612,-61.43,4,0,No confirmed eruptions,,U-NHHR,
-360090,Diablotins Morne,Dominica,West Indies,West Indies,15.503,-61.396999999999906,4,0,No confirmed eruptions,,U-NHHR,
-360100,Trois Pitons Morne,Dominica,West Indies,West Indies,15.3699999999999,-61.329999999999906,5,0,Unknown VEI,,U-HR,
+360090,Diablotins Morne,Dominica,West Indies,West Indies,15.503,-61.39699999999991,4,0,No confirmed eruptions,,U-NHHR,
+360100,Trois Pitons Morne,Dominica,West Indies,West Indies,15.3699999999999,-61.32999999999991,5,0,Unknown VEI,,U-HR,
 360101,Watt Morne,Dominica,West Indies,West Indies,15.307,-61.305,5,1,2,,U-HHR,
 360110,Plat Pays Morne,Dominica,West Indies,West Indies,15.255,-61.341,5,0,Unknown VEI,,U-HR,
 360120,Pel?e,France,West Indies,West Indies,14.82,-61.17,4,1,4,3.0,,3.0
-360140,Qualibou,Saint Lucia,West Indies,West Indies,13.83,-61.049999999999905,5,1,1,,U-HHR,
+360140,Qualibou,Saint Lucia,West Indies,West Indies,13.83,-61.04999999999991,5,1,1,,U-HHR,
 360150,Soufri?re St. Vincent,Saint Vincent and the Grenadines,West Indies,West Indies,13.33,-61.18,4,1,4,3.0,,3.0
 360160,Kick 'em Jenny,Grenada,West Indies,West Indies,12.3,-61.64,3,1,1,1.0,,1.0
 360170,St. Catherine,Grenada,West Indies,West Indies,12.15,-61.67,5,0,No confirmed eruptions,,U-NHHR,
@@ -1460,7 +1460,7 @@ VolcanoID,V_Name,Country,Region,Subregion,Latitude,Longitude,PEI,H_active,VEI_Ho
 372030,Katla,Iceland,Iceland and Arctic Ocean,Iceland (southern),63.63,-19.05,2,1,5,2.0,,1.0
 372040,Tindfjallaj?kull,Iceland,Iceland and Arctic Ocean,Iceland (southern),63.78,-19.57,2,0,No confirmed eruptions,,U-NHHR,
 372050,Torfaj?kull,Iceland,Iceland and Arctic Ocean,Iceland (southern),63.92,-19.17,2,0,3,,U-HR,
-372070,Hekla,Iceland,Iceland and Arctic Ocean,Iceland (southern),63.979999999999905,-19.6999999999999,2,1,5,3.0,,2.0
+372070,Hekla,Iceland,Iceland and Arctic Ocean,Iceland (southern),63.97999999999991,-19.6999999999999,2,1,5,3.0,,2.0
 373010,Gr?msv?tn,Iceland,Iceland and Arctic Ocean,Iceland (northeastern),64.42,-17.3299999999999,2,1,6,2.0,,1.0
 373030,B?rdarbunga,Iceland,Iceland and Arctic Ocean,Iceland (northeastern),64.62999999999991,-17.53,2,1,6,2.0,,1.0
 373040,Tungnafellsj?kull,Iceland,Iceland and Arctic Ocean,Iceland (northeastern),64.73,-17.92,2,0,No confirmed eruptions,,U-NHHR,
@@ -1478,16 +1478,16 @@ VolcanoID,V_Name,Country,Region,Subregion,Latitude,Longitude,PEI,H_active,VEI_Ho
 377020,Unnamed,Undersea Features,Iceland and Arctic Ocean,Arctic Ocean,85.5799999999999,85.0,1,0,No confirmed eruptions,,U-NHHR,
 381020,Unnamed,Undersea Features,Atlantic Ocean,Atlantic Ocean (northern),49.0,-34.5,1,1,0,,U-HHR,
 381030,Unnamed,Undersea Features,Atlantic Ocean,Atlantic Ocean (northern),39.95,-25.8299999999999,1,0,No confirmed eruptions,,U-NHHR,
-381040,Unnamed,Undersea Features,Atlantic Ocean,Atlantic Ocean (northern),38.75,-38.079999999999906,1,1,0,,U-HHR,
+381040,Unnamed,Undersea Features,Atlantic Ocean,Atlantic Ocean (northern),38.75,-38.07999999999991,1,1,0,,U-HHR,
 382001,Flores,Portugal,Atlantic Ocean,Azores,39.462,-31.216,3,0,Unknown VEI,,U-HR,
-382002,Corvo,Portugal,Atlantic Ocean,Azores,39.698999999999906,-31.111,2,0,No confirmed eruptions,,U-NHHR,
+382002,Corvo,Portugal,Atlantic Ocean,Azores,39.69899999999991,-31.111,2,0,No confirmed eruptions,,U-NHHR,
 382010,Fayal,Portugal,Atlantic Ocean,Azores,38.6,-28.73,4,1,2,,U-HHR,
 382020,Pico,Portugal,Atlantic Ocean,Azores,38.46999999999991,-28.3999999999999,3,1,2,,U-HHR,
-382030,San Jorge,Portugal,Atlantic Ocean,Azores,38.649999999999906,-28.0799999999999,3,1,3,2.0,,2.0
+382030,San Jorge,Portugal,Atlantic Ocean,Azores,38.64999999999991,-28.0799999999999,3,1,3,2.0,,2.0
 382040,Graciosa,Portugal,Atlantic Ocean,Azores,39.02,-27.9699999999999,3,0,No confirmed eruptions,,U-NHHR,
-382050,Terceira,Portugal,Atlantic Ocean,Azores,38.729999999999905,-27.32,4,1,3,,U-HHR,
-382070,Don Joao de Castro Bank,Portugal,Atlantic Ocean,Azores,38.229999999999905,-26.6299999999999,2,1,3,,U-HHR,
-382080,Sete Cidades,Portugal,Atlantic Ocean,Azores,37.869999999999905,-25.78,4,1,4,2.0,,2.0
+382050,Terceira,Portugal,Atlantic Ocean,Azores,38.72999999999991,-27.32,4,1,3,,U-HHR,
+382070,Don Joao de Castro Bank,Portugal,Atlantic Ocean,Azores,38.22999999999991,-26.6299999999999,2,1,3,,U-HHR,
+382080,Sete Cidades,Portugal,Atlantic Ocean,Azores,37.86999999999991,-25.78,4,1,4,2.0,,2.0
 382081,Picos Volcanic System,Portugal,Atlantic Ocean,Azores,37.78,-25.67,6,1,2,,U-HHR,
 382090,Agua de Pau,Portugal,Atlantic Ocean,Azores,37.77,-25.4699999999999,4,1,5,3.0,,3.0
 382100,Furnas,Portugal,Atlantic Ocean,Azores,37.77,-25.32,3,1,5,3.0,,2.0
@@ -1509,7 +1509,7 @@ VolcanoID,V_Name,Country,Region,Subregion,Latitude,Longitude,PEI,H_active,VEI_Ho
 385050,Ascensi?n,United Kingdom,Atlantic Ocean,Atlantic Ocean (central),-7.95,-14.3699999999999,2,0,No confirmed eruptions,,U-NHHR,
 385051,Trindade,Brazil,Atlantic Ocean,Atlantic Ocean (central),-20.5139999999999,-29.331,1,0,No confirmed eruptions,,U-NHHR,
 385052,Unnamed,Undersea Features,Atlantic Ocean,Atlantic Ocean (central),-32.9579999999999,-5.22,1,1,0,,U-HHR,
-386010,Tristan da Cunha,United Kingdom,Atlantic Ocean,Atlantic Ocean (southern),-37.091999999999906,-12.2799999999999,2,1,2,,U-HHR,
+386010,Tristan da Cunha,United Kingdom,Atlantic Ocean,Atlantic Ocean (southern),-37.09199999999991,-12.2799999999999,2,1,2,,U-HHR,
 386011,Nightingale Island,United Kingdom,Atlantic Ocean,Atlantic Ocean (southern),-37.42,-12.48,2,1,0,,U-HHR,
 386020,Bouvet,Norway,Atlantic Ocean,Atlantic Ocean (southern),-54.42,3.35,1,0,Unknown VEI,,U-HR,
 386030,Thompson Island,Norway,Atlantic Ocean,Atlantic Ocean (southern),-53.93,5.5,1,0,No confirmed eruptions,,U-NHHR,
@@ -1531,17 +1531,17 @@ VolcanoID,V_Name,Country,Region,Subregion,Latitude,Longitude,PEI,H_active,VEI_Ho
 390027,Takahe,Antarctica,Antarctica,Antarctica and South Sandwich Islands,-76.28,-112.08,1,0,Unknown VEI,,U-HR,
 390028,Hudson Mountains,Antarctica,Antarctica,Antarctica and South Sandwich Islands,-74.3299999999999,-99.42,1,0,4,,U-HR,
 390029,Peter I Island,Antarctica,Antarctica,Antarctica and South Sandwich Islands,-68.84999999999991,-90.5799999999999,1,0,No confirmed eruptions,,U-NHHR,
-390030,Deception Island,Antarctica,Antarctica,Antarctica and South Sandwich Islands,-62.96999999999991,-60.649999999999906,1,1,3,2.0,,1.0
+390030,Deception Island,Antarctica,Antarctica,Antarctica and South Sandwich Islands,-62.96999999999991,-60.64999999999991,1,1,3,2.0,,1.0
 390031,Penguin Island,Antarctica,Antarctica,Antarctica and South Sandwich Islands,-62.1,-57.93,1,1,Unknown VEI,,U-HHR,
-390040,Bridgeman Island,Antarctica,Antarctica,Antarctica and South Sandwich Islands,-62.049999999999905,-56.75,1,0,No confirmed eruptions,,U-NHHR,
-390041,Paulet,Antarctica,Antarctica,Antarctica and South Sandwich Islands,-63.579999999999906,-55.77,1,0,No confirmed eruptions,,U-NHHR,
-390050,Seal Nunataks Group,Antarctica,Antarctica,Antarctica and South Sandwich Islands,-65.03,-60.049999999999905,1,0,No confirmed eruptions,,U-NHHR,
+390040,Bridgeman Island,Antarctica,Antarctica,Antarctica and South Sandwich Islands,-62.04999999999991,-56.75,1,0,No confirmed eruptions,,U-NHHR,
+390041,Paulet,Antarctica,Antarctica,Antarctica and South Sandwich Islands,-63.57999999999991,-55.77,1,0,No confirmed eruptions,,U-NHHR,
+390050,Seal Nunataks Group,Antarctica,Antarctica,Antarctica and South Sandwich Islands,-65.03,-60.04999999999991,1,0,No confirmed eruptions,,U-NHHR,
 390070,Thule Islands,United Kingdom,Antarctica,Antarctica and South Sandwich Islands,-59.45,-27.37,1,1,1,,U-HHR,
 390080,Bristol Island,United Kingdom,Antarctica,Antarctica and South Sandwich Islands,-59.03,-26.5799999999999,1,1,3,1.0,,1.0
 390081,Montagu Island,United Kingdom,Antarctica,Antarctica and South Sandwich Islands,-58.42,-26.3299999999999,1,1,1,,U-HHR,
 390090,Michael,United Kingdom,Antarctica,Antarctica and South Sandwich Islands,-57.78,-26.4499999999999,1,1,2,1.0,,1.0
-390100,Candlemas Island,United Kingdom,Antarctica,Antarctica and South Sandwich Islands,-57.079999999999906,-26.67,1,1,2,,U-HHR,
+390100,Candlemas Island,United Kingdom,Antarctica,Antarctica and South Sandwich Islands,-57.07999999999991,-26.67,1,1,2,,U-HHR,
 390110,Hodson,United Kingdom,Antarctica,Antarctica and South Sandwich Islands,-56.7,-27.1499999999999,1,0,No confirmed eruptions,,U-NHHR,
 390120,Leskov Island,United Kingdom,Antarctica,Antarctica and South Sandwich Islands,-56.67,-28.1299999999999,1,0,No confirmed eruptions,,U-NHHR,
-390130,Zavodovski,United Kingdom,Antarctica,Antarctica and South Sandwich Islands,-56.299999999999905,-27.57,1,1,2,,U-HHR,
+390130,Zavodovski,United Kingdom,Antarctica,Antarctica and South Sandwich Islands,-56.29999999999991,-27.57,1,1,2,,U-HHR,
 390140,Protector Shoal,United Kingdom,Antarctica,Antarctica and South Sandwich Islands,-55.92,-28.0799999999999,1,1,0,,U-HHR,
