@@ -119,3 +119,4 @@ legend.onAdd = function (map) {
 
 // Add the legend to the map
 legend.addTo(myMap);
+});
