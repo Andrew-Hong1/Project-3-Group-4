@@ -18,3 +18,19 @@ https://en.wikipedia.org/wiki/Holocene
 Hazard Definition:
 A long-term volcano hazard assessment report is a publication that summarizes the types and likelihood of future hazardous phenomena expected to occur at a specific volcano or volcanic region. The report typically includes a summary of the specific hazards, their impact areas, and a map showing ground-hazard zones. The assessments are also critical for planning long-term land-use, and effective emergency-response measures, especially when a volcano begins to show signs of unrest.
 https://www.usgs.gov/programs/VHP/volcano-hazard-assessments-are-based-geologic-record
+
+## Built With
+* Python - Programming Language
+* Pandas - Data manipulation library
+* JavaScript
+* Plotly
+* js.chart
+* HTML
+  
+## Authors
+* Andrew Hong - ![LinkedIn](insertlink) | ![GitHub](https://github.com/Andrew-Hong1)
+* Christina Esqiuvel - ![LinkedIn](insertlink) | ![GitHub](https://github.com/VivaLaTeena)
+* Christopher Hornung - ![LinkedIn](insertlink) | ![GitHub](https://github.com/cjhornung)
+* Hannah Varghese - ![LinkedIn](https://www.linkedin.com/in/hannahvarghese/) | ![GitHub](https://github.com/hannahvarghese)
+* Latrice Moore - ![LinkedIn](insertlink) | ![GitHub](https://github.com/lmoore5460)
+
