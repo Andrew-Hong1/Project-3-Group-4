@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Leaflet Step-1</title>
+</head>
+
+<body>
+
+    <div>
+        <canvas id="myChart"></canvas>
+      </div>
+      
+      <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+      
+      <script>
+        const ctx = document.getElementById('myChart');
+      
+        // Chart data
+        new Chart(ctx, {
+          type: 'bar',
+          data: {
+            labels: ['United States', 'Russia', 'Indonesia', 'Japan', 'Chile', 'Papua New Guinea', 'Ethiopia', 'Philippines', 'Mexico', 'Ecuador'],
+            datasets: [{
+              label: 'Total Volcanoes',
+              data: [176, 153, 142, 114, 78, 56, 54, 47, 39, 34],
+              borderWidth: 1
+            }, {
+              label: 'Active Volcanoes',
+              data: [72, 48, 78, 64, 33, 20, 10, 18, 9, 18],
+              borderWidth: 1
+            }]
+          },
+          options: {
+            scales: {
+              y: {
+                beginAtZero: true
+              }
+            }
+          }
+        });
+      </script>
+       
+   
+  <!-- D3 JavaScript -->
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <!-- Our JavaScript -->
+  <script type="text/javascript" src="static/js/logic.js"></script>
+</body>
+
+
+</html>

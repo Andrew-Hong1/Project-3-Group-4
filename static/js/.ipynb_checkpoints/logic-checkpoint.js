@@ -11,7 +11,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 
 
 //Use the D3 library to read in samples.json from the URL:
-const geoData = "https://s3.us-east-1.amazonaws.com/hdx-production-filestore/resources/7234d067-2d74-449a-9c61-22ae6d98d928/volcano.json?AWSAccessKeyId=AKIAXYC32WNAS5V67V55&Signature=thjhJRyZwDpL439047EMoy22SQ8%3D&Expires=1695860125";
+const geoData = "https://s3.us-east-1.amazonaws.com/hdx-production-filestore/resources/7234d067-2d74-449a-9c61-22ae6d98d928/volcano.json?AWSAccessKeyId=AKIAXYC32WNAS5V67V55&Signature=1l1SOX9K5%2FTYXQVwq3eLqNVmOus%3D&Expires=1695861021";
 
 
 // Fetch the JSON data and console log it
@@ -74,30 +74,38 @@ d3.json(geoData).then(function(data) {
         <h3>Hazard: ${features[i].properties.hazard}</h3> <h3>Risk: ${features[i].properties.risk}</h3> 
         `).addTo(myMap);
      }
-     .legend {
-        background-color: white; /* Set the background color of the legend */
-        padding: 5px; /* Add padding for spacing */
-        border: 1px solid #ccc; /* Add a border for better visibility */
-    }
- 
-// Define a legend control
-var legend = L.control({ position: 'bottomright' });
+    // Define an array with legend colors and labels
+    
+    var legendData = [
+        { color: "#A3F600", label: "0-10 km" },
+        { color: "#DCF400", label: "10-30 km" },
+        { color: "#F7DB11", label: "30-50 km" },
+        { color: "#FDB72A", label: "50-70 km" },
+        { color: "#FCA35D", label: "70-90 km" },
+        { color: "#FF5F65", label: "90+ km" }
+    ]; 
+     // Define a legend control
+    var legend = L.control({ position: 'bottomright' });
 
-legend.onAdd = function (map) {
-    var div = L.DomUtil.create('div', 'legend'); // Add the 'legend' class here
+    legend.onAdd = function (map) {
+        var div = L.DomUtil.create('div', 'info legend');
+        var labels = [];
+        for (var i = 0; i < legendData.length; i++) {
+            labels.push(
+                '<i style="background-color:' + legendData[i].color + '">' + legendData[i].label+'</i> '
+            );
+        }
+        console.log(labels)
+        div.innerHTML = labels.join('<br>');
+        return div;
+    };
 
-    var labels = [];
-    for (var i = 0; i < legendData.length; i++) {
-        labels.push(
-            '<i style="background-color:' + legendData[i].color + '"></i> ' +
-            legendData[i].label
-        );
-    }
-    div.innerHTML = labels.join('<br>');
-    return div;
-};
+    // Add the legend to the map
+    legend.addTo(myMap);
 
-// Add the legend to the map
-legend.addTo(myMap);
+
+
+     
+
+
 });
-
