@@ -74,12 +74,34 @@ d3.json(geoData).then(function(data) {
         <h3>Hazard: ${features[i].properties.hazard}</h3> <h3>Risk: ${features[i].properties.risk}</h3> 
         `).addTo(myMap);
      }
+
+ 
      .legend {
         background-color: white; /* Set the background color of the legend */
         padding: 5px; /* Add padding for spacing */
         border: 1px solid #ccc; /* Add a border for better visibility */
     }
- 
+    
+    .legend i {
+        width: 20px; /* Adjust the width of the color boxes */
+        height: 20px; /* Adjust the height of the color boxes */
+        display: inline-block;
+        margin-right: 5px; /* Add spacing between color boxes and labels */
+    }
+    
+// Define an array with legend colors and labels
+var legendData = [
+    { color: "#ff0000", label: "VEI 7" },
+    { color: "#fd4900", label: "VEI 6" },
+    { color: "#f66d00", label: "VEI 5" },
+    { color: "#e98b00", label: "VEI 4" },
+    { color: "#d7a700", label: "VEI 3" },
+    { color: "#bfbf00", label: "VEI 2" },
+    { color: "#a0d600", label: "VEI 1" },
+    { color: "#76eb00", label: "VEI 0" },
+    { color: "#00ff00", label: "No confirmed eruptions" }
+];
+
 // Define a legend control
 var legend = L.control({ position: 'bottomright' });
 
@@ -99,5 +121,3 @@ legend.onAdd = function (map) {
 
 // Add the legend to the map
 legend.addTo(myMap);
-});
-

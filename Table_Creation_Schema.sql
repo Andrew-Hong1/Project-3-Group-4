@@ -31,7 +31,7 @@ CREATE TABLE eruptions_tbl (
     Location VARCHAR(255),
     Year INT,
     EruptionDescription VARCHAR(255),
-	FOREIGN KEY (VEI_Holoce) REFERENCES vei_tbl(VEI)
+	FOREIGN KEY (VEI) REFERENCES vei_tbl(VEI)
 );
 
 -- This table stores general data about volcanoes, with references to PEI and VEI data.
