@@ -1,9 +1,11 @@
 # Project-3-Group-4
 Project 3 repository for the UT Austin Data Analysis Bootcamp.
 
-
-Data Source: We have to grab a new link each day from here: by clicking the download button
-https://data.humdata.org/dataset/volcano-population-exposure-index-gvm
+Important: To view the data in the HTML file, complete the following steps each day:
+1. Click on this link: https://data.humdata.org/dataset/volcano-population-exposure-index-gvm
+2. Scroll down to where you see volcano.json and click download
+3. Copy the URL in the provided link
+4. Open the logic.js file, and replace the geoData URL path.
 
 U-NHHR/U-HHR Definition: 
 Table 1 Identity of Italy’s volcanoes in each Hazard-PEI group. Those volcanoes with a sufficient record for determining a hazard score are deemed ‘classified’ (top). Those without sufficient data are ‘Unclassified’ (bottom). The unclassified volcanoes are divided into groups: U-NHHR is Unclassified No Historic or Holocene Record: that is there are no confirmed eruptions recorded in the Holocene. UHR is Unclassified with Holocene Record: that is there are confirmed eruptions recorded during the Holocene, but no historical (post-1500) events. U-HHR is Unclassified with Historic and Holocene record. The unclassified volcanoes in bold have experienced unrest or eruptions since 1900 AD, and those in red have records of at least one Holocene VEI ≥4 eruption.
