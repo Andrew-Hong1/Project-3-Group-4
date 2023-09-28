@@ -74,38 +74,48 @@ d3.json(geoData).then(function(data) {
         <h3>Hazard: ${features[i].properties.hazard}</h3> <h3>Risk: ${features[i].properties.risk}</h3> 
         `).addTo(myMap);
      }
-    // Define an array with legend colors and labels
+     .legend {
+        background-color: white; /* Set the background color of the legend */
+        padding: 5px; /* Add padding for spacing */
+        border: 1px solid #ccc; /* Add a border for better visibility */
+    }
     
-    var legendData = [
-        { color: "#A3F600", label: "0-10 km" },
-        { color: "#DCF400", label: "10-30 km" },
-        { color: "#F7DB11", label: "30-50 km" },
-        { color: "#FDB72A", label: "50-70 km" },
-        { color: "#FCA35D", label: "70-90 km" },
-        { color: "#FF5F65", label: "90+ km" }
-    ]; 
-     // Define a legend control
-    var legend = L.control({ position: 'bottomright' });
+    .legend i {
+        width: 20px; /* Adjust the width of the color boxes */
+        height: 20px; /* Adjust the height of the color boxes */
+        display: inline-block;
+        margin-right: 5px; /* Add spacing between color boxes and labels */
+    }
+    
+// Define an array with legend colors and labels
+var legendData = [
+    { color: "#ff0000", label: "VEI 7" },
+    { color: "#fd4900", label: "VEI 6" },
+    { color: "#f66d00", label: "VEI 5" },
+    { color: "#e98b00", label: "VEI 4" },
+    { color: "#d7a700", label: "VEI 3" },
+    { color: "#bfbf00", label: "VEI 2" },
+    { color: "#a0d600", label: "VEI 1" },
+    { color: "#76eb00", label: "VEI 0" },
+    { color: "#00ff00", label: "No confirmed eruptions" }
+];
 
-    legend.onAdd = function (map) {
-        var div = L.DomUtil.create('div', 'info legend');
-        var labels = [];
-        for (var i = 0; i < legendData.length; i++) {
-            labels.push(
-                '<i style="background-color:' + legendData[i].color + '">' + legendData[i].label+'</i> '
-            );
-        }
-        console.log(labels)
-        div.innerHTML = labels.join('<br>');
-        return div;
-    };
+// Define a legend control
+var legend = L.control({ position: 'bottomright' });
 
-    // Add the legend to the map
-    legend.addTo(myMap);
+legend.onAdd = function (map) {
+    var div = L.DomUtil.create('div', 'legend'); // Add the 'legend' class here
 
+    var labels = [];
+    for (var i = 0; i < legendData.length; i++) {
+        labels.push(
+            '<i style="background-color:' + legendData[i].color + '"></i> ' +
+            legendData[i].label
+        );
+    }
+    div.innerHTML = labels.join('<br>');
+    return div;
+};
 
-
-     
-
-
-});
+// Add the legend to the map
+legend.addTo(myMap);
