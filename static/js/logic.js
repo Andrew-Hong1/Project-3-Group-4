@@ -28,7 +28,7 @@ d3.json(geoData).then(function(data) {
     for (let i = 0; i < features.length; i++) 
     {
         let coordinates= [features[i].geometry.coordinates[1],features[i].geometry.coordinates[0]]
-        // Set marker color based off Population Exposure Index (PEI)
+        // Set marker color based off Volcanic explosivity index (VEI)
         if (features[i].properties.VEI_Holoce==7)
         {
             fillColorVar="#ff0000";
@@ -64,7 +64,7 @@ d3.json(geoData).then(function(data) {
         fillOpacity: 0.75,
         color:"white",
         fillColor: fillColorVar,
-        // This will make our marker's size proportionate to its magnitude.
+        // This will make our marker's size proportionate to Population Exposure Index (PEI)
        
         radius: features[i].properties.PEI*7500
         
