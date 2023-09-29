@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Double Bar Graph</title>
+  <!-- Include Plotly.js library -->
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+
+<body>
+  <div>
+    <div id="double-bar-graph"></div>
+  </div>
+  
+  <script>
+    // Data for the double bar graph
+    const data = [
+      {
+        type: 'bar',
+        name: 'Human Death Toll (Min)',
+        y: [71000.0, 36000.0,30000.0, 23000.0, 20000.0, 15000.0,15000.0, 13000.0, 10000.0, 10000.0, 6000.0],
+        x: ['Mount Tambora', 'Krakatoa', 'Mount Pelée', 'Nevado del Ruiz','Santorini','Mount Samalas','Mount Unzen','Mount Vesuvius','Laki and Grímsvötn','Kelud','Santa María'],
+      },
+      {
+        type: 'bar',
+        name: 'Human Death Toll (Max)',
+        y: [250000.0, 36000.0, 30000.0, 23000.0,20000.0, 20000.0, 15000.0, 13000.0, 10000.0, 10000.0, 6000.0],
+        x: ['Mount Tambora', 'Krakatoa', 'Mount Pelée', 'Nevado del Ruiz','Santorini','Mount Samalas','Mount Unzen','Mount Vesuvius','Laki and Grímsvötn','Kelud','Santa María'],
+      },
+    ];
+
+    // Layout configuration
+    const layout = {
+      title: 'Top 10 Volcanic Eruptions with the Human Death Toll',
+      yaxis: { 
+        title: 'Human Death Toll',
+        dtick: 20000,
+        tickformat: '.f',
+        domain: [0.2, 1.5]},
+      xaxis: { title: 'Volcanic Eruption' },
+      barmode: 'group', // Specify 'group' for grouped bar chart
+    };
+
+    // Create the plot
+    Plotly.newPlot('double-bar-graph', data, layout);
+  </script>
+
+
+  <!-- D3 JavaScript -->
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <!-- Your custom JavaScript -->
+  <script type="text/javascript" src="static/js/logic.js"></script>
+</body>
+
+</html>

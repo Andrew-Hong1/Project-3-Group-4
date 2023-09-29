@@ -98,3 +98,53 @@ function createLegend() {
     }
     createLegend();
 });
+
+// Plotly Chart for Top 10 Volcanic Eruptions with the Highest Human Death Toll
+// Load the CSV file using Plotly.d3.csv
+Plotly.d3.csv('volcanic_eruptions_by_death_toll_df.csv', function(data) {
+
+    // Take the first 10 rows
+    var topTen = data.slice(0, 10);
+    
+    // Extract Volcanic Eruptions with Human Death Toll (Min) and Human Death Toll (Max) data for double horizontal bar graph
+    var deathtollMin = topTen.map(function(row) {
+        return row.Minimum;
+      });
+    
+      var deathtollMax = topTen.map(function(row) {
+        return row.Maximum;
+      });
+    
+      var volcanicEruption = topTen.map(function(row) {
+        return row.Volcano;
+      });
+    
+    // Create a horizontal bar graph using Plotly.newPlot
+    var graphData = [
+        {
+          x: volcanicEruption,
+          y: deathtollMin,
+          type: 'bar',
+          orientation: 'h',
+          name: 'Human Death Toll (Min)'
+        },
+        {
+          x: volcanicEruption,
+          y: deathtollMax,
+          type: 'bar',
+          orientation: 'h',
+          name: 'Human Death Toll (Max)'
+        }
+      ];
+    
+      var layout = {
+        title: 'Top 10 Volcanic Eruptions with the Highest Human Death Toll',
+        xaxis:  {title: 'Volcanic Eruption'},
+        yaxis: {title: 'Human Death Toll'},
+        // Min and Max Death Tolls displayed next to each other
+        barmode: 'group'
+      };
+    
+      Plotly.newPlot('bar-graph', graphData, layout);
+    });
+    
