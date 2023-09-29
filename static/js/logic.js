@@ -11,7 +11,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 
 
 //Use the D3 library to read in samples.json from the URL:
-const geoData = "https://s3.us-east-1.amazonaws.com/hdx-production-filestore/resources/7234d067-2d74-449a-9c61-22ae6d98d928/volcano.json?AWSAccessKeyId=AKIAXYC32WNAS5V67V55&Signature=thjhJRyZwDpL439047EMoy22SQ8%3D&Expires=1695860125";
+const geoData = "https://s3.us-east-1.amazonaws.com/hdx-production-filestore/resources/7234d067-2d74-449a-9c61-22ae6d98d928/volcano.json?AWSAccessKeyId=AKIAXYC32WNAS5V67V55&Signature=smrIDW5it%2FRSSvlQhUJ3TcOcCnQ%3D&Expires=1695946546";
 
 
 // Fetch the JSON data and console log it
@@ -74,30 +74,27 @@ d3.json(geoData).then(function(data) {
         <h3>Hazard: ${features[i].properties.hazard}</h3> <h3>Risk: ${features[i].properties.risk}</h3> 
         `).addTo(myMap);
      }
-     .legend {
-        background-color: white; /* Set the background color of the legend */
-        padding: 5px; /* Add padding for spacing */
-        border: 1px solid #ccc; /* Add a border for better visibility */
+   
+
+     
+
+    // Define a legend control
+function createLegend() {
+        var legend = L.control({position: 'bottomright'});
+        legend.onAdd = function () {
+            var div = L.DomUtil.create('div', 'info legend');
+            var colors = ["#FF0000", "#FD4900", "#F66D00", "#E98B00", "#D7A700", "#BFBF00", "#A0D600", "#76EB00", "#FFFFFF"];
+            var labels = ["VEI 6", "VEI 5", "VEI 4", "VEI 3", "VEI 2", "VEI 1", "VEI 0", "No Confirmed Eruptions", "Unknown"]
+            // title
+            div.innerHTML += '<h4>Volcano VEI Holoce</h4>';
+            for (var i = 0; i < colors.length; i++) {
+                div.innerHTML +=
+                '<i style="background:' + colors[i] + '"></i> ' +
+                labels[i] + '<br>';
+            }
+            return div;
+        };
+        legend.addTo(myMap);
     }
- 
-// Define a legend control
-var legend = L.control({ position: 'bottomright' });
-
-legend.onAdd = function (map) {
-    var div = L.DomUtil.create('div', 'legend'); // Add the 'legend' class here
-
-    var labels = [];
-    for (var i = 0; i < legendData.length; i++) {
-        labels.push(
-            '<i style="background-color:' + legendData[i].color + '"></i> ' +
-            legendData[i].label
-        );
-    }
-    div.innerHTML = labels.join('<br>');
-    return div;
-};
-
-// Add the legend to the map
-legend.addTo(myMap);
+    createLegend();
 });
-
