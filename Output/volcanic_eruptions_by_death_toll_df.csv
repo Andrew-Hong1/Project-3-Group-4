@@ -1,115 +1,115 @@
-index,Human Death Toll (Min),Human Death Toll (Max),Volcano,Location,VEI
-0,71000.0,250000.0,Mount Tambora,Indonesia,7
-1,36000.0,36000.0,Krakatoa,Indonesia,6
-2,30000.0,30000.0,Mount Pelée,Martinique,4
-3,23000.0,23000.0,Nevado del Ruiz,Colombia,3
-4,20000.0,20000.0,Santorini,Greece,7
-5,15000.0,20000.0,Mount Samalas,Indonesia,7
-6,15000.0,15000.0,Mount Unzen,Japan,2
-7,13000.0,13000.0,Mount Vesuvius,Italy,5
-8,10000.0,10000.0,Laki and Grímsvötn,Iceland,4
-9,10000.0,10000.0,Kelud,Indonesia,5
-10,6000.0,6000.0,Santa María,Guatemala,6
-11,5160.0,5160.0,Kelud,Indonesia,4
-12,4011.0,4011.0,Mount Galunggung,Indonesia,5
-13,3360.0,3360.0,Mount Vesuvius,Italy,5
-14,3000.0,3000.0,Ritter Island,Papua New Guinea,2
-15,2957.0,2957.0,Mount Papandayan,Indonesia,3
-16,2942.0,2942.0,Mount Lamington,Papua New Guinea,4
-17,2806.0,2806.0,Mount Awu,Indonesia,3
-18,2033.0,2033.0,Oshima Oshima,Japan,4
-19,2000.0,2000.0,Tseax Cone,Canada,
-20,1900.0,1900.0,El Chichón,Mexico,5
-21,1700.0,1700.0,Soufrière,St. Vincent,4
-22,1584.0,1584.0,Mount Agung,Indonesia,5
-23,1532.0,1532.0,Mount Awu,Indonesia,3
-24,1500.0,1500.0,Huaynaputina,Peru,6
-25,1369.0,1369.0,Mount Merapi,Indonesia,3
-26,1335.0,1335.0,Taal,Philippines,3
-27,1300.0,1300.0,Gamalama,Indonesia,3
-28,1200.0,1200.0,Mount Mayon,Philippines,4
-29,1151.0,1151.0,Mount Asama,Japan,4
-30,1000.0,1000.0,Nevado del Ruiz,Colombia,3
-31,847.0,847.0,Mount Pinatubo,Philippines,6
-32,700.0,700.0,Hokkaido Komagatake,Japan,5
-33,600.0,600.0,Nevado del Ruiz,Colombia,4
-34,507.0,507.0,Tavurvur,Papua New Guinea,4
-35,500.0,500.0,Hibok-Hibok,Philippines,3
-36,477.0,477.0,Mount Bandai,Japan,4
-37,426.0,426.0,Anak Krakatoa,Indonesia,3
-38,416.0,416.0,Ruang,Indonesia,2
-39,400.0,400.0,Kilauea,United States,4
-40,350.0,400.0,Mount Mayon,Philippines,4
-41,353.0,353.0,Mount Merapi,Indonesia,4
-42,340.0,340.0,Cotopaxi,Ecuador,4
-43,326.0,326.0,Makian,Indonesia,4
-44,245.0,245.0,Nyiragongo,Democratic Republic of the Congo,1
-45,216.0,216.0,Mount Vesuvius,Italy,4
-46,190.0,2900.0,Volcán de Fuego,Guatemala,3
-47,160.0,160.0,Paluweh,Indonesia,3
-48,151.0,151.0,Mount Ruapehu,New Zealand,
-49,150.0,150.0,Tori-shima,Japan,3
-50,149.0,149.0,Dieng Volcanic Complex,Indonesia,1
-51,144.0,144.0,Mount Tokachi,Japan,3
-52,117.0,117.0,Dieng Volcanic Complex,Indonesia,2
-53,114.0,114.0,Dieng Volcanic Complex,Indonesia,1
-54,108.0,120.0,Mount Tarawera,New Zealand,5
-55,106.0,106.0,Dubbi,Eritrea,3
-56,87.0,87.0,Volcán Arenal,Costa Rica,3
-57,80.0,80.0,Mount Marapi,Indonesia,2
-58,79.0,79.0,Mount Mayon,Philippines,2
-59,70.0,70.0,Nyiragongo,Democratic Republic of the Congo,1
-60,70.0,70.0,Kolumbo,Greece,4
-61,69.0,69.0,Semeru,Indonesia,4
-62,64.0,64.0,Mount Merapi,Indonesia,2
-63,63.0,63.0,Mount Ontake,Japan,3
-64,58.0,58.0,Sakurajima,Japan,4
-65,57.0,57.0,Mount St. Helens,United States,5
-66,56.0,56.0,Mount Etna,Italy,2
-67,56.0,56.0,La Soufrière,Saint Vincent and the Grenadines,4
-68,50.0,50.0,Mount Usu,Japan,4
-69,43.0,43.0,Mount Unzen,Japan,1
-70,40.0,40.0,Dieng Volcanic Complex,Indonesia,2
-71,39.0,39.0,Taal,Philippines,4
-72,38.0,38.0,Dieng Volcanic Complex,Indonesia,2
-73,32.0,32.0,Mount Nyiragongo,Democratic Republic of the Congo,1
-74,32.0,32.0,Kelud,Indonesia,4
-75,31.0,31.0,Bayonnaise Rocks,Japan,2
-76,31.0,31.0,Nabro Volcano,Eritrea,4
-77,30.0,30.0,Rinjani,Indonesia,3
-78,27.0,27.0,Mount Vesuvius,Italy,3
-79,25.0,25.0,Villarrica,Chile,2
-80,24.0,24.0,Monte Nuovo (Phlegraean Fields),Italy,3
-81,23.0,23.0,Villarrica,Chile,3
-82,22.0,22.0,Whakaari/White Island,New Zealand,2
-83,19.0,19.0,Soufrière Hills,Montserrat,3
-84,18.0,18.0,Galunggung,Indonesia,4
-85,16.0,16.0,Sinabung,Indonesia,4
-86,15.0,30.0,Villarrica,Chile,2
-87,15.0,15.0,Raikoke,Russia,4
-88,10.0,10.0,Dieng Volcanic Complex,Indonesia,1
-89,10.0,10.0,Whakaari/White Island,New Zealand,
-90,9.0,9.0,Galeras,Colombia,2
-91,9.0,9.0,Mount Etna,Italy,3
-92,8.0,8.0,Dieng Volcanic Complex,Indonesia,1
-93,8.0,8.0,Kuchinoerabu-jima,Japan,4
-94,7.0,7.0,Kelud,Indonesia,4
-95,7.0,7.0,Jabal al-Tair,Yemen,3
-96,6.0,6.0,Hunga Tonga–Hunga Haʻapai,Tonga,5
-97,6.0,6.0,Karangetang,Indonesia,2
-98,5.0,5.0,Mount Tavurvur,Papua New Guinea,4
-99,5.0,5.0,Mount Hudson,Chile,3
-100,4.0,4.0,Gamalama,Indonesia,2
-101,4.0,4.0,Yakedake,Japan,1
-102,4.0,4.0,Stromboli,Italy,2
-103,3.0,3.0,Pacaya,Guatemala,3
-104,3.0,3.0,Kanlaon,Philippines,2
-105,3.0,3.0,Didicas,Philippines,2
-106,2.0,2.0,Santa Ana,El Salvador,3
-107,2.0,2.0,Mount Bromo,Indonesia,2
-108,1.0,1.0,Popocatépetl,Mexico,2
-109,1.0,1.0,Cumbre Vieja,Spain,3
-110,1.0,1.0,Stromboli,Italy,2
-111,1.0,1.0,Chaitén,Chile,4
-112,1.0,1.0,Raoul Island,New Zealand,1
-113,1.0,1.0,Eldfell,Iceland,3
+index,Human Death Toll (Min),Human Death Toll (Max),Volcano,Location,Year,VEI
+0,71000.0,250000.0,Mount Tambora,Indonesia,1815,7
+1,36000.0,36000.0,Krakatoa,Indonesia,1883,6
+2,30000.0,30000.0,Mount Pelée,Martinique,1902,4
+3,23000.0,23000.0,Nevado del Ruiz,Colombia,1985,3
+4,20000.0,20000.0,Santorini,Greece,-1600,7
+5,15000.0,20000.0,Mount Samalas,Indonesia,1257,7
+6,15000.0,15000.0,Mount Unzen,Japan,1792,2
+7,13000.0,13000.0,Mount Vesuvius,Italy,79,5
+8,10000.0,10000.0,Laki and Grímsvötn,Iceland,1783,4
+9,10000.0,10000.0,Kelud,Indonesia,1586,5
+10,6000.0,6000.0,Santa María,Guatemala,1902,6
+11,5160.0,5160.0,Kelud,Indonesia,1919,4
+12,4011.0,4011.0,Mount Galunggung,Indonesia,1822,5
+13,3360.0,3360.0,Mount Vesuvius,Italy,1631,5
+14,3000.0,3000.0,Ritter Island,Papua New Guinea,1888,2
+15,2957.0,2957.0,Mount Papandayan,Indonesia,1772,3
+16,2942.0,2942.0,Mount Lamington,Papua New Guinea,1951,4
+17,2806.0,2806.0,Mount Awu,Indonesia,1856,3
+18,2033.0,2033.0,Oshima Oshima,Japan,1741,4
+19,2000.0,2000.0,Tseax Cone,Canada,1700,
+20,1900.0,1900.0,El Chichón,Mexico,1982,5
+21,1700.0,1700.0,Soufrière,St. Vincent,1902,4
+22,1584.0,1584.0,Mount Agung,Indonesia,1963,5
+23,1532.0,1532.0,Mount Awu,Indonesia,1892,3
+24,1500.0,1500.0,Huaynaputina,Peru,1600,6
+25,1369.0,1369.0,Mount Merapi,Indonesia,1930,3
+26,1335.0,1335.0,Taal,Philippines,1911,3
+27,1300.0,1300.0,Gamalama,Indonesia,1775,3
+28,1200.0,1200.0,Mount Mayon,Philippines,1814,4
+29,1151.0,1151.0,Mount Asama,Japan,1783,4
+30,1000.0,1000.0,Nevado del Ruiz,Colombia,1845,3
+31,847.0,847.0,Mount Pinatubo,Philippines,1991,6
+32,700.0,700.0,Hokkaido Komagatake,Japan,1640,5
+33,600.0,600.0,Nevado del Ruiz,Colombia,1595,4
+34,507.0,507.0,Tavurvur,Papua New Guinea,1937,4
+35,500.0,500.0,Hibok-Hibok,Philippines,1951,3
+36,477.0,477.0,Mount Bandai,Japan,1888,4
+37,426.0,426.0,Anak Krakatoa,Indonesia,2018,3
+38,416.0,416.0,Ruang,Indonesia,1871,2
+39,400.0,400.0,Kilauea,United States,1790,4
+40,350.0,400.0,Mount Mayon,Philippines,1897,4
+41,353.0,353.0,Mount Merapi,Indonesia,2010,4
+42,340.0,340.0,Cotopaxi,Ecuador,1877,4
+43,326.0,326.0,Makian,Indonesia,1861,4
+44,245.0,245.0,Nyiragongo,Democratic Republic of the Congo,2002,1
+45,216.0,216.0,Mount Vesuvius,Italy,1906,4
+46,190.0,2900.0,Volcán de Fuego,Guatemala,2018,3
+47,160.0,160.0,Paluweh,Indonesia,1928,3
+48,151.0,151.0,Mount Ruapehu,New Zealand,1953,
+49,150.0,150.0,Tori-shima,Japan,1902,3
+50,149.0,149.0,Dieng Volcanic Complex,Indonesia,1979,1
+51,144.0,144.0,Mount Tokachi,Japan,1926,3
+52,117.0,117.0,Dieng Volcanic Complex,Indonesia,1944,2
+53,114.0,114.0,Dieng Volcanic Complex,Indonesia,1964,1
+54,108.0,120.0,Mount Tarawera,New Zealand,1886,5
+55,106.0,106.0,Dubbi,Eritrea,1861,3
+56,87.0,87.0,Volcán Arenal,Costa Rica,1968,3
+57,80.0,80.0,Mount Marapi,Indonesia,1979,2
+58,79.0,79.0,Mount Mayon,Philippines,1993,2
+59,70.0,70.0,Nyiragongo,Democratic Republic of the Congo,1977,1
+60,70.0,70.0,Kolumbo,Greece,1650,4
+61,69.0,69.0,Semeru,Indonesia,2021,4
+62,64.0,64.0,Mount Merapi,Indonesia,1994,2
+63,63.0,63.0,Mount Ontake,Japan,2014,3
+64,58.0,58.0,Sakurajima,Japan,1914,4
+65,57.0,57.0,Mount St. Helens,United States,1980,5
+66,56.0,56.0,Mount Etna,Italy,1843,2
+67,56.0,56.0,La Soufrière,Saint Vincent and the Grenadines,1812,4
+68,50.0,50.0,Mount Usu,Japan,1822,4
+69,43.0,43.0,Mount Unzen,Japan,1991,1
+70,40.0,40.0,Dieng Volcanic Complex,Indonesia,1928,2
+71,39.0,39.0,Taal,Philippines,2020,4
+72,38.0,38.0,Dieng Volcanic Complex,Indonesia,1786,2
+73,32.0,32.0,Mount Nyiragongo,Democratic Republic of the Congo,2021,1
+74,32.0,32.0,Kelud,Indonesia,1990,4
+75,31.0,31.0,Bayonnaise Rocks,Japan,1952,2
+76,31.0,31.0,Nabro Volcano,Eritrea,2011,4
+77,30.0,30.0,Rinjani,Indonesia,1994,3
+78,27.0,27.0,Mount Vesuvius,Italy,1944,3
+79,25.0,25.0,Villarrica,Chile,1964,2
+80,24.0,24.0,Monte Nuovo (Phlegraean Fields),Italy,1538,3
+81,23.0,23.0,Villarrica,Chile,1948,3
+82,22.0,22.0,Whakaari/White Island,New Zealand,2019,2
+83,19.0,19.0,Soufrière Hills,Montserrat,1997,3
+84,18.0,18.0,Galunggung,Indonesia,1982,4
+85,16.0,16.0,Sinabung,Indonesia,2014,4
+86,15.0,30.0,Villarrica,Chile,1971,2
+87,15.0,15.0,Raikoke,Russia,1778,4
+88,10.0,10.0,Dieng Volcanic Complex,Indonesia,1939,1
+89,10.0,10.0,Whakaari/White Island,New Zealand,1914,
+90,9.0,9.0,Galeras,Colombia,1993,2
+91,9.0,9.0,Mount Etna,Italy,1979,3
+92,8.0,8.0,Dieng Volcanic Complex,Indonesia,2017,1
+93,8.0,8.0,Kuchinoerabu-jima,Japan,1933,4
+94,7.0,7.0,Kelud,Indonesia,2014,4
+95,7.0,7.0,Jabal al-Tair,Yemen,2007,3
+96,6.0,6.0,Hunga Tonga–Hunga Haʻapai,Tonga,2022,5
+97,6.0,6.0,Karangetang,Indonesia,1992,2
+98,5.0,5.0,Mount Tavurvur,Papua New Guinea,1994,4
+99,5.0,5.0,Mount Hudson,Chile,1971,3
+100,4.0,4.0,Gamalama,Indonesia,2011,2
+101,4.0,4.0,Yakedake,Japan,1995,1
+102,4.0,4.0,Stromboli,Italy,1930,2
+103,3.0,3.0,Pacaya,Guatemala,2010,3
+104,3.0,3.0,Kanlaon,Philippines,1996,2
+105,3.0,3.0,Didicas,Philippines,1969,2
+106,2.0,2.0,Santa Ana,El Salvador,2005,3
+107,2.0,2.0,Mount Bromo,Indonesia,2004,2
+108,1.0,1.0,Popocatépetl,Mexico,2022,2
+109,1.0,1.0,Cumbre Vieja,Spain,2021,3
+110,1.0,1.0,Stromboli,Italy,2019,2
+111,1.0,1.0,Chaitén,Chile,2008,4
+112,1.0,1.0,Raoul Island,New Zealand,2006,1
+113,1.0,1.0,Eldfell,Iceland,1973,3
