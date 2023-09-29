@@ -26,6 +26,7 @@ CREATE TABLE pei_tbl (
 
 Select * from pei_tbl;
 
+-- This table stores information about volcanoes by country.
 CREATE TABLE volcanoes_by_country_tbl (
     Country TEXT PRIMARY KEY,
     TotalVolcanoes INTEGER,
