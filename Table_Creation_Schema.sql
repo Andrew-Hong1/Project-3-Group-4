@@ -42,6 +42,7 @@ CREATE TABLE eruptions_tbl (
     death_toll_max REAL,
     volcano_name VARCHAR(255),
     location TEXT,
+    year INT,
     VEI VARCHAR(255),
     FOREIGN KEY (VEI) REFERENCES vei_tbl(VEI)
 );
