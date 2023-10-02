@@ -26,6 +26,7 @@ https://www.usgs.gov/programs/VHP/volcano-hazard-assessments-are-based-geologic-
 * Plotly
 * js.chart
 * HTML
+* SQL
 
 ## Authors
 * Andrew Hong - ![LinkedIn](insertlink) | ![GitHub](https://github.com/Andrew-Hong1)
