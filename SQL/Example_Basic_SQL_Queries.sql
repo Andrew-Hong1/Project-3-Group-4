@@ -20,10 +20,10 @@ GROUP BY Country
 ORDER BY Total_PEI DESC;
 
 --Find Volcanoes in a Specific Region:
---To find volcanoes in a specific region (e.g., 'Pacific Ring of Fire'):
+--To find volcanoes in a specific region (e.g., 'Philippines and SE Asia aka The Ring of Fire'):
 SELECT V_Name, Country
 FROM volcano_data_tbl
-WHERE Region = 'Pacific Ring of Fire';
+WHERE Region = 'Philippines and SE Asia';
 
 --List Countries with the Highest Human Development Index (HDI):
 SELECT Nation, HDI
