@@ -39,7 +39,6 @@ https://www.usgs.gov/programs/VHP/volcano-hazard-assessments-are-based-geologic-
 ![volcanic_eruptions_by_death_toll_df](https://github.com/Andrew-Hong1/Project-3-Group-4/assets/134234019/2d0ec77f-974e-4412-911c-6652d1c69d88)
 ![volcano_data_df](https://github.com/Andrew-Hong1/Project-3-Group-4/assets/134234019/80b36faa-c0e7-4dd1-8399-c82a9711a830)
 ![volcanoes_by_country_df](https://github.com/Andrew-Hong1/Project-3-Group-4/assets/134234019/746b3753-e979-4580-86f0-5b76d2462d5a)
-
 ![human_devlopment_index_df](https://github.com/Andrew-Hong1/Project-3-Group-4/assets/134234019/6059bed6-fe20-4525-bd76-460010ed19df)
 
 
