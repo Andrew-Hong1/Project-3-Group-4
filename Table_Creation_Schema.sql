@@ -43,8 +43,8 @@ CREATE TABLE volcanoes_by_country_tbl (
 	FOREIGN KEY (Country) REFERENCES human_development_index_tbl(Nation)
 );
 
-Select * from volcanoes_by_country_tbl;
 
+Select * from volcanoes_by_country_tbl;
 
 
 -- This table stores information about volcanic eruptions, with a reference to the VEI from the vei_tbl.
