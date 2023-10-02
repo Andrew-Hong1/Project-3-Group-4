@@ -45,19 +45,15 @@ GROUP BY vt.Classification
 ORDER BY Count DESC
 LIMIT 1;
 
---Calculate the Total Number of Eruptions per VEI Classification:
-SELECT vei_tbl.Classification, COUNT(eruptions_tbl.eruption_id) AS Total_Eruptions
-FROM vei_tbl
-LEFT JOIN eruptions_tbl ON vei_tbl.VEI = eruptions_tbl.VEI
-GROUP BY vei_tbl.Classification
-ORDER BY Total_Eruptions DESC;
 
 --List Volcanoes with the Highest Risk Level:
-SELECT V_Name, risk
-FROM volcano_data_tbl
-WHERE risk = (SELECT MAX(risk) FROM volcano_data_tbl);
+-- this SQL query retrieves data about volcanoes, their risk levels, associated countries, and HDI values. It filters out rows with missing or "None" values 
+-- in the risk column and then orders the result set first by risk level and then by HDI in descending order.
+SELECT vd.V_Name, vd.risk, hdi.Nation AS Country, hdi.HDI
+FROM volcano_data_tbl vd
+JOIN human_development_index_tbl hdi ON vd.Country = hdi.Nation
+WHERE vd.risk IS NOT NULL AND vd.risk <> 'None'
+ORDER BY vd.risk DESC, hdi.HDI DESC;
 
---Calculate the Average HDI for Countries with Active Volcanoes:
-SELECT AVG(hdi.HDI) AS Average_HDI
-FROM human_development_index_tbl hdi
-JOIN volcanoes_by_country_tbl vbc ON hdi.Nation = vbc.Country
+
+

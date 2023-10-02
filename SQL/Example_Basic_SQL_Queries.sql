@@ -36,3 +36,4 @@ FROM volcano_data_tbl
 JOIN eruptions_tbl ON volcano_data_tbl.V_Name = eruptions_tbl.volcano_name
 GROUP BY V_Name
 ORDER BY Eruption_Count DESC;
+
