@@ -26,7 +26,7 @@ https://www.usgs.gov/programs/VHP/volcano-hazard-assessments-are-based-geologic-
 * Plotly
 * js.chart
 * HTML
-  
+
 ## Authors
 * Andrew Hong - ![LinkedIn](insertlink) | ![GitHub](https://github.com/Andrew-Hong1)
 * Christina Esqiuvel - ![LinkedIn](insertlink) | ![GitHub](https://github.com/VivaLaTeena)
@@ -34,3 +34,12 @@ https://www.usgs.gov/programs/VHP/volcano-hazard-assessments-are-based-geologic-
 * Hannah Varghese - ![LinkedIn](https://www.linkedin.com/in/hannahvarghese/) | ![GitHub](https://github.com/hannahvarghese)
 * Latrice Moore - ![LinkedIn](insertlink) | ![GitHub](https://github.com/lmoore5460)
 
+![vei_df](https://github.com/Andrew-Hong1/Project-3-Group-4/assets/134234019/7f1a4f33-b0ba-4b6e-b22e-cc9f68515150)
+![pei_df](https://github.com/Andrew-Hong1/Project-3-Group-4/assets/134234019/9b090cf0-a2f8-48ed-acaf-bd0e962e23c0)
+![volcanic_eruptions_by_death_toll_df](https://github.com/Andrew-Hong1/Project-3-Group-4/assets/134234019/2d0ec77f-974e-4412-911c-6652d1c69d88)
+![volcano_data_df](https://github.com/Andrew-Hong1/Project-3-Group-4/assets/134234019/80b36faa-c0e7-4dd1-8399-c82a9711a830)
+![volcanoes_by_country_df](https://github.com/Andrew-Hong1/Project-3-Group-4/assets/134234019/746b3753-e979-4580-86f0-5b76d2462d5a)
+![human_devlopment_index_df](https://github.com/Andrew-Hong1/Project-3-Group-4/assets/134234019/6059bed6-fe20-4525-bd76-460010ed19df)
+
+
+![volcano_db_erd pgerd](https://github.com/Andrew-Hong1/Project-3-Group-4/assets/134234019/70628dc8-3d49-4642-87f8-71b0b8aa0a16)
