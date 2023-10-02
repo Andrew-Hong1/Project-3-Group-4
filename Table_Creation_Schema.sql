@@ -27,13 +27,25 @@ CREATE TABLE pei_tbl (
 Select * from pei_tbl;
 
 -- This table stores information about volcanoes by country.
+CREATE TABLE human_development_index_tbl (
+    Nation TEXT PRIMARY KEY,
+    HDI FLOAT,
+    Rank FLOAT
+);
+
+Select * from human_development_index_tbl;
+
+-- This table stores information about volcanoes by country.
 CREATE TABLE volcanoes_by_country_tbl (
     Country TEXT PRIMARY KEY,
     TotalVolcanoes INTEGER,
-    ActiveVolcanoes REAL
+    ActiveVolcanoes REAL,
+	FOREIGN KEY (Country) REFERENCES human_development_index_tbl(Nation)
 );
 
 Select * from volcanoes_by_country_tbl;
+
+
 
 -- This table stores information about volcanic eruptions, with a reference to the VEI from the vei_tbl.
 CREATE TABLE eruptions_tbl (
@@ -44,7 +56,8 @@ CREATE TABLE eruptions_tbl (
     location TEXT,
     year INT,
     VEI VARCHAR(255),
-    FOREIGN KEY (VEI) REFERENCES vei_tbl(VEI)
+    FOREIGN KEY (VEI) REFERENCES vei_tbl(VEI),
+	FOREIGN KEY (location) REFERENCES human_development_index_tbl(Nation)
 );
 
 Select * from eruptions_tbl;

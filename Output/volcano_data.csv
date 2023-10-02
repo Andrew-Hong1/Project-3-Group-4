@@ -43,8 +43,8 @@ VolcanoID,V_Name,Country,Region,Subregion,Latitude,Longitude,PEI,H_active,VEI_Ho
 214060,Aragats,Armenia,Mediterranean and W Asia,Western Asia,40.53,44.2,4,0,No confirmed eruptions,None,U-NHHR,None
 214070,Ghegam Ridge,Armenia,Mediterranean and W Asia,Western Asia,40.275,44.75,7,0,0,None,U-HR,None
 214080,Dar-Alages,Armenia,Mediterranean and W Asia,Western Asia,39.7,45.542,5,0,Unknown VEI,None,U-HR,None
-214090,Porak,Armenia-Azerbaijan,Mediterranean and W Asia,Western Asia,40.02,45.78,3,0,Unknown VEI,None,U-HR,None
-214100,Tskhouk-Karckar,Armenia-Azerbaijan,Mediterranean and W Asia,Western Asia,39.73,46.02,3,0,Unknown VEI,None,U-HR,None
+214090,Porak,Armenia,Mediterranean and W Asia,Western Asia,40.02,45.78,3,0,Unknown VEI,None,U-HR,None
+214100,Tskhouk-Karckar,Armenia,Mediterranean and W Asia,Western Asia,39.73,46.02,3,0,Unknown VEI,None,U-HR,None
 221010,Tair Jebel at,Yemen,Africa and Red Sea,Africa (northeastern) and Red Sea,15.55,41.83,2,1,3,1.0,None,1.0
 221020,Zubair Group,Yemen,Africa and Red Sea,Africa (northeastern) and Red Sea,15.05,42.18,2,1,2,None,U-HHR,None
 221021,Zukur,Yemen,Africa and Red Sea,Africa (northeastern) and Red Sea,14.02,42.75,3,0,No confirmed eruptions,None,U-NHHR,None
@@ -61,8 +61,8 @@ VolcanoID,V_Name,Country,Region,Subregion,Latitude,Longitude,PEI,H_active,VEI_Ho
 221091,Hayli Gubbi,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,13.5,40.72,2,0,No confirmed eruptions,None,U-NHHR,None
 221100,Dubbi,Eritrea,Africa and Red Sea,Africa (northeastern) and Red Sea,13.58,41.808,2,1,3,None,U-HHR,None
 221101,Nabro,Eritrea,Africa and Red Sea,Africa (northeastern) and Red Sea,13.37,41.7,2,1,4,None,U-HHR,None
-221102,Mallahle,Ethiopia-Eritrea,Africa and Red Sea,Africa (northeastern) and Red Sea,13.27,41.65,2,0,No confirmed eruptions,None,U-NHHR,None
-221103,Sork Ale,Ethiopia-Eritrea,Africa and Red Sea,Africa (northeastern) and Red Sea,13.18,41.725,2,0,No confirmed eruptions,None,U-NHHR,None
+221102,Mallahle,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,13.27,41.65,2,0,No confirmed eruptions,None,U-NHHR,None
+221103,Sork Ale,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,13.18,41.725,2,0,No confirmed eruptions,None,U-NHHR,None
 221104,Asavyo,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,13.07,41.6,2,0,No confirmed eruptions,None,U-NHHR,None
 221105,Mat Ala,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,13.1,41.15,2,0,No confirmed eruptions,None,U-NHHR,None
 221106,Tat Ali,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,13.28,41.07,2,0,No confirmed eruptions,None,U-NHHR,None
@@ -76,9 +76,9 @@ VolcanoID,V_Name,Country,Region,Subregion,Latitude,Longitude,PEI,H_active,VEI_Ho
 221116,Groppo,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,11.73,40.25,4,0,No confirmed eruptions,None,U-NHHR,None
 221120,Kurub,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,11.88,41.208,2,0,No confirmed eruptions,None,U-NHHR,None
 221121,Borawli,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,11.63,41.45,5,0,No confirmed eruptions,None,U-NHHR,None
-221122,Manda-Inakir,Ethiopia-Djibouti,Africa and Red Sea,Africa (northeastern) and Red Sea,12.38,42.2,2,1,2,None,U-HHR,None
-221123,Mousa Alli,Ethiopia-Eritrea-Djibouti,Africa and Red Sea,Africa (northeastern) and Red Sea,12.47,42.4,2,0,No confirmed eruptions,None,U-NHHR,None
-221124,Gufa,Eritrea-Djibouti,Africa and Red Sea,Africa (northeastern) and Red Sea,12.55,42.53,2,0,No confirmed eruptions,None,U-NHHR,None
+221122,Manda-Inakir,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,12.38,42.2,2,1,2,None,U-HHR,None
+221123,Mousa Alli,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,12.47,42.4,2,0,No confirmed eruptions,None,U-NHHR,None
+221124,Gufa,Eritrea,Africa and Red Sea,Africa (northeastern) and Red Sea,12.55,42.53,2,0,No confirmed eruptions,None,U-NHHR,None
 221125,Assab Volcanic Field,Eritrea,Africa and Red Sea,Africa (northeastern) and Red Sea,12.95,42.43,2,0,No confirmed eruptions,None,U-NHHR,None
 221126,Ardouk?ba,Djibouti,Africa and Red Sea,Africa (northeastern) and Red Sea,11.58,42.47,3,1,1,None,U-HHR,None
 221127,Manda Gargori,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,11.75,41.48,3,0,No confirmed eruptions,None,U-NHHR,None
@@ -114,7 +114,7 @@ VolcanoID,V_Name,Country,Region,Subregion,Latitude,Longitude,PEI,H_active,VEI_Ho
 221310,Tosa Sucha,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,5.93,37.57,6,0,No confirmed eruptions,None,U-NHHR,None
 221311,Unnamed,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,5.65,37.67,5,0,No confirmed eruptions,None,U-NHHR,None
 221320,Korath Range,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,5.1,35.88,4,0,No confirmed eruptions,None,U-NHHR,None
-221330,Mega Basalt Field,Ethiopia-Kenya,Africa and Red Sea,Africa (northeastern) and Red Sea,4.08,37.42,3,0,No confirmed eruptions,None,U-NHHR,None
+221330,Mega Basalt Field,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,4.08,37.42,3,0,No confirmed eruptions,None,U-NHHR,None
 222001,North Island,Kenya,Africa and Red Sea,Africa (eastern),4.07,36.05,2,0,No confirmed eruptions,None,U-NHHR,None
 222010,Central Island,Kenya,Africa and Red Sea,Africa (eastern),3.5,36.042,2,0,No confirmed eruptions,None,U-NHHR,None
 222020,South Island,Kenya,Africa and Red Sea,Africa (eastern),2.63,36.6,2,1,1,None,U-HHR,None
@@ -151,14 +151,14 @@ VolcanoID,V_Name,Country,Region,Subregion,Latitude,Longitude,PEI,H_active,VEI_Ho
 223003,Katwe-Kikorongo,Uganda,Africa and Red Sea,Africa (central),-0.08,29.92,7,0,No confirmed eruptions,None,U-NHHR,None
 223004,Bunyaruguru,Uganda,Africa and Red Sea,Africa (central),-0.2,30.08,6,0,No confirmed eruptions,None,U-NHHR,None
 223005,Katunga,Uganda,Africa and Red Sea,Africa (central),-0.471,30.191,6,0,No confirmed eruptions,None,U-NHHR,None
-223010,May-ya-moto,DR Congo,Africa and Red Sea,Africa (central),-0.93,29.33,5,0,No confirmed eruptions,None,U-NHHR,None
-223020,Nyamuragira,DR Congo,Africa and Red Sea,Africa (central),-1.408,29.2,5,1,3,1.0,None,2.0
-223030,Nyiragongo,DR Congo,Africa and Red Sea,Africa (central),-1.52,29.25,5,1,2,1.0,None,2.0
-223040,Karisimbi,DR Congo-Rwanda,Africa and Red Sea,Africa (central),-1.5,29.45,6,0,Unknown VEI,None,U-HR,None
-223050,Visoke,DR Congo-Rwanda,Africa and Red Sea,Africa (central),-1.47,29.492,6,1,1,None,U-HHR,None
-223060,Muhavura,Uganda-Rwanda,Africa and Red Sea,Africa (central),-1.38,29.67,6,0,No confirmed eruptions,None,U-NHHR,None
+223010,May-ya-moto,Democratic Republic of the Congo,Africa and Red Sea,Africa (central),-0.93,29.33,5,0,No confirmed eruptions,None,U-NHHR,None
+223020,Nyamuragira,Democratic Republic of the Congo,Africa and Red Sea,Africa (central),-1.408,29.2,5,1,3,1.0,None,2.0
+223030,Nyiragongo,Democratic Republic of the Congo,Africa and Red Sea,Africa (central),-1.52,29.25,5,1,2,1.0,None,2.0
+223040,Karisimbi,Democratic Republic of the Congo,Africa and Red Sea,Africa (central),-1.5,29.45,6,0,Unknown VEI,None,U-HR,None
+223050,Visoke,Democratic Republic of the Congo,Africa and Red Sea,Africa (central),-1.47,29.492,6,1,1,None,U-HHR,None
+223060,Muhavura,Uganda,Africa and Red Sea,Africa (central),-1.38,29.67,6,0,No confirmed eruptions,None,U-NHHR,None
 223070,Bufumbira,Uganda,Africa and Red Sea,Africa (central),-1.23,29.72,7,0,No confirmed eruptions,None,U-NHHR,None
-223080,Tshibinda,DR Congo,Africa and Red Sea,Africa (central),-2.32,28.75,6,0,No confirmed eruptions,None,U-NHHR,None
+223080,Tshibinda,Democratic Republic of the Congo,Africa and Red Sea,Africa (central),-2.32,28.75,6,0,No confirmed eruptions,None,U-NHHR,None
 224001,Sao Tome,Sao Tome and Principe,Africa and Red Sea,Africa (western),0.2,6.58,4,0,No confirmed eruptions,None,U-NHHR,None
 224002,San Carlos,Equatorial Guinea,Africa and Red Sea,Africa (western),3.35,8.52,2,0,No confirmed eruptions,None,U-NHHR,None
 224003,San Joaquin,Equatorial Guinea,Africa and Red Sea,Africa (western),3.35,8.63,2,0,No confirmed eruptions,None,U-NHHR,None
@@ -171,7 +171,7 @@ VolcanoID,V_Name,Country,Region,Subregion,Latitude,Longitude,PEI,H_active,VEI_Ho
 224050,Biu Plateau,Nigeria,Africa and Red Sea,Africa (western),10.75,12.0,5,0,No confirmed eruptions,None,U-NHHR,None
 225001,Todra Volcanic Field,Niger,Africa and Red Sea,Africa (northern),17.68,8.5,2,0,No confirmed eruptions,None,U-NHHR,None
 225002,Tin Zaouatene Volcanic Field,Mali,Africa and Red Sea,Africa (northern),19.83,2.83,2,0,No confirmed eruptions,None,U-NHHR,None
-225003,In Ezzane Volcanic Field,Algeria-Niger,Africa and Red Sea,Africa (northern),23.0,10.83,2,0,No confirmed eruptions,None,U-NHHR,None
+225003,In Ezzane Volcanic Field,Algeria,Africa and Red Sea,Africa (northern),23.0,10.83,2,0,No confirmed eruptions,None,U-NHHR,None
 225004,Tahalra Volcanic Field,Algeria,Africa and Red Sea,Africa (northern),22.67,5.0,2,0,No confirmed eruptions,None,U-NHHR,None
 225005,Atakor Volcanic Field,Algeria,Africa and Red Sea,Africa (northern),23.33,5.83,2,0,No confirmed eruptions,None,U-NHHR,None
 225006,Manzaz Volcanic Field,Algeria,Africa and Red Sea,Africa (northern),23.92,5.83,2,0,No confirmed eruptions,None,U-NHHR,None
@@ -210,7 +210,7 @@ VolcanoID,V_Name,Country,Region,Subregion,Latitude,Longitude,PEI,H_active,VEI_Ho
 231160,Saw?d Harra es-,Yemen,Middle East and Indian Ocean,Middle East (southern),13.58,46.12,5,0,3,None,U-HR,None
 231170,Bal Haf Harra of,Yemen,Middle East and Indian Ocean,Middle East (southern),14.05,48.33,3,0,No confirmed eruptions,None,U-NHHR,None
 231180,Bir Borhut,Yemen,Middle East and Indian Ocean,Middle East (southern),15.55,50.63,2,0,No confirmed eruptions,None,U-NHHR,None
-232000,Unnamed,Iran-Azerbaijan,Middle East and Indian Ocean,Middle East (eastern),39.25,45.17,5,0,No confirmed eruptions,None,U-NHHR,None
+232000,Unnamed,Iran,Middle East and Indian Ocean,Middle East (eastern),39.25,45.17,5,0,No confirmed eruptions,None,U-NHHR,None
 232001,Sahand,Iran,Middle East and Indian Ocean,Middle East (eastern),37.75,46.43,4,0,No confirmed eruptions,None,U-NHHR,None
 232002,Sabalan,Iran,Middle East and Indian Ocean,Middle East (eastern),38.25,47.92,3,0,No confirmed eruptions,None,U-NHHR,None
 232010,Damavand,Iran,Middle East and Indian Ocean,Middle East (eastern),35.951,52.109,5,0,0,None,U-HR,None
@@ -581,18 +581,18 @@ VolcanoID,V_Name,Country,Region,Subregion,Latitude,Longitude,PEI,H_active,VEI_Ho
 275050,Bas Dong Nai,Vietnam,Philippines and SE Asia,Southeast Asia,10.8,107.2,7,0,No confirmed eruptions,None,U-NHHR,None
 275060,Cendres Ile des,Vietnam,Philippines and SE Asia,Southeast Asia,10.158,109.014,2,1,2,None,U-HHR,None
 275070,Veteran,Vietnam,Philippines and SE Asia,Southeast Asia,9.83,109.05,2,0,No confirmed eruptions,None,U-NHHR,None
-275080,Popa,Burma (Myanmar),Philippines and SE Asia,Southeast Asia,20.92,95.25,5,0,Unknown VEI,None,U-HR,None
-275090,Lower Chindwin,Burma (Myanmar),Philippines and SE Asia,Southeast Asia,22.28,95.1,7,0,No confirmed eruptions,None,U-NHHR,None
-275100,Singu Plateau,Burma (Myanmar),Philippines and SE Asia,Southeast Asia,22.7,95.98,6,0,No confirmed eruptions,None,U-NHHR,None
+275080,Popa,Myanmar,Philippines and SE Asia,Southeast Asia,20.92,95.25,5,0,Unknown VEI,None,U-HR,None
+275090,Lower Chindwin,Myanmar,Philippines and SE Asia,Southeast Asia,22.28,95.1,7,0,No confirmed eruptions,None,U-NHHR,None
+275100,Singu Plateau,Myanmar,Philippines and SE Asia,Southeast Asia,22.7,95.98,6,0,No confirmed eruptions,None,U-NHHR,None
 275110,Tengchong,China,Philippines and SE Asia,Southeast Asia,25.23,98.5,6,0,Unknown VEI,None,U-HR,None
-281010,Unnamed,Taiwan,Japan Taiwan Marianas,Taiwan,20.93,134.75,1,0,No confirmed eruptions,None,U-NHHR,None
-281011,Unnamed,Taiwan,Japan Taiwan Marianas,Taiwan,19.17,132.25,1,0,No confirmed eruptions,None,U-NHHR,None
-281020,Unnamed,Taiwan,Japan Taiwan Marianas,Taiwan,21.83,121.18,2,0,No confirmed eruptions,None,U-NHHR,None
-281030,Unnamed,Taiwan,Japan Taiwan Marianas,Taiwan,24.0,121.83,3,1,2,None,U-HHR,None
-281031,Kueishantao,Taiwan,Japan Taiwan Marianas,Taiwan,24.85,121.92,5,1,0,None,U-HHR,None
-281032,Tatun Group,Taiwan,Japan Taiwan Marianas,Taiwan,25.17,121.52,7,0,1,None,U-HR,None
-281040,Unnamed,Taiwan,Japan Taiwan Marianas,Taiwan,25.4,122.2,4,0,No confirmed eruptions,None,U-NHHR,None
-281050,Zengyu,Taiwan,Japan Taiwan Marianas,Taiwan,26.18,122.458,1,0,No confirmed eruptions,None,U-NHHR,None
+281010,Unnamed,China,Japan Taiwan Marianas,Taiwan,20.93,134.75,1,0,No confirmed eruptions,None,U-NHHR,None
+281011,Unnamed,China,Japan Taiwan Marianas,Taiwan,19.17,132.25,1,0,No confirmed eruptions,None,U-NHHR,None
+281020,Unnamed,China,Japan Taiwan Marianas,Taiwan,21.83,121.18,2,0,No confirmed eruptions,None,U-NHHR,None
+281030,Unnamed,China,Japan Taiwan Marianas,Taiwan,24.0,121.83,3,1,2,None,U-HHR,None
+281031,Kueishantao,China,Japan Taiwan Marianas,Taiwan,24.85,121.92,5,1,0,None,U-HHR,None
+281032,Tatun Group,China,Japan Taiwan Marianas,Taiwan,25.17,121.52,7,0,1,None,U-HR,None
+281040,Unnamed,China,Japan Taiwan Marianas,Taiwan,25.4,122.2,4,0,No confirmed eruptions,None,U-NHHR,None
+281050,Zengyu,China,Japan Taiwan Marianas,Taiwan,26.18,122.458,1,0,No confirmed eruptions,None,U-NHHR,None
 282010,Submarine Volcano NNE of Iriomotejima,Japan,Japan Taiwan Marianas,Ryukyu Islands and Kyushu,24.57,123.93,2,1,4,None,U-HHR,None
 282020,Io-Torishima,Japan,Japan Taiwan Marianas,Ryukyu Islands and Kyushu,27.881,128.223,2,1,2,1.0,None,1.0
 282021,Yokoate-jima,Japan,Japan Taiwan Marianas,Ryukyu Islands and Kyushu,28.797,128.997,2,1,2,None,U-HHR,None
@@ -728,22 +728,22 @@ VolcanoID,V_Name,Country,Region,Subregion,Latitude,Longitude,PEI,H_active,VEI_Ho
 285082,Rausudake,Japan,Japan Taiwan Marianas,Hokkaido,44.076,145.122,3,1,4,3.0,None,2.0
 285083,Tenchozan,Japan,Japan Taiwan Marianas,Hokkaido,44.044,145.086,1,0,No confirmed eruptions,None,U-NHHR,None
 285090,Shiretoko-Iozan,Japan,Japan Taiwan Marianas,Hokkaido,44.133,145.161,2,1,2,1.0,None,1.0
-290010,Tomariyama [Golovnin],Japan - administered by Russia,Kuril Islands,Kuril Islands,43.844,145.504,2,1,1,None,U-HHR,None
-290020,Raususan [Mendeleev],Japan - administered by Russia,Kuril Islands,Kuril Islands,43.979,145.733,2,1,1,None,U-HHR,None
-290021,Ruruidake [Smirnov],Japan - administered by Russia,Kuril Islands,Kuril Islands,44.454,146.139,2,0,No confirmed eruptions,None,U-NHHR,None
-290030,Chachadake [Tiatia],Japan - administered by Russia,Kuril Islands,Kuril Islands,44.353,146.252,2,1,4,2.0,None,1.0
-290040,Berutarubesan [Berutarube],Japan - administered by Russia,Kuril Islands,Kuril Islands,44.462,146.932,2,0,No confirmed eruptions,None,U-NHHR,None
-290041,Moekeshiwan [Lvinaya Past],Japan - administered by Russia,Kuril Islands,Kuril Islands,44.608,146.994,2,0,6,None,U-HR,None
-290050,Etorofu-Atsonupuri [Atsonupuri],Japan - administered by Russia,Kuril Islands,Kuril Islands,44.808,147.131,2,1,2,None,U-HHR,None
-290060,Nishihitokappuyama [Bogatyr Ridge],Japan - administered by Russia,Kuril Islands,Kuril Islands,44.833,147.342,2,0,No confirmed eruptions,None,U-NHHR,None
-290061,Unnamed,Japan - administered by Russia,Kuril Islands,Kuril Islands,45.03,147.208,2,0,No confirmed eruptions,None,U-NHHR,None
-290070,Etorofu-Yakeyama [Grozny Group],Japan - administered by Russia,Kuril Islands,Kuril Islands,45.012,147.871,2,1,2,2.0,None,1.0
-290072,Odamoisan [Tebenkov],Japan - administered by Russia,Kuril Islands,Kuril Islands,45.026,147.922,1,0,No confirmed eruptions,None,U-NHHR,None
-290080,Sashiusudake [Baransky],Japan - administered by Russia,Kuril Islands,Kuril Islands,45.1,148.019,2,1,1,None,U-HHR,None
-290090,Chirippusan [Chirip],Japan - administered by Russia,Kuril Islands,Kuril Islands,45.338,147.92,2,1,2,None,U-HHR,None
-290091,Rucharuyama [Golets-Tornyi Group],Japan - administered by Russia,Kuril Islands,Kuril Islands,45.25,148.35,2,0,No confirmed eruptions,None,U-NHHR,None
-290100,Moyorodake [Medvezhia],Japan - administered by Russia,Kuril Islands,Kuril Islands,45.389,148.838,2,1,2,1.0,None,1.0
-290110,Rakkibetsudake [Demon],Japan - administered by Russia,Kuril Islands,Kuril Islands,45.5,148.85,2,0,No confirmed eruptions,None,U-NHHR,None
+290010,Tomariyama [Golovnin],Japan,Kuril Islands,Kuril Islands,43.844,145.504,2,1,1,None,U-HHR,None
+290020,Raususan [Mendeleev],Japan,Kuril Islands,Kuril Islands,43.979,145.733,2,1,1,None,U-HHR,None
+290021,Ruruidake [Smirnov],Japan,Kuril Islands,Kuril Islands,44.454,146.139,2,0,No confirmed eruptions,None,U-NHHR,None
+290030,Chachadake [Tiatia],Japan,Kuril Islands,Kuril Islands,44.353,146.252,2,1,4,2.0,None,1.0
+290040,Berutarubesan [Berutarube],Japan,Kuril Islands,Kuril Islands,44.462,146.932,2,0,No confirmed eruptions,None,U-NHHR,None
+290041,Moekeshiwan [Lvinaya Past],Japan,Kuril Islands,Kuril Islands,44.608,146.994,2,0,6,None,U-HR,None
+290050,Etorofu-Atsonupuri [Atsonupuri],Japan,Kuril Islands,Kuril Islands,44.808,147.131,2,1,2,None,U-HHR,None
+290060,Nishihitokappuyama [Bogatyr Ridge],Japan,Kuril Islands,Kuril Islands,44.833,147.342,2,0,No confirmed eruptions,None,U-NHHR,None
+290061,Unnamed,Japan,Kuril Islands,Kuril Islands,45.03,147.208,2,0,No confirmed eruptions,None,U-NHHR,None
+290070,Etorofu-Yakeyama [Grozny Group],Japan,Kuril Islands,Kuril Islands,45.012,147.871,2,1,2,2.0,None,1.0
+290072,Odamoisan [Tebenkov],Japan,Kuril Islands,Kuril Islands,45.026,147.922,1,0,No confirmed eruptions,None,U-NHHR,None
+290080,Sashiusudake [Baransky],Japan,Kuril Islands,Kuril Islands,45.1,148.019,2,1,1,None,U-HHR,None
+290090,Chirippusan [Chirip],Japan,Kuril Islands,Kuril Islands,45.338,147.92,2,1,2,None,U-HHR,None
+290091,Rucharuyama [Golets-Tornyi Group],Japan,Kuril Islands,Kuril Islands,45.25,148.35,2,0,No confirmed eruptions,None,U-NHHR,None
+290100,Moyorodake [Medvezhia],Japan,Kuril Islands,Kuril Islands,45.389,148.838,2,1,2,1.0,None,1.0
+290110,Rakkibetsudake [Demon],Japan,Kuril Islands,Kuril Islands,45.5,148.85,2,0,No confirmed eruptions,None,U-NHHR,None
 290111,Ivao Group,Russia,Kuril Islands,Kuril Islands,45.77,149.68,2,0,No confirmed eruptions,None,U-NHHR,None
 290112,Rudakov,Russia,Kuril Islands,Kuril Islands,45.88,149.83,2,0,No confirmed eruptions,None,U-NHHR,None
 290113,Tri Sestry,Russia,Kuril Islands,Kuril Islands,45.93,149.92,2,0,No confirmed eruptions,None,U-NHHR,None
@@ -911,9 +911,9 @@ VolcanoID,V_Name,Country,Region,Subregion,Latitude,Longitude,PEI,H_active,VEI_Ho
 305030,Wudalianchi,China,Kamchatka and Mainland Asia,China (eastern),48.72,126.12,5,1,3,None,U-HHR,None
 305040,Jingbo,China,Kamchatka and Mainland Asia,China (eastern),44.08,128.83,5,0,Unknown VEI,None,U-HR,None
 305050,Longgang Group,China,Kamchatka and Mainland Asia,China (eastern),42.33,126.5,5,0,Unknown VEI,None,U-HR,None
-305060,Changbaishan,China-North Korea,Kamchatka and Mainland Asia,China (eastern),41.98,128.08,3,1,7,None,U-HHR,None
+305060,Changbaishan,China,Kamchatka and Mainland Asia,China (eastern),41.98,128.08,3,1,7,None,U-HHR,None
 306010,Xianjindao,North Korea,Kamchatka and Mainland Asia,Korea,41.33,128.0,4,0,No confirmed eruptions,None,U-NHHR,None
-306020,Ch'uga-ryong,North Korea-South Korea,Kamchatka and Mainland Asia,Korea,38.33,127.33,5,0,No confirmed eruptions,None,U-NHHR,None
+306020,Ch'uga-ryong,North Korea,Kamchatka and Mainland Asia,Korea,38.33,127.33,5,0,No confirmed eruptions,None,U-NHHR,None
 306030,Ulreung,South Korea,Kamchatka and Mainland Asia,Korea,37.5,130.87,3,0,6,None,U-HR,None
 306040,Halla,South Korea,Kamchatka and Mainland Asia,Korea,33.37,126.53,4,0,Unknown VEI,None,U-HR,None
 311010,Buldir,United States,Alaska,Aleutian Islands,52.35,175.911,1,0,No confirmed eruptions,None,U-NHHR,None
@@ -1151,7 +1151,7 @@ VolcanoID,V_Name,Country,Region,Subregion,Latitude,Longitude,PEI,H_active,VEI_Ho
 341100,Orizaba Pico de,Mexico,M?xico and Central America,M?xico,19.03,-97.268,5,1,5,3.0,None,3.0
 341110,San Mart?n,Mexico,M?xico and Central America,M?xico,18.57,-95.2,4,1,4,None,U-HHR,None
 341120,Chich?n El,Mexico,M?xico and Central America,M?xico,17.36,-93.228,4,1,5,None,U-HHR,None
-341130,Tacan?,Mexico-Guatemala,M?xico and Central America,M?xico,15.13,-92.112,5,1,4,None,U-HHR,None
+341130,Tacan?,Mexico,M?xico and Central America,M?xico,15.13,-92.112,5,1,4,None,U-HHR,None
 342020,Tajumulco,Guatemala,M?xico and Central America,Guatemala,15.034,-91.903,6,0,No confirmed eruptions,None,U-NHHR,None
 342030,Santa Mar?a,Guatemala,M?xico and Central America,Guatemala,14.756,-91.552,6,1,6,3.0,None,3.0
 342040,Almolonga,Guatemala,M?xico and Central America,Guatemala,14.82,-91.48,7,1,3,None,U-HHR,None
@@ -1169,12 +1169,12 @@ VolcanoID,V_Name,Country,Region,Subregion,Latitude,Longitude,PEI,H_active,VEI_Ho
 342141,Tahual,Guatemala,M?xico and Central America,Guatemala,14.43,-89.9,5,0,No confirmed eruptions,None,U-NHHR,None
 342150,Santiago Cerro,Guatemala,M?xico and Central America,Guatemala,14.33,-89.87,6,0,No confirmed eruptions,None,U-NHHR,None
 342160,Suchit?n,Guatemala,M?xico and Central America,Guatemala,14.4,-89.78,5,0,No confirmed eruptions,None,U-NHHR,None
-342170,Chingo,Guatemala-El Salvador,M?xico and Central America,Guatemala,14.12,-89.73,7,0,No confirmed eruptions,None,U-NHHR,None
+342170,Chingo,Guatemala,M?xico and Central America,Guatemala,14.12,-89.73,7,0,No confirmed eruptions,None,U-NHHR,None
 342180,Ixtepeque,Guatemala,M?xico and Central America,Guatemala,14.42,-89.68,6,0,No confirmed eruptions,None,U-NHHR,None
 342190,Ipala,Guatemala,M?xico and Central America,Guatemala,14.55,-89.63,5,0,No confirmed eruptions,None,U-NHHR,None
 342200,Chiquimula Volcanic Field,Guatemala,M?xico and Central America,Guatemala,14.83,-89.55,6,0,No confirmed eruptions,None,U-NHHR,None
 342210,Quezaltepeque,Guatemala,M?xico and Central America,Guatemala,14.57,-89.45,5,0,No confirmed eruptions,None,U-NHHR,None
-343001,San Diego,El Salvador-Guatemala,M?xico and Central America,El Salvador and Honduras,14.27,-89.48,6,0,No confirmed eruptions,None,U-NHHR,None
+343001,San Diego,El Salvador,M?xico and Central America,El Salvador and Honduras,14.27,-89.48,6,0,No confirmed eruptions,None,U-NHHR,None
 343002,Sing?il Cerro,El Salvador,M?xico and Central America,El Salvador and Honduras,14.05,-89.65,6,0,No confirmed eruptions,None,U-NHHR,None
 343010,Apaneca Range,El Salvador,M?xico and Central America,El Salvador and Honduras,13.891,-89.786,6,0,No confirmed eruptions,None,U-NHHR,None
 343020,Santa Ana,El Salvador,M?xico and Central America,El Salvador and Honduras,13.853,-89.63,5,1,3,2.0,None,2.0
@@ -1244,7 +1244,7 @@ VolcanoID,V_Name,Country,Region,Subregion,Latitude,Longitude,PEI,H_active,VEI_Ho
 351080,Galeras,Colombia,South America,Colombia,1.22,-77.37,6,1,3,3.0,None,3.0
 351090,Azufral,Colombia,South America,Colombia,1.08,-77.68,5,0,4,None,U-HR,None
 351100,Cumbal,Colombia,South America,Colombia,0.95,-77.87,4,1,2,None,U-HHR,None
-351110,Negro de Mayasquer Cerro,Colombia-Ecuador,South America,Colombia,0.828,-77.964,4,1,2,None,U-HHR,None
+351110,Negro de Mayasquer Cerro,Colombia,South America,Colombia,0.828,-77.964,4,1,2,None,U-HHR,None
 352001,Soche,Ecuador,South America,Ecuador,0.552,-77.58,3,0,5,None,U-HR,None
 352002,Chachimbiro,Ecuador,South America,Ecuador,0.468,-78.287,4,0,Unknown VEI,None,U-HR,None
 352003,Cuicocha,Ecuador,South America,Ecuador,0.308,-78.364,6,0,5,None,U-HR,None
@@ -1295,25 +1295,25 @@ VolcanoID,V_Name,Country,Region,Subregion,Latitude,Longitude,PEI,H_active,VEI_Ho
 354040,Tutupaca,Peru,South America,Per?,-17.025,-70.358,2,0,No confirmed eruptions,None,U-NHHR,None
 354050,Yucamane,Peru,South America,Per?,-17.18,-70.2,2,1,5,2.0,None,1.0
 354060,Casiri Nevados,Peru,South America,Per?,-17.47,-69.813,2,0,No confirmed eruptions,None,U-NHHR,None
-355010,Tacora,Chile-Peru,South America,Northern Chile Bolivia & Argentina,-17.72,-69.77,2,0,No confirmed eruptions,None,U-NHHR,None
+355010,Tacora,Chile,South America,Northern Chile Bolivia & Argentina,-17.72,-69.77,2,0,No confirmed eruptions,None,U-NHHR,None
 355011,Taapaca,Chile,South America,Northern Chile Bolivia & Argentina,-18.1,-69.5,2,0,Unknown VEI,None,U-HR,None
-355012,Parinacota,Chile-Bolivia,South America,Northern Chile Bolivia & Argentina,-18.17,-69.15,2,0,0,None,U-HR,None
+355012,Parinacota,Chile,South America,Northern Chile Bolivia & Argentina,-18.17,-69.15,2,0,0,None,U-HR,None
 355020,Guallatiri,Chile,South America,Northern Chile Bolivia & Argentina,-18.42,-69.092,2,1,2,1.0,None,1.0
 355021,Tambo Quemado,Bolivia,South America,Northern Chile Bolivia & Argentina,-18.62,-68.75,2,0,No confirmed eruptions,None,U-NHHR,None
 355030,Isluga,Chile,South America,Northern Chile Bolivia & Argentina,-19.15,-68.83,2,1,2,1.0,None,1.0
 355032,Tata Sabaya,Bolivia,South America,Northern Chile Bolivia & Argentina,-19.13,-68.53,2,0,No confirmed eruptions,None,U-NHHR,None
 355035,Jayu Khota Laguna,Bolivia,South America,Northern Chile Bolivia & Argentina,-19.45,-67.42,2,0,No confirmed eruptions,None,U-NHHR,None
 355036,Nuevo Mundo,Bolivia,South America,Northern Chile Bolivia & Argentina,-19.78,-66.48,2,0,No confirmed eruptions,None,U-NHHR,None
-355040,Irruputuncu,Chile-Bolivia,South America,Northern Chile Bolivia & Argentina,-20.73,-68.55,2,1,2,None,U-HHR,None
+355040,Irruputuncu,Chile,South America,Northern Chile Bolivia & Argentina,-20.73,-68.55,2,1,2,None,U-HHR,None
 355042,Pampa Luxsar,Bolivia,South America,Northern Chile Bolivia & Argentina,-20.85,-68.2,2,0,No confirmed eruptions,None,U-NHHR,None
-355050,Olca-Paruma,Chile-Bolivia,South America,Northern Chile Bolivia & Argentina,-20.93,-68.48,2,1,Unknown VEI,None,U-HHR,None
-355060,Ollag?e,Chile-Bolivia,South America,Northern Chile Bolivia & Argentina,-21.3,-68.18,2,0,No confirmed eruptions,None,U-NHHR,None
+355050,Olca-Paruma,Chile,South America,Northern Chile Bolivia & Argentina,-20.93,-68.48,2,1,Unknown VEI,None,U-HHR,None
+355060,Ollag?e,Chile,South America,Northern Chile Bolivia & Argentina,-21.3,-68.18,2,0,No confirmed eruptions,None,U-NHHR,None
 355061,Azufre Cerro del,Chile,South America,Northern Chile Bolivia & Argentina,-21.787,-68.237,2,0,No confirmed eruptions,None,U-NHHR,None
 355070,San Pedro,Chile,South America,Northern Chile Bolivia & Argentina,-21.88,-68.4,2,1,2,1.0,None,1.0
 355090,Putana,Chile,South America,Northern Chile Bolivia & Argentina,-22.55,-67.85,2,1,Unknown VEI,None,U-HHR,None
-355091,Sairecabur,Chile-Bolivia,South America,Northern Chile Bolivia & Argentina,-22.72,-67.892,2,0,No confirmed eruptions,None,U-NHHR,None
-355092,Licancabur,Chile-Bolivia,South America,Northern Chile Bolivia & Argentina,-22.83,-67.88,2,0,No confirmed eruptions,None,U-NHHR,None
-355093,Guayaques,Chile-Bolivia,South America,Northern Chile Bolivia & Argentina,-22.895,-67.566,2,0,No confirmed eruptions,None,U-NHHR,None
+355091,Sairecabur,Chile,South America,Northern Chile Bolivia & Argentina,-22.72,-67.892,2,0,No confirmed eruptions,None,U-NHHR,None
+355092,Licancabur,Chile,South America,Northern Chile Bolivia & Argentina,-22.83,-67.88,2,0,No confirmed eruptions,None,U-NHHR,None
+355093,Guayaques,Chile,South America,Northern Chile Bolivia & Argentina,-22.895,-67.566,2,0,No confirmed eruptions,None,U-NHHR,None
 355094,Purico Large cone(s),Chile,South America,Northern Chile Bolivia & Argentina,-23.0,-67.75,2,0,No confirmed eruptions,None,U-NHHR,None
 355095,Colachi,Chile,South America,Northern Chile Bolivia & Argentina,-23.236,-67.645,2,0,No confirmed eruptions,None,U-NHHR,None
 355096,Acamarachi,Chile,South America,Northern Chile Bolivia & Argentina,-23.3,-67.62,2,0,No confirmed eruptions,None,U-NHHR,None
@@ -1328,17 +1328,17 @@ VolcanoID,V_Name,Country,Region,Subregion,Latitude,Longitude,PEI,H_active,VEI_Ho
 355106,Negrillar El,Chile,South America,Northern Chile Bolivia & Argentina,-24.18,-68.25,2,0,No confirmed eruptions,None,U-NHHR,None
 355107,Pular,Chile,South America,Northern Chile Bolivia & Argentina,-24.188,-68.054,2,0,No confirmed eruptions,None,U-NHHR,None
 355108,Negrillar La,Chile,South America,Northern Chile Bolivia & Argentina,-24.28,-68.6,2,0,No confirmed eruptions,None,U-NHHR,None
-355109,Socompa,Chile-Argentina,South America,Northern Chile Bolivia & Argentina,-24.4,-68.25,2,0,Unknown VEI,None,U-HR,None
-355110,Llullaillaco,Chile-Argentina,South America,Northern Chile Bolivia & Argentina,-24.72,-68.53,2,1,2,None,U-HHR,None
-355112,Escorial Cerro,Chile-Argentina,South America,Northern Chile Bolivia & Argentina,-25.08,-68.37,2,0,No confirmed eruptions,None,U-NHHR,None
-355120,Lastarria,Chile-Argentina,South America,Northern Chile Bolivia & Argentina,-25.17,-68.5,2,0,No confirmed eruptions,None,U-NHHR,None
-355121,Cord?n del Azufre,Chile-Argentina,South America,Northern Chile Bolivia & Argentina,-25.33,-68.52,2,0,No confirmed eruptions,None,U-NHHR,None
-355122,Bayo Cerro,Chile-Argentina,South America,Northern Chile Bolivia & Argentina,-25.42,-68.58,2,0,No confirmed eruptions,None,U-NHHR,None
-355123,Nevada Sierra,Chile-Argentina,South America,Northern Chile Bolivia & Argentina,-26.48,-68.58,2,0,No confirmed eruptions,None,U-NHHR,None
-355124,Falso Azufre,Chile-Argentina,South America,Northern Chile Bolivia & Argentina,-26.8,-68.37,2,0,No confirmed eruptions,None,U-NHHR,None
-355125,Incahuasi Nevado de,Chile-Argentina,South America,Northern Chile Bolivia & Argentina,-27.042,-68.28,2,0,No confirmed eruptions,None,U-NHHR,None
-355130,Ojos del Salado Nevados,Chile-Argentina,South America,Northern Chile Bolivia & Argentina,-27.12,-68.55,2,0,Unknown VEI,None,U-HR,None
-355131,Solo El,Chile-Argentina,South America,Northern Chile Bolivia & Argentina,-27.108,-68.72,2,0,No confirmed eruptions,None,U-NHHR,None
+355109,Socompa,Chile,South America,Northern Chile Bolivia & Argentina,-24.4,-68.25,2,0,Unknown VEI,None,U-HR,None
+355110,Llullaillaco,Chile,South America,Northern Chile Bolivia & Argentina,-24.72,-68.53,2,1,2,None,U-HHR,None
+355112,Escorial Cerro,Chile,South America,Northern Chile Bolivia & Argentina,-25.08,-68.37,2,0,No confirmed eruptions,None,U-NHHR,None
+355120,Lastarria,Chile,South America,Northern Chile Bolivia & Argentina,-25.17,-68.5,2,0,No confirmed eruptions,None,U-NHHR,None
+355121,Cord?n del Azufre,Chile,South America,Northern Chile Bolivia & Argentina,-25.33,-68.52,2,0,No confirmed eruptions,None,U-NHHR,None
+355122,Bayo Cerro,Chile,South America,Northern Chile Bolivia & Argentina,-25.42,-68.58,2,0,No confirmed eruptions,None,U-NHHR,None
+355123,Nevada Sierra,Chile,South America,Northern Chile Bolivia & Argentina,-26.48,-68.58,2,0,No confirmed eruptions,None,U-NHHR,None
+355124,Falso Azufre,Chile,South America,Northern Chile Bolivia & Argentina,-26.8,-68.37,2,0,No confirmed eruptions,None,U-NHHR,None
+355125,Incahuasi Nevado de,Chile,South America,Northern Chile Bolivia & Argentina,-27.042,-68.28,2,0,No confirmed eruptions,None,U-NHHR,None
+355130,Ojos del Salado Nevados,Chile,South America,Northern Chile Bolivia & Argentina,-27.12,-68.55,2,0,Unknown VEI,None,U-HR,None
+355131,Solo El,Chile,South America,Northern Chile Bolivia & Argentina,-27.108,-68.72,2,0,No confirmed eruptions,None,U-NHHR,None
 355140,Copiap?,Chile,South America,Northern Chile Bolivia & Argentina,-27.3,-69.13,2,0,No confirmed eruptions,None,U-NHHR,None
 355150,Tuzgle Cerro,Argentina,South America,Northern Chile Bolivia & Argentina,-24.05,-66.48,2,0,No confirmed eruptions,None,U-NHHR,None
 355160,Aracar,Argentina,South America,Northern Chile Bolivia & Argentina,-24.25,-67.77,2,0,No confirmed eruptions,None,U-NHHR,None
@@ -1352,9 +1352,9 @@ VolcanoID,V_Name,Country,Region,Subregion,Latitude,Longitude,PEI,H_active,VEI_Ho
 356011,Easter Island,Chile,South America,Pacific Ocean (Chilean Islands),-27.15,-109.38,3,0,No confirmed eruptions,None,U-NHHR,None
 356020,Robinson Crusoe,Chile,South America,Pacific Ocean (Chilean Islands),-33.658,-78.85,1,1,1,None,U-HHR,None
 356040,Unnamed,Chile,South America,Pacific Ocean (Chilean Islands),-33.62,-76.83,1,0,No confirmed eruptions,None,U-NHHR,None
-357010,Tupungatito,Chile-Argentina,South America,Central Chile and Argentina,-33.4,-69.8,4,1,2,1.0,None,1.0
-357020,San Jos?,Chile-Argentina,South America,Central Chile and Argentina,-33.782,-69.897,4,1,2,1.0,None,1.0
-357021,Maipo,Chile-Argentina,South America,Central Chile and Argentina,-34.161,-69.833,3,1,2,1.0,None,1.0
+357010,Tupungatito,Chile,South America,Central Chile and Argentina,-33.4,-69.8,4,1,2,1.0,None,1.0
+357020,San Jos?,Chile,South America,Central Chile and Argentina,-33.782,-69.897,4,1,2,1.0,None,1.0
+357021,Maipo,Chile,South America,Central Chile and Argentina,-34.161,-69.833,3,1,2,1.0,None,1.0
 357022,Palomo,Chile,South America,Central Chile and Argentina,-34.608,-70.295,2,0,No confirmed eruptions,None,U-NHHR,None
 357023,Atuel Caldera(s) del,Argentina,South America,Central Chile and Argentina,-34.65,-70.05,2,0,No confirmed eruptions,None,U-NHHR,None
 357024,Risco Plateado,Argentina,South America,Central Chile and Argentina,-34.93,-70.0,2,0,No confirmed eruptions,None,U-NHHR,None
@@ -1377,7 +1377,7 @@ VolcanoID,V_Name,Country,Region,Subregion,Latitude,Longitude,PEI,H_active,VEI_Ho
 357073,Puesto Cortaderas,Argentina,South America,Central Chile and Argentina,-37.57,-69.62,2,0,No confirmed eruptions,None,U-NHHR,None
 357080,Antuco,Chile,South America,Central Chile and Argentina,-37.406,-71.349,2,1,3,2.0,None,1.0
 357081,Trocon,Argentina,South America,Central Chile and Argentina,-37.73,-70.9,2,0,No confirmed eruptions,None,U-NHHR,None
-357090,Copahue,Chile-Argentina,South America,Central Chile and Argentina,-37.85,-71.17,2,1,2,2.0,None,1.0
+357090,Copahue,Chile,South America,Central Chile and Argentina,-37.85,-71.17,2,1,2,2.0,None,1.0
 357091,Callaqui,Chile,South America,Central Chile and Argentina,-37.92,-71.45,2,1,2,None,U-HHR,None
 357092,Mari?aqui Laguna,Chile,South America,Central Chile and Argentina,-38.27,-71.1,2,0,No confirmed eruptions,None,U-NHHR,None
 357093,Tolguaca,Chile,South America,Central Chile and Argentina,-38.31,-71.645,2,0,No confirmed eruptions,None,U-NHHR,None
@@ -1389,16 +1389,16 @@ VolcanoID,V_Name,Country,Region,Subregion,Latitude,Longitude,PEI,H_active,VEI_Ho
 357112,Caburgua-Huelemolle,Chile,South America,Central Chile and Argentina,-39.25,-71.7,3,0,Unknown VEI,None,U-HR,None
 357120,Villarrica,Chile,South America,Central Chile and Argentina,-39.42,-71.93,3,1,5,2.0,None,2.0
 357121,Quetrupillan,Chile,South America,Central Chile and Argentina,-39.5,-71.7,2,1,2,None,U-HHR,None
-357122,Lan?n,Chile-Argentina,South America,Central Chile and Argentina,-39.633,-71.5,2,0,0,None,U-HR,None
+357122,Lan?n,Chile,South America,Central Chile and Argentina,-39.633,-71.5,2,0,0,None,U-HR,None
 357123,Huanquihue Group,Argentina,South America,Central Chile and Argentina,-39.88,-71.58,2,1,Unknown VEI,None,U-HHR,None
 357130,Mocho-Choshuenco,Chile,South America,Central Chile and Argentina,-39.927,-72.027,2,1,2,None,U-HHR,None
 357140,Carr?n-Los Venados,Chile,South America,Central Chile and Argentina,-40.35,-72.07,3,1,4,None,U-HHR,None
 357150,Puyehue-Cord?n Caulle,Chile,South America,Central Chile and Argentina,-40.59,-72.117,2,1,5,3.0,None,2.0
-357152,Pantoja Cerro,Chile-Argentina,South America,Central Chile and Argentina,-40.77,-71.95,2,0,No confirmed eruptions,None,U-NHHR,None
+357152,Pantoja Cerro,Chile,South America,Central Chile and Argentina,-40.77,-71.95,2,0,No confirmed eruptions,None,U-NHHR,None
 357153,Antillanca Group,Chile,South America,Central Chile and Argentina,-40.771,-72.153,2,0,5,None,U-HR,None
 357160,Puntiagudo-Cord?n Cenizos,Chile,South America,Central Chile and Argentina,-40.969,-72.264,2,1,Unknown VEI,None,U-HHR,None
 358010,Osorno,Chile,South America,Southern Chile and Argentina,-41.1,-72.493,2,1,4,3.0,None,2.0
-358011,Tronador,Chile-Argentina,South America,Southern Chile and Argentina,-41.157,-71.885,2,0,No confirmed eruptions,None,U-NHHR,None
+358011,Tronador,Chile,South America,Southern Chile and Argentina,-41.157,-71.885,2,0,No confirmed eruptions,None,U-NHHR,None
 358012,Cayutu?-La Viguer?a,Chile,South America,Southern Chile and Argentina,-41.25,-72.27,2,0,Unknown VEI,None,U-HR,None
 358020,Calbuco,Chile,South America,Southern Chile and Argentina,-41.326,-72.614,3,1,4,3.0,None,2.0
 358021,Cuernos del Diablo,Chile,South America,Southern Chile and Argentina,-41.4,-72.0,2,0,No confirmed eruptions,None,U-NHHR,None
@@ -1425,7 +1425,7 @@ VolcanoID,V_Name,Country,Region,Subregion,Latitude,Longitude,PEI,H_active,VEI_Ho
 358062,Aguilera,Chile,South America,Southern Chile and Argentina,-50.33,-73.75,2,0,5,None,U-HR,None
 358063,Reclus,Chile,South America,Southern Chile and Argentina,-50.964,-73.585,2,1,2,None,U-HHR,None
 358070,Burney Monte,Chile,South America,Southern Chile and Argentina,-52.33,-73.4,2,1,5,None,U-HHR,None
-358080,Palei-Aike Volcanic Field,Chile-Argentina,South America,Southern Chile and Argentina,-52.0,-70.0,2,0,Unknown VEI,None,U-HR,None
+358080,Palei-Aike Volcanic Field,Chile,South America,Southern Chile and Argentina,-52.0,-70.0,2,0,Unknown VEI,None,U-HR,None
 358090,Fueguino,Chile,South America,Southern Chile and Argentina,-54.95,-70.25,2,1,2,None,U-HHR,None
 360010,Saba,Netherlands,West Indies,West Indies,17.63,-63.23,2,1,Unknown VEI,None,U-HHR,None
 360020,Quill The,Netherlands,West Indies,West Indies,17.478,-62.96,2,0,4,None,U-HR,None
