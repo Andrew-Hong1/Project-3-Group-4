@@ -11,7 +11,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 
 
 //Use the D3 library to read in samples.json from the URL:
-const geoData = "https://s3.us-east-1.amazonaws.com/hdx-production-filestore/resources/7234d067-2d74-449a-9c61-22ae6d98d928/volcano.json?AWSAccessKeyId=AKIAXYC32WNAS5V67V55&Signature=y8CG%2BqOTIlaXEOtqPhHgg5yHXdY%3D&Expires=1696291670";
+const geoData = "https://s3.us-east-1.amazonaws.com/hdx-production-filestore/resources/7234d067-2d74-449a-9c61-22ae6d98d928/volcano.json?AWSAccessKeyId=AKIAXYC32WNAS5V67V55&Signature=FQXKLlZAwDvY8ETsPZrI17QUDg0%3D&Expires=1696293787";
 
 
 // Fetch the JSON data and console log it
@@ -99,52 +99,3 @@ function createLegend() {
     createLegend();
 });
 
-// Plotly Chart for Top 10 Volcanic Eruptions with the Highest Human Death Toll
-// Load the CSV file using Plotly.d3.csv
-Plotly.d3.csv('volcanic_eruptions_by_death_toll_df.csv', function(data) {
-
-    // Take the first 10 rows
-    var topTen = data.slice(0, 10);
-    
-    // Extract Volcanic Eruptions with Human Death Toll (Min) and Human Death Toll (Max) data for double horizontal bar graph
-    var deathtollMin = topTen.map(function(row) {
-        return row.Minimum;
-      });
-    
-      var deathtollMax = topTen.map(function(row) {
-        return row.Maximum;
-      });
-    
-      var volcanicEruption = topTen.map(function(row) {
-        return row.Volcano;
-      });
-    
-    // Create a horizontal bar graph using Plotly.newPlot
-    var graphData = [
-        {
-          x: volcanicEruption,
-          y: deathtollMin,
-          type: 'bar',
-          orientation: 'h',
-          name: 'Human Death Toll (Min)'
-        },
-        {
-          x: volcanicEruption,
-          y: deathtollMax,
-          type: 'bar',
-          orientation: 'h',
-          name: 'Human Death Toll (Max)'
-        }
-      ];
-    
-      var layout = {
-        title: 'Top 10 Volcanic Eruptions with the Highest Human Death Toll',
-        xaxis:  {title: 'Volcanic Eruption'},
-        yaxis: {title: 'Human Death Toll'},
-        // Min and Max Death Tolls displayed next to each other
-        barmode: 'group'
-      };
-    
-      Plotly.newPlot('bar-graph', graphData, layout);
-    });
-    
