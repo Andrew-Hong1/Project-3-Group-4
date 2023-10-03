@@ -83,8 +83,8 @@ function createLegend() {
         var legend = L.control({position: 'bottomright'});
         legend.onAdd = function () {
             var div = L.DomUtil.create('div', 'info legend');
-            var colors = ["#FF0000", "#FD4900", "#F66D00", "#E98B00", "#D7A700", "#BFBF00", "#A0D600", "#76EB00", "#FFFFFF"];
-            var labels = ["VEI 6", "VEI 5", "VEI 4", "VEI 3", "VEI 2", "VEI 1", "VEI 0", "No Confirmed Eruptions", "Unknown"]
+            var colors = ["#FF0000", "#FD4900", "#F66D00", "#E98B00", "#D7A700", "#BFBF00", "#A0D600", "#76EB00", "#00ff00","#FFFFFF"];
+            var labels = ["VEI 7","VEI 6", "VEI 5", "VEI 4", "VEI 3", "VEI 2", "VEI 1", "VEI 0", "No Confirmed Eruptions", "Unknown"]
             // title
             div.innerHTML += '<h4>Volcano VEI Holoce</h4>';
             for (var i = 0; i < colors.length; i++) {
