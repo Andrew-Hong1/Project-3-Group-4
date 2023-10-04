@@ -1,6 +1,12 @@
-# Project-3-Group-4  :
+# Project-3-Group-4  : The Impact of Explosive Volcanoes
 Project 3 repository for the UT Austin Data Analysis Bootcamp.
 
+## Background
+Volcanoes, as natural wonders, have fascinated scientists and the public alike for centuries. In order to better understand these geological features and assess their potential impact on human populations, we created an interactive map using volcano data from the Global Volcano Model (GVM) and The International Association of Volcanology and Chemistry of the Earth’s Interior (IAVCEI) geojson dataset to provide a comprehensive visualization of volcanoes worldwide, highlighting their activity levels and population exposure.
+
+## Getting Started
+### Prerequistes
+You must have Python, Anaconda, and Pip installed
 Important: To view the data in the HTML file, complete the following steps each day:
 1. Click on this link: https://data.humdata.org/dataset/volcano-population-exposure-index-gvm
 2. Scroll down to where you see volcano.json and click download
@@ -27,10 +33,6 @@ https://en.wikipedia.org/wiki/Holocene
 A long-term volcano hazard assessment report is a publication that summarizes the types and likelihood of future hazardous phenomena expected to occur at a specific volcano or volcanic region. The report typically includes a summary of the specific hazards, their impact areas, and a map showing ground-hazard zones. The assessments are also critical for planning long-term land-use, and effective emergency-response measures, especially when a volcano begins to show signs of unrest.
 https://www.usgs.gov/programs/VHP/volcano-hazard-assessments-are-based-geologic-record
 
-## Getting Started
-### Prerequistes
-You must have Python, Anaconda, and Pip installed
-
 ## Data
 The data we pulled was from a GeoJson_flask file. We were able to srape the data in Jupyter lab to export as CSV files to make our visualizations. 
 
@@ -44,6 +46,9 @@ The data we pulled was from a GeoJson_flask file. We were able to srape the data
 
 ## Conclusions
 
+## Supporting Articles
+* [Tambora 1815: Just How Big Was The Eruption? Erik Klemetti](https://www.wired.com/2015/04/tambora-1815-just-big-eruption/)
+  
 ## Built With
 * Python - Programming Language
 * Pandas - Data Analysis library
