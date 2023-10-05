@@ -14,7 +14,7 @@ def root():
 @app.route('/fetch_geojson', methods=['GET'])
 def fetch_geojson():
     try:
-        geojson_url = "https://s3.us-east-1.amazonaws.com/hdx-production-filestore/resources/7234d067-2d74-449a-9c61-22ae6d98d928/volcano.json?AWSAccessKeyId=AKIAXYC32WNAS5V67V55&Signature=loFDVes3Gd7vPCR8BPmUT3PTjS0%3D&Expires=1696378947"
+        geojson_url = "https://s3.us-east-1.amazonaws.com/hdx-production-filestore/resources/7234d067-2d74-449a-9c61-22ae6d98d928/volcano.json?AWSAccessKeyId=AKIAXYC32WNAS5V67V55&Signature=CEYaPBMw7cZeR1gQuDfFRxWpv5A%3D&Expires=1696462535"
         response = requests.get(geojson_url)
 
         if response.status_code == 200:

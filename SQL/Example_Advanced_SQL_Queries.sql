@@ -32,6 +32,15 @@ JOIN vei_tbl ON eruptions_tbl.VEI = vei_tbl.VEI
 WHERE vd.risk IS NOT NULL AND vd.risk <> 'None'
 ORDER BY vd.risk DESC, hdi.HDI DESC;
 
+-- List Volcanoes with Risk Level 3 w/ Periodicity:
+SELECT vd.V_Name, vd.risk, hdi.Nation AS Country, hdi.HDI, eruptions_tbl.VEI, vei_tbl.Ejecta_Volume, vei_tbl.periodicity
+FROM volcano_data_tbl vd
+JOIN human_development_index_tbl hdi ON vd.Country = hdi.Nation
+JOIN eruptions_tbl ON vd.V_Name = eruptions_tbl.volcano_name
+JOIN vei_tbl ON eruptions_tbl.VEI = vei_tbl.VEI
+WHERE vd.risk IS NOT NULL AND vd.risk <> 'None' AND vd.risk = '3.0'
+ORDER BY vd.risk DESC, hdi.HDI DESC;
+
 --Find Countries with Active Volcanoes and Low HDI:
 --This query retrieves data about countries with active volcanoes and a low Human Development Index (HDI) below 0.6.
 --It calculates the total count of active volcanoes for each country and presents the results sorted by the total count of active volcanoes in descending order.
