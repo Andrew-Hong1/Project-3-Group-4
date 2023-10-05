@@ -21,6 +21,10 @@ To view the Geojson_flask file, complete the following steps each day:
 5. Using bash or command prompt, run Geojson_flask.py
 6. Open your browser and type in localhost:5000/fetch_geojson
 
+### Volcano Exposure Index (VEI) Defintion: VEI is a relative measure of the explosiveness of volcanic eruptions. It was devised by Chris Newhall of the United States Geological Survey and Stephen Self at the University of Hawaii in 1982. Newhall and Self, 1982
+
+### Population Exposure Index (PEI) Defintion): Population exposure is defined as the number of people determined to be exposed to a hazard according to a hazard-specific methodology.
+
 ### U-NHHR/U-HHR Definition: 
 Table 1 Identity of Italy’s volcanoes in each Hazard-PEI group. Those volcanoes with a sufficient record for determining a hazard score are deemed ‘classified’ (top). Those without sufficient data are ‘Unclassified’ (bottom). The unclassified volcanoes are divided into groups: U-NHHR is Unclassified No Historic or Holocene Record: that is there are no confirmed eruptions recorded in the Holocene. UHR is Unclassified with Holocene Record: that is there are confirmed eruptions recorded during the Holocene, but no historical (post-1500) events. U-HHR is Unclassified with Historic and Holocene record. The unclassified volcanoes in bold have experienced unrest or eruptions since 1900 AD, and those in red have records of at least one Holocene VEI ≥4 eruption.
 https://kipdf.com/country-and-regional-profiles-of-volcanic-hazard-and-risk_5ad5dcbd7f8b9a44528b45c5.html
@@ -46,9 +50,19 @@ The data we pulled was from a GeoJson_flask file. We were able to srape the data
 ![volcano_db_erd pgerd](https://github.com/Andrew-Hong1/Project-3-Group-4/assets/134234019/70628dc8-3d49-4642-87f8-71b0b8aa0a16)
 
 ## Conclusions
+* Human Development Index impacts how countries handle the aftermath of volcnoes
+  * Countries with a lower HDI have impacted human death toll compred to countries with higher HDI
+* Countries with some of the most active volcanoes are located in the higher HDI (ex. Japan, US) and are able to support more through Humanitarian Aid and healthcare
+* US has the most volcanoes
+* Indonesia has the most active volcanoes
 
 ## Supporting Articles
 * [Tambora 1815: Just How Big Was The Eruption? Erik Klemetti](https://www.wired.com/2015/04/tambora-1815-just-big-eruption/)
+* [Populations around Holocene volcanoes and development of a Population Exposure Index](https://www.researchgate.net/publication/280714829_Populations_around_Holocene_volcanoes_and_development_of_a_Population_Exposure_Index)
+* [Volcano Explosivity Index](https://en.wikipedia.org/wiki/Volcanic_explosivity_index)
+* [Volcanic Eruptions by Death Toll ](https://en.wikipedia.org/wiki/List_of_volcanic_eruptions_by_death_toll)
+* [List of countries by Human Development Index](https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index)
+* [Population Exposure Index(GVM) JSON from United Nations Office for Disaster Risk Reduction (UNDRR)](https://data.humdata.org/dataset/a60ac839-920d-435a-bf7d-25855602699d/resource/7234d067-2d74-449a-9c61-22ae6d98d928/download/volcano.json)
   
 ## Built With
 * Python - Programming Language
