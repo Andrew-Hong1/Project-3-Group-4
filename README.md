@@ -1,4 +1,4 @@
-# Project-3-Group-4  : The Impact of Explosive Volcanoes
+# Project-3-Group-4  : ![The Impact of Explosive Volcanoes](https://docs.google.com/presentation/d/1qQRJh5pbADaoJGD35U6Mx57K7QUhPZ-IfFz2ky2Aczk/edit?usp=sharing)
 Project 3 repository for the UT Austin Data Analysis Bootcamp.
 
 ## Background
