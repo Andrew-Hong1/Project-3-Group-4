@@ -1,5 +1,5 @@
 // Use the D3 library to read in samples.json from the URL:
-const geoData = "https://s3.us-east-1.amazonaws.com/hdx-production-filestore/resources/7234d067-2d74-449a-9c61-22ae6d98d928/volcano.json?AWSAccessKeyId=AKIAXYC32WNAS5V67V55&Signature=lRec%2FgLc6b2rhXnuD9eeOoOFjgI%3D&Expires=1696467823";
+const geoData = "https://s3.us-east-1.amazonaws.com/hdx-production-filestore/resources/7234d067-2d74-449a-9c61-22ae6d98d928/volcano.json?AWSAccessKeyId=AKIAXYC32WNAS5V67V55&Signature=71rAPS%2BmvVogKDbLtz1koT%2BlZNA%3D&Expires=1696542179";
 
 d3.json(geoData).then(function(data) {
     console.log(data);
