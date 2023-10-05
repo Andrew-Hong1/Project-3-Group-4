@@ -1,5 +1,7 @@
-# Project-3-Group-4  : ![The Impact of Explosive Volcanoes](https://docs.google.com/presentation/d/1qQRJh5pbADaoJGD35U6Mx57K7QUhPZ-IfFz2ky2Aczk/edit?usp=sharing)
+# Project-3-Group-4  : The Impact of Explosive Volcanoes
 Project 3 repository for the UT Austin Data Analysis Bootcamp.
+
+![Presentation: The Impact of Explosive Volcanoes](https://docs.google.com/presentation/d/1qQRJh5pbADaoJGD35U6Mx57K7QUhPZ-IfFz2ky2Aczk/edit?usp=sharing)
 
 ## Background
 Volcanoes, as natural wonders, have fascinated scientists and the public alike for centuries. In order to better understand these geological features and assess their potential impact on human populations, we created an interactive map using volcano data from the Global Volcano Model (GVM) and The International Association of Volcanology and Chemistry of the Earth’s Interior (IAVCEI) geojson dataset to provide a comprehensive visualization of volcanoes worldwide, highlighting their activity levels and population exposure.
