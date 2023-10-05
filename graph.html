@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Volcano Events Visualization</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <style>
+
+        body {
+            font-family: 'Arial', sans-serif;
+            background-image: url('https://media.istockphoto.com/id/670551650/photo/volcanic-mountain-in-eruption.jpg?s=612x612&w=0&k=20&c=k7EJKTpb9e1fLFuvHzB3pEIEr61xBHSCYpK7n0So2Qk=');
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
+            color: white;
+        }
+
+        #content {
+            background-color: rgba(0, 0, 0, 0.7);
+            padding: 20px;
+            border-radius: 10px;
+            margin: 50px;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        select {
+            margin: 10px 0;
+        }
+
+        #plot {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="content">
+        <h1>Volcano Event Analysis</h1>
+
+        <!-- Dropdown for Regions -->
+        <l<label for="selDataset">Choose a region:</label>>
+        <select id="selDataset">
+        
+        </select>
+
+        <!-- Plotly Graph -->
+        <div id="plot"></div>
+    </div>
+
+
+    <script src="plots.js"></script>
+  
+</body>
+
+</html>
+
+
+
+
+
