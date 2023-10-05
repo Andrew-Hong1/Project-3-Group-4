@@ -72,11 +72,12 @@ The data we pulled was from a GeoJson_flask file. We were able to srape the data
 * Python - Programming Language
 * Pandas - Data Analysis library
 * Conda - Package Manager
-* Flask - 
+* Leaflet
+* Flask 
+* HTML
 * JavaScript
 * Plotly
 * js.chart
-* HTML
 * SQL
 
 ## Authors
