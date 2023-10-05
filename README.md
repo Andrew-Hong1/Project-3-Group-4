@@ -23,9 +23,11 @@ To view the Geojson_flask file, complete the following steps each day:
 5. Using bash or command prompt, run Geojson_flask.py
 6. Open your browser and type in localhost:5000/fetch_geojson
 
-### Volcano Exposure Index (VEI) Defintion: VEI is a relative measure of the explosiveness of volcanic eruptions. It was devised by Chris Newhall of the United States Geological Survey and Stephen Self at the University of Hawaii in 1982. Newhall and Self, 1982
+### Volcano Exposure Index (VEI) Definition: 
+VEI is a relative measure of the explosiveness of volcanic eruptions. It was devised by Chris Newhall of the United States Geological Survey and Stephen Self at the University of Hawaii in 1982. Newhall and Self, 1982
 
-### Population Exposure Index (PEI) Defintion): Population exposure is defined as the number of people determined to be exposed to a hazard according to a hazard-specific methodology.
+### Population Exposure Index (PEI) Definition): 
+Population exposure is defined as the number of people determined to be exposed to a hazard according to a hazard-specific methodology.
 
 ### U-NHHR/U-HHR Definition: 
 Table 1 Identity of Italy’s volcanoes in each Hazard-PEI group. Those volcanoes with a sufficient record for determining a hazard score are deemed ‘classified’ (top). Those without sufficient data are ‘Unclassified’ (bottom). The unclassified volcanoes are divided into groups: U-NHHR is Unclassified No Historic or Holocene Record: that is there are no confirmed eruptions recorded in the Holocene. UHR is Unclassified with Holocene Record: that is there are confirmed eruptions recorded during the Holocene, but no historical (post-1500) events. U-HHR is Unclassified with Historic and Holocene record. The unclassified volcanoes in bold have experienced unrest or eruptions since 1900 AD, and those in red have records of at least one Holocene VEI ≥4 eruption.
